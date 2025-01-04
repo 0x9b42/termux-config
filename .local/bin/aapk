@@ -1,0 +1,175 @@
+#!/bin/bash
+ijo='\e[0;32m'
+o='\e[0m'
+
+mob_help() {
+    echo -e \
+"
+aapk v0.0.1-sigma
+just a duct-and-tape personal apk modding script (needs root)
+Copyright (C) 2025 0x9b42
+
+Usage: aapk COMMAND ... [OPTIONS]
+
+Commands:
+h | help        prints help
+l | list        prints installed apps' package name
+f | find        find package name
+x | extract     fetch a package's apk file
+i | install     install apk file
+u | uninstall   remove package installation
+s | sign        sign apk file
+m | merge       convert split apks to apk
+d | decode      decompile apk file
+b | build       build decompiled apk
+
+Depends on:
+github.com/REAndroid/APKEditor + openjdk-17
+Termux:API
+"
+    exit $1
+}
+
+[ ! $1 ] && mob_help 1
+
+apps() {
+    su -c ls /data &>/dev/null
+    [ $? -eq 1 ] && echo are you rooted? && exit 1
+
+    packages="$(su -c pm list packages | sed 's/package://g')"
+
+    [ ! $1 ] && echo "$packages" && exit 0
+
+    case $1 in
+        grep)
+            echo "$packages" | grep -Ei $2
+            ;;
+        uninstall)
+            read -p "are you sure? [y/N] " a
+            [[ $a = y ]] && {
+                read -p "maji desuka? [y/N] " b
+                [[ $b != y ]] && {
+                    echo exiting
+                    exit 0
+                } || {
+                    echo removing... &&
+                    su -c pm uninstall -k --user 0 $2 &&
+                    echo clearing data and signature... &&
+                    su -c pm clear $2 &&
+                    su -c rm -fr /data/data/$2 &&
+                    su -c rm -fr /data/dalvik-cache/arm/*$2* &&
+                    echo package $2 removed succesfully.
+                } || {
+                    echo error. exiting...
+                    exit 1
+                }
+            } || {
+                echo exiting...
+                exit 0
+            }
+    esac
+}
+
+signapk() {
+    uapk=$1
+    key=$HOME/android/0x9b42.keystore
+    key_pass=wotabaka
+    key_alias=soulcryptic
+
+    signed_apk="${uapk%.*}_signed.apk"
+
+    echo "Signing $uapk..."
+    apksigner sign --ks "$key" \
+        --ks-key-alias "$key_alias" \
+        --ks-pass pass:"$key_pass" \
+        --out "$signed_apk" \
+        "$uapk"
+
+    echo "Verifying signature..."
+    apksigner verify -v "$signed_apk"
+
+    echo -e $ijo"Signed APK created$o: $signed_apk"
+}
+
+getapk() {
+    [ ! $1 ] && {
+        echo missing package name, exiting...
+        exit 1
+    }
+    [ -z $(command -v zip) ] &&
+        echo zip not installed, exiting... && exit 1
+
+    APKS=$(su -c pm path $1 | cut -d: -f2)
+    [ -z "$APKS" ] && {
+        echo "No apk files found for package $1"
+        return 1
+    }
+
+    TMP=.getapktempdir
+
+    mkdir -p $TMP
+    echo "Extracting APK file(s)..."
+
+    for APK in $APKS
+    do
+        cp "$APK" $TMP
+    done
+
+    JML=$(ls "$TMP/"*.apk | wc -l)
+
+    [ $JML -eq 1 ] && {
+        mv "$TMP"/*.apk "$1.apk"
+        echo -e "Extracted $1.apk"
+    } || {
+        echo -e "Found split apks: $ijo$JML$o. Packing..."
+        zip -j "$1.apks" "$TMP"/*.apk
+        echo -e "Extracted $1.apks"
+    }
+
+    echo -e "${ijo}Extraction complete.$o"
+    rm -fr "$TMP"
+}
+
+apkeditor() {
+    java -jar ~/android/tools/jar/APKEditor-1.4.1.jar "$@"
+}
+
+case $1 in
+    h|help)
+        mob_help 0
+        ;;
+    l|list)
+        apps
+        ;;
+    f|find)
+        apps grep $2
+        ;;
+    i|install)
+        xdg-open "$2" || {
+            echo error no termux api
+            exit 1
+        }
+        ;;
+    u|uninstall)
+        apps uninstall $2
+        ;;
+    x|extract)
+        getapk $2
+        ;;
+    s|sign)
+        signapk "$2"
+        ;;
+    m|merge)
+        shift
+        apkeditor m -i "$@"
+        ;;
+    d|decode)
+        shift
+        apkeditor d -i "$@"
+        ;;
+    b|build)
+        shift
+        apkeditor b -i "$@"
+        ;;
+    *) mob_help 1 ;;
+esac
