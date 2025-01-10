@@ -16,4 +16,7 @@ set statusline=%f%m%r\ %=0x%O\ %b\ 0x%B\ %=%l:%c\ %L
 
 command! Smali2Java let @a=expand('%:r') | tabe | execute 'read !smalitojava ' . @a . '.smali' | execute 'edit ' . @a . '.java'
 
+"command! Smali2Java let @a=expand('%:r') | tabnew | !smalitojava shellescape(@a . '.smali') | file shellescape(@a . '.java')
+
+
 ]]
