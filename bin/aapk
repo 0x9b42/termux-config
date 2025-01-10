@@ -1,0 +1,182 @@
+#!/bin/bash
+ijo='\e[0;32m'
+o='\e[0m'
+
+mob_help() {
+    echo -e \
+"
+aapk v0.0.1-sigma
+just a duct-and-tape personal apk modding script (needs root)
+Copyright (C) 2025 0x9b42
+
+Usage: aapk COMMAND ... [OPTIONS]
+
+Commands:
+h | help        prints help
+l | list        prints installed apps' package name
+f | find        find package name
+x | extract     fetch a package's apk file
+i | install     install apk file
+u | uninstall   remove package installation
+s | sign        sign apk file
+m | merge       convert split apks to apk
+d | decode      decompile apk file
+b | build       build decompiled apk
+
+Depends on:
+github.com/REAndroid/APKEditor + openjdk-17
+Termux:API
+"
+    exit $1
+}
+
+# exit if no command provided
+[ ! $1 ] && mob_help 1
+
+apps() {
+    su -c ls /data &>/dev/null
+    [ $? -eq 1 ] && echo are you rooted? && exit 1
+
+    packages="$(su -c pm list packages | sed 's/package://g')"
+
+    [ ! $1 ] && echo "$packages" && exit 0
+
+    case $1 in
+        grep)
+            echo "$packages" | grep -Ei $2
+            ;;
+        install)
+            xdg-open "$2" || {
+                echo error no termux api
+                exit 1
+            }
+            ;;
+        uninstall)
+            am start \
+                -a android.intent.action.DELETE \
+                -d package:$2 ||
+            {
+                echo error. exiting...
+                exit 1
+            }
+    esac
+}
+
+signapk() {
+    uapk=$1
+    key=$HOME/android-sdk/testkey.jks
+    key_pass=testkey
+    key_alias=testkey
+
+    signed_apk="${uapk%.*}_signed.apk"
+
+    echo "Optimizing apk..."
+    zipalign 4 "$uapk" _.apk &&
+
+    echo "Signing $uapk..." &&
+    apksigner sign --ks "$key" \
+        --ks-key-alias "$key_alias" \
+        --ks-pass pass:"$key_pass" \
+        --out "$signed_apk" \
+        _.apk &&
+
+    rm _.apk &&
+
+    echo "Verifying signature..." &&
+    apksigner verify -v "$signed_apk" &&
+
+    echo -e $ijo"Signed APK created$o: $signed_apk" ||
+    {
+        echo error signing $uapk && rm "$signed_apk"*
+    }
+}
+
+getapk() {
+    # package name required
+    [ ! $1 ] && {
+        echo missing package name, exiting...
+        exit 1
+    }
+
+    # get package path
+    APKS=$(su -c pm path $1 | cut -d: -f2)
+
+    # exit if no path found
+    [ -z "$APKS" ] && {
+        echo "No apk files found for package $1"
+        return 1
+    }
+
+    # temporary dir container for apks
+    TMP=.getapktempdir
+    mkdir -p $TMP
+
+    echo "Extracting APK file(s)..."
+    for APK in $APKS
+    do
+        cp "$APK" $TMP
+    done
+
+    # the number of apk files found
+    JML=$(ls "$TMP/"*.apk | wc -l)
+
+    # different action for split apks
+    [ $JML -eq 1 ] && {
+        mv "$TMP"/*.apk "$1.apk"
+        echo -e "Extracted $1.apk"
+    } || {
+        # zip required for split apks
+        [ -z $(command -v zip) ] &&
+            echo zip not installed, exiting... && exit 1
+
+        echo -e "Found split apks: $ijo$JML$o. Packing..."
+        zip -j "$1.apks" "$TMP"/*.apk
+        echo -e "Extracted $1.apks"
+    }
+
+    echo -e "${ijo}Extraction complete.$o"
+
+    # clean temp dir
+    rm -fr "$TMP"
+}
+
+apkeditor() {
+    java -jar ~/.local/tools/jar/APKEditor-1.4.1.jar "$@"
+}
+
+case $1 in
+    h|help)
+        mob_help 0
+        ;;
+    l|list)
+        apps
+        ;;
+    f|find)
+        apps grep $2
+        ;;
+    i|install)
+        apps install "$2"
+        ;;
+    u|uninstall)
+        apps uninstall $2
+        ;;
+    x|extract)
+        getapk $2
+        ;;
+    s|sign)
+        signapk "$2"
+        ;;
+    m|merge)
+        shift
+        apkeditor m -i "$@"
+        ;;
+    d|decode)
+        shift
+        apkeditor d -i "$@"
+        ;;
+    b|build)
+        shift
+        apkeditor b -i "$@"
+        ;;
+    *) mob_help 1 ;;
+esac

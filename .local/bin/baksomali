@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar ~/android/tools/jar/baksmali-2.5.2.jar "$@"
+java -jar ~/.local/tools/jar/baksmali-2.5.2.jar "$@"

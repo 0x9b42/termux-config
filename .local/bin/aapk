@@ -30,6 +30,7 @@ Termux:API
     exit $1
 }
 
+# exit if no command provided
 [ ! $1 ] && mob_help 1
 
 apps() {
@@ -44,37 +45,28 @@ apps() {
         grep)
             echo "$packages" | grep -Ei $2
             ;;
+        install)
+            xdg-open "$2" || {
+                echo error no termux api
+                exit 1
+            }
+            ;;
         uninstall)
-            read -p "are you sure? [y/N] " a
-            [[ $a = y ]] && {
-                read -p "maji desuka? [y/N] " b
-                [[ $b != y ]] && {
-                    echo exiting
-                    exit 0
-                } || {
-                    echo removing... &&
-                    su -c pm uninstall -k --user 0 $2 &&
-                    echo clearing data and signature... &&
-                    su -c pm clear $2 &&
-                    su -c rm -fr /data/data/$2 &&
-                    su -c rm -fr /data/dalvik-cache/arm/*$2* &&
-                    echo package $2 removed succesfully.
-                } || {
-                    echo error. exiting...
-                    exit 1
-                }
-            } || {
-                echo exiting...
-                exit 0
+            am start \
+                -a android.intent.action.DELETE \
+                -d package:$2 ||
+            {
+                echo error. exiting...
+                exit 1
             }
     esac
 }
 
 signapk() {
     uapk=$1
-    key=$HOME/android/0x9b42.keystore
-    key_pass=wotabaka
-    key_alias=soulcryptic
+    key=$HOME/android-sdk/testkey.jks
+    key_pass=testkey
+    key_alias=testkey
 
     signed_apk="${uapk%.*}_signed.apk"
 
@@ -100,46 +92,56 @@ signapk() {
 }
 
 getapk() {
+    # package name required
     [ ! $1 ] && {
         echo missing package name, exiting...
         exit 1
     }
-    [ -z $(command -v zip) ] &&
-        echo zip not installed, exiting... && exit 1
 
+    # get package path
     APKS=$(su -c pm path $1 | cut -d: -f2)
+
+    # exit if no path found
     [ -z "$APKS" ] && {
         echo "No apk files found for package $1"
         return 1
     }
 
+    # temporary dir container for apks
     TMP=.getapktempdir
-
     mkdir -p $TMP
-    echo "Extracting APK file(s)..."
 
+    echo "Extracting APK file(s)..."
     for APK in $APKS
     do
         cp "$APK" $TMP
     done
 
+    # the number of apk files found
     JML=$(ls "$TMP/"*.apk | wc -l)
 
+    # different action for split apks
     [ $JML -eq 1 ] && {
         mv "$TMP"/*.apk "$1.apk"
         echo -e "Extracted $1.apk"
     } || {
+        # zip required for split apks
+        [ -z $(command -v zip) ] &&
+            echo zip not installed, exiting... && exit 1
+
         echo -e "Found split apks: $ijo$JML$o. Packing..."
         zip -j "$1.apks" "$TMP"/*.apk
         echo -e "Extracted $1.apks"
     }
 
     echo -e "${ijo}Extraction complete.$o"
+
+    # clean temp dir
     rm -fr "$TMP"
 }
 
 apkeditor() {
-    java -jar ~/android/tools/jar/APKEditor-1.4.1.jar "$@"
+    java -jar ~/.local/tools/jar/APKEditor-1.4.1.jar "$@"
 }
 
 case $1 in
@@ -153,10 +155,7 @@ case $1 in
         apps grep $2
         ;;
     i|install)
-        xdg-open "$2" || {
-            echo error no termux api
-            exit 1
-        }
+        apps install "$2"
         ;;
     u|uninstall)
         apps uninstall $2

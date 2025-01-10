@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar ~/android/tools/jar/smali-2.5.2.jar "$@"
+java -jar ~/.local/tools/jar/smali-2.5.2.jar "$@"
