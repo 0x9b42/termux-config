@@ -78,17 +78,25 @@ signapk() {
 
     signed_apk="${uapk%.*}_signed.apk"
 
-    echo "Signing $uapk..."
+    echo "Optimizing apk..."
+    zipalign 4 "$uapk" _.apk &&
+
+    echo "Signing $uapk..." &&
     apksigner sign --ks "$key" \
         --ks-key-alias "$key_alias" \
         --ks-pass pass:"$key_pass" \
         --out "$signed_apk" \
-        "$uapk"
+        _.apk &&
 
-    echo "Verifying signature..."
-    apksigner verify -v "$signed_apk"
+    rm _.apk &&
 
-    echo -e $ijo"Signed APK created$o: $signed_apk"
+    echo "Verifying signature..." &&
+    apksigner verify -v "$signed_apk" &&
+
+    echo -e $ijo"Signed APK created$o: $signed_apk" ||
+    {
+        echo error signing $uapk && rm "$signed_apk"*
+    }
 }
 
 getapk() {

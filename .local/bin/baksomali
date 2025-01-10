@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar ~/android/tools/jar/baksmali-2.5.2.jar "$@"

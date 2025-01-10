@@ -12,6 +12,8 @@ colo retrobox
 hi Normal guibg=NONE
 hi SignColumn guibg=NONE
 
-set statusline=%f%m%r%=0x%O\ %b\ 0x%B%=%l:%c\ %L
+set statusline=%f%m%r\ %=0x%O\ %b\ 0x%B\ %=%l:%c\ %L
+
+command! Smali2Java let @a=expand('%:r') | tabe | execute 'read !smalitojava ' . @a . '.smali' | execute 'edit ' . @a . '.java'
 
 ]]

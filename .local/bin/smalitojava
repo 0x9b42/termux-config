@@ -1,0 +1,3 @@
+#!/bin/bash
+smali2java -path_to_smali "$1"
+cat "${1%.*}.java"

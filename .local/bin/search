@@ -1,11 +1,11 @@
 #!/bin/env bash
-[ ! $1 ] &&
+[ ! "$1" ] &&
     echo 'USAGE: <query> [-d dir] [-e ext] [-i]' && exit 1
 
 query="$1" dir=. col=--color=auto
 shift
 
-while getopts "d:e:t:ir:" opt
+while getopts "d:e:t:ir:v" opt
 do
     case $opt in
         d) dir="$OPTARG" ;;
@@ -13,12 +13,38 @@ do
         t) typ="$OPTARG" ;;
         r) r=true; rep="$OPTARG" ;;
         i) ign=i ;;
+        v) v=true ;;
         *)
-            echo "bejirlah: " >&2;
+            echo "bejirlah" >&2;
             exit 1
             ;;
     esac
 done
+
+[ $typ ] && {
+    case $typ in
+        m|method)
+            query="\.method .* .*$query\(.*\)"
+            ;;
+        f|field)
+            query="\.field .* .*$query"
+            ;;
+        s|string)
+            query="\"[^\"]*$query[^\"]*\""
+            ;;
+        i|int)
+            i_field="\.field\s+.*:[JIZ]\s*=\s*(0x)?"
+            i_arit="(add|sub|mul|div|mod)-int.*([vp][0-9]+\s*,\s*)+(0x)?"
+            i_const="^\s*const.?(4|16|wide)?.*\s+([vp][0-9]+\s*,\s*)+(0x)?"
+            query="($i_field|$i_arit|$i_const)$query"
+            ;;
+        *)
+            echo "unrecognized filter '$typ'"
+            echo "filters are: m(ethod), f(ield), i(nt), s(tring)"
+            exit 1
+            ;;
+    esac
+}
 
 [ ! -d "$dir" ] && echo "[$dir]: no such dir" && exit 1
 
@@ -36,5 +62,9 @@ _f="find '$dir' -type f"
     done
     echo -e "\e[1;33m$rc replacement(s) within $uc file(s)\e[0m"
 } || {
-    eval "$_f" | xargs grep -En$ign "$query" $col
+    [ $v ] &&
+        eval "$_f" |
+            xargs grep -En$ign "$query" 2>/dev/null |
+            vi +"setfiletype java | normal! /$query<CR>" ||
+        eval "$_f" | xargs grep -En$ign "$query" $col 2>/dev/null
 }
