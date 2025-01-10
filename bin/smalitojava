@@ -1,6 +1,0 @@
-#!/bin/bash
-path="$1"
-class=$(echo $1 | sed "s/smali\/classes/out/g")
-rm out.dex &>/dev/null
-smali ass "$1" && jadx out.dex &>/dev/null
-cat "${class%.*}.java" > "${1%.*}.java"

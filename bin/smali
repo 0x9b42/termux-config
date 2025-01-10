@@ -1,2 +1,0 @@
-#!/bin/bash
-java -jar ~/.local/tools/jar/smali-2.5.2.jar "$@"
