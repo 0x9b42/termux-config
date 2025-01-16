@@ -32,6 +32,7 @@ PATH="~/.local/bin:$PATH"
 PATH="$ANDROID_HOME/platform-tools:$PATH"
 PATH="$ANDROID_HOME/build-tools/34.0.4:$PATH"
 PATH="$ANDROID_HOME/cmdline-tools/latest/bin:$PATH"
+PATH="$HOME/.gradle/bin:$PATH"
 export PATH
 
 
