@@ -15,8 +15,6 @@ do
 done
 unset alya
 
-PATH="~/.local/bin:$PATH"
-
 export PATH
 
 PS1="\e[32m\w\e[0m\n \$ "

@@ -32,8 +32,8 @@ local nvimlsp = {
 
         local lsp = require('lspconfig')
         local servers = { 'clangd', 'pyright', 'jdtls'}
-    for _, s in ipairs(servers) do
-        lsp[s].setup {}
+        for _, s in ipairs(servers) do
+            lsp[s].setup {}
         end
     end
 }

@@ -64,7 +64,7 @@ apps() {
 
 signapk() {
     uapk=$1
-    key=$HOME/android-sdk/testkey.jks
+    key=$ANDROID_HOME/testkey.jks
     key_pass=testkey
     key_alias=testkey
 
@@ -125,11 +125,11 @@ getapk() {
         mv "$TMP"/*.apk "$1.apk"
         echo -e "Extracted $1.apk"
     } || {
+        echo -e "Found split apks: $ijo$JML$o. Packing..."
         # zip required for split apks
         [ -z $(command -v zip) ] &&
             echo zip not installed, exiting... && exit 1
 
-        echo -e "Found split apks: $ijo$JML$o. Packing..."
         zip -j "$1.apks" "$TMP"/*.apk
         echo -e "Extracted $1.apks"
     }
@@ -142,6 +142,10 @@ getapk() {
 
 apkeditor() {
     java -jar ~/.local/tools/jar/APKEditor-1.4.1.jar "$@"
+}
+
+unitydump() {
+    APK="$1"
 }
 
 case $1 in
@@ -177,6 +181,9 @@ case $1 in
     b|build)
         shift
         apkeditor b -i "$@"
+        ;;
+    unitydump)
+        $1 "$2"
         ;;
     *) mob_help 1 ;;
 esac

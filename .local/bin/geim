@@ -1,0 +1,71 @@
+#!/bin/env bash
+
+keywords=(
+  # Mata Uang (Currency)
+  getgem get_gem getgems get_gems
+  getgold get_gold getcoin getdiamond
+  get_diamond getdiamonds get_diamonds
+  get_coin getcoins get_coins get_metaTokens
+  get_skinCoins get_equipmentCoins get_trophies
+  get_goldCoins get_stars get_Chest GetCurrency
+  get_money get_moneys setgem set_gem setgold
+  set_coin setdiamond set_currency
+
+  # Kemampuan (Ability)
+  getattack get_attack getattacks canattack
+  gethealth get_health gethp get_hp
+  getjump get_jump getjumpheight get_jumpheight
+  getnoattack get_noattack getammo get_ammo getweaponammo
+  get_weaponammo getdamage get_damage set_Stability
+  get_DamageMultiplier get_Stability get_IsInfinityAmmo
+  setattack set_health set_hp set_damageMultiplier
+
+  # Iklan (Ads)
+  get_NoAdsRemainTime get_NoAdsAvailable get_IsNoAds
+  NoAd Noads IsNoAdsPremium ShowAds
+  CanShowAds ShowAdmobInterstitial LoadAd
+  ShowInterstitial ShowUnityInterstitial Get_NoAdsBought
+  set_NoAds set_NoAdsRemainTime
+
+  # Bypass Banned
+  OnCheatingDetected get_IsBanned get_IsShadowBanned
+  get_ServerSideBanSuccessfull AnticheatIsActive
+  StartAntiCheatProcesses OnGameValuesCheatDetected
+  OnGameSpeedCheatDetected OnGameWallCheatDetected
+  IPullBlackList OnSetAsCheaterSuccess SetShadowBan
+  SetBan OfflineAntiCheat
+  set_BannedStatus set_ShadowBan
+
+  # Informasi Pemain
+  get_playerxp get_playerlevel get_playergold
+  get_playermoney get_currentXpLevel Get_CurrentPoint
+  Get_CurrentLevel Get_MaxLevel get_league get_stage
+
+  # Premium dan Langganan
+  get_IsPremium get_IsPremiumPlus HasPremiumPeriod
+  IsPremium IsSuperPremium get_IsSubscriber get_IsIap
+  set_IsPremium set_IsPremiumPlus
+)
+
+[ "$1" ] && dumbfile="$1" ||
+  read -p "bagi dump file .cs: " dumbfile
+
+[ ! -f "$dumbfile" ] && echo "ih mana ada file $dumbfile?" &&
+  exit 1
+
+keyrex="${keywords[0]}"
+for k in ${keywords[@]}; do keyrex="$keyrex|$k"; done
+
+erva="\/\/\s*RVA:\s*(0x[A-Fa-f0-9]+)"
+meth="(privatelpublic)\s+(static\s+)?(bool|int|float|void)\s+"
+
+result=$(grep -iEB1 "$meth($keyrex)\b" "$dumbfile" | sed -E "s/.*$erva.*/at \1:/;/--/d;s/.*$meth(\w+).*/\4 -> \3/")
+
+resfile="${dumbfile%/*}/result.txt"
+
+[ "$result" ] && echo "$result" > "$resfile" &&
+  echo hasil tersimpan di $resfile ||
+  echo tak ada lah hasilnya.
+
+# thx for : GhostKiller
+# recode by @flavamods
