@@ -1,0 +1,279 @@
+\e[92m	public int get_ChestCapacity() { }
+\e[91m0x7CD22C
+
+\e[92m	public int GetCurrencyAmount(Currency currency) { }
+\e[91m0x7E2D84
+
+\e[92m	public static void ShowInterstitialAd(string placementID, FacebookDelegate<IInterstitialAdResult> callback) { }
+\e[91m0x8C06AC
+
+\e[92m	public static void ShowInterstitialAd(string placementID, FacebookDelegate<IInterstitialAdResult> callback) { }
+\e[91m0x8C3548
+
+\e[92m	public abstract void ShowInterstitialAd(string placementID, FacebookDelegate<IInterstitialAdResult> callback);
+\e[91m-1
+
+\e[92m	public abstract void ShowInterstitialAd(string placementID, FacebookDelegate<IInterstitialAdResult> callback);
+\e[91m-1
+
+\e[92m	public override void ShowInterstitialAd(string placementID, FacebookDelegate<IInterstitialAdResult> callback) { }
+\e[91m0x8DD51C
+
+\e[92m	public abstract void ShowInterstitialAd(string placementID, string callbackId, CallbackManager callbackManager);
+\e[91m-1
+
+\e[92m	public void OnShowInterstitialAdComplete(ResultContainer resultContainer) { }
+\e[91m0x8E0640
+
+\e[92m	public override void ShowInterstitialAd(string placementID, FacebookDelegate<IInterstitialAdResult> callback) { }
+\e[91m0x8E27CC
+
+\e[92m	public abstract void OnShowInterstitialAdComplete(ResultContainer resultContainer);
+\e[91m-1
+
+\e[92m	public void OnShowInterstitialAdComplete(ResultContainer resultContainer) { }
+\e[91m0x8EA0E0
+
+\e[92m	public override void ShowInterstitialAd(string placementID, FacebookDelegate<IInterstitialAdResult> callback) { }
+\e[91m0x8EAEA8
+
+\e[92m	public void OnShowInterstitialAdComplete(string message) { }
+\e[91m0x8EC498
+
+\e[92m	public override void ShowInterstitialAd(string placementID, FacebookDelegate<IInterstitialAdResult> callback) { }
+\e[91m0x8F44D0
+
+\e[92m	public override void ShowInterstitialAd(string placementID, FacebookDelegate<IInterstitialAdResult> callback) { }
+\e[91m0x8F9200
+
+\e[92m	public static void SetBannerPlacement(string adUnitIdentifier, string placement) { }
+\e[91m0x125EAB8
+
+\e[92m	public static void SetBannerWidth(string adUnitIdentifier, float width) { }
+\e[91m0x125F2F0
+
+\e[92m	public static void SetBannerBackgroundColor(string adUnitIdentifier, Color color) { }
+\e[91m0x125F8C4
+
+\e[92m	public static void SetBannerExtraParameter(string adUnitIdentifier, string key, string value) { }
+\e[91m0x125FDA8
+
+\e[92m	public static void SetBannerLocalExtraParameter(string adUnitIdentifier, string key, object value) { }
+\e[91m0x125FF98
+
+\e[92m	public static void SetBannerCustomData(string adUnitIdentifier, string customData) { }
+\e[91m0x12605B4
+
+\e[92m	public static void ShowInterstitial(string adUnitIdentifier, string placement, string customData) { }
+\e[91m0x12628DC
+
+\e[92m	public const string NoAds = "no_ads";
+\e[91m0x925344
+
+\e[92m	public const string GetMoney = "get_money";
+\e[91m0x925344
+
+\e[92m	public const string NoAds = "no_ads";
+\e[91m0x92534C
+
+\e[92m	public static void ShowInterstitialVideo(string placement, Action<AdActionResultType> resultAction) { }
+\e[91m0x912E0C
+
+\e[92m	public abstract void ShowInterstitial(string adShowingPlacement, Action<AdActionResultType> callback);
+\e[91m-1
+
+\e[92m	public abstract void ShowInterstitial(string placementName);
+\e[91m-1
+
+\e[92m	public void ShowInterstitial(string adShowingPlacement, Action<AdActionResultType> callback) { }
+\e[91m0x91D3B4
+
+\e[92m	protected virtual void LoadAd() { }
+\e[91m0x91DCEC
+
+\e[92m	public virtual void ShowInterstitial(string placementName) { }
+\e[91m0x91FD30
+
+\e[92m	public abstract void LoadAd(Amazon.OnFailureDelegate failure, Amazon.OnSuccessDelegate success);
+\e[91m-1
+
+\e[92m	public abstract void LoadAd(Amazon.OnFailureWithErrorDelegate failure, Amazon.OnSuccessDelegate success);
+\e[91m-1
+
+\e[92m	public void LoadAd() { }
+\e[91m0x7532C0
+
+\e[92m	public override void LoadAd(Amazon.OnFailureDelegate failure, Amazon.OnSuccessDelegate success) { }
+\e[91m0x758048
+
+\e[92m	public override void LoadAd(Amazon.OnFailureWithErrorDelegate failureWithError, Amazon.OnSuccessDelegate success) { }
+\e[91m0x758300
+
+\e[92m	public override void LoadAd(Amazon.OnFailureDelegate failure, Amazon.OnSuccessDelegate success) { }
+\e[91m0x76054C
+
+\e[92m	public override void LoadAd(Amazon.OnFailureWithErrorDelegate failure, Amazon.OnSuccessDelegate success) { }
+\e[91m0x7608AC
+
+\e[92m	private DTBCallback createLoadAdCallback(Amazon.OnSuccessDelegate success) { }
+\e[91m0x7606C0
+
+\e[92m	public override void LoadAd(AdRequest request) { }
+\e[91m0x12235E4
+
+\e[92m	private EventHandler<LoadAdErrorClientEventArgs> OnAdFailedToLoad; // 0x14
+\e[91m0x1225060
+
+\e[92m	public void add_OnAdFailedToLoad(EventHandler<LoadAdErrorClientEventArgs> value) { }
+\e[91m0x12254E0
+
+\e[92m	public void remove_OnAdFailedToLoad(EventHandler<LoadAdErrorClientEventArgs> value) { }
+\e[91m0x1225590
+
+\e[92m	public void LoadAd(string adUnitId, AdRequest request) { }
+\e[91m0x1225FC4
+
+\e[92m	private EventHandler<LoadAdErrorClientEventArgs> OnAdFailedToLoad; // 0x18
+\e[91m0x12273AC
+
+\e[92m	public void add_OnAdFailedToLoad(EventHandler<LoadAdErrorClientEventArgs> value) { }
+\e[91m0x122782C
+
+\e[92m	public void remove_OnAdFailedToLoad(EventHandler<LoadAdErrorClientEventArgs> value) { }
+\e[91m0x12278DC
+
+\e[92m	public void LoadAd(string adUnitID, AdRequest request) { }
+\e[91m0x12281B0
+
+\e[92m	private EventHandler<LoadAdErrorClientEventArgs> OnAdFailedToLoad; // 0x18
+\e[91m0x12295E0
+
+\e[92m	public void add_OnAdFailedToLoad(EventHandler<LoadAdErrorClientEventArgs> value) { }
+\e[91m0x1229ADC
+
+\e[92m	public void remove_OnAdFailedToLoad(EventHandler<LoadAdErrorClientEventArgs> value) { }
+\e[91m0x1229B8C
+
+\e[92m	public virtual void LoadAd(AdRequest request) { }
+\e[91m0x122AE34
+
+\e[92m	private EventHandler<LoadAdErrorClientEventArgs> OnAdFailedToLoad; // 0x18
+\e[91m0x122F734
+
+\e[92m	public void add_OnAdFailedToLoad(EventHandler<LoadAdErrorClientEventArgs> value) { }
+\e[91m0x122FC4C
+
+\e[92m	public void remove_OnAdFailedToLoad(EventHandler<LoadAdErrorClientEventArgs> value) { }
+\e[91m0x122FCFC
+
+\e[92m	public void LoadAd(string adUnitId, AdRequest request) { }
+\e[91m0x12305D0
+
+\e[92minternal class LoadAdErrorClient : ILoadAdErrorClient, IAdErrorClient // TypeDefIndex: 5666
+\e[91m0x1230DA0
+
+\e[92m	private EventHandler<LoadAdErrorClientEventArgs> OnAdFailedToLoad; // 0x18
+\e[91m0x12335F0
+
+\e[92m	public void add_OnAdFailedToLoad(EventHandler<LoadAdErrorClientEventArgs> value) { }
+\e[91m0x12337C0
+
+\e[92m	public void remove_OnAdFailedToLoad(EventHandler<LoadAdErrorClientEventArgs> value) { }
+\e[91m0x1233870
+
+\e[92m	private EventHandler<LoadAdErrorClientEventArgs> OnAdFailedToLoad; // 0x18
+\e[91m0x12376B4
+
+\e[92m	public void add_OnAdFailedToLoad(EventHandler<LoadAdErrorClientEventArgs> value) { }
+\e[91m0x12378EC
+
+\e[92m	public void remove_OnAdFailedToLoad(EventHandler<LoadAdErrorClientEventArgs> value) { }
+\e[91m0x123799C
+
+\e[92m	public void LoadAd(string adUnitId, AdRequest request) { }
+\e[91m0x12383D0
+
+\e[92m	private EventHandler<LoadAdErrorClientEventArgs> OnAdFailedToLoad; // 0x18
+\e[91m0x12391C0
+
+\e[92m	public void add_OnAdFailedToLoad(EventHandler<LoadAdErrorClientEventArgs> value) { }
+\e[91m0x12393E4
+
+\e[92m	public void remove_OnAdFailedToLoad(EventHandler<LoadAdErrorClientEventArgs> value) { }
+\e[91m0x1239494
+
+\e[92m	public void LoadAd(string adUnitId, AdRequest request) { }
+\e[91m0x1239EC8
+
+\e[92m	private void SetLoadAddButtonText() { }
+\e[91m0x8FB2A0
+
+\e[92m	public void ShowInterstitial() { }
+\e[91m0x8FDFD0
+
+\e[92m	public void LoadAd() { }
+\e[91m0x8FC1B0
+
+\e[92m	public void LoadAd(string bidPayload) { }
+\e[91m0x903624
+
+\e[92m	internal void LoadAdFromData() { }
+\e[91m0x903788
+
+\e[92m	private void <LoadAdFromData>b__37_0() { }
+\e[91m0x903D74
+
+\e[92m	internal AndroidJavaObject LoadAdConfig(string bidPayload) { }
+\e[91m0x906DDC
+
+\e[92m	public void LoadAd() { }
+\e[91m0x8FDE74
+
+\e[92m	public void LoadAd(string bidPayload) { }
+\e[91m0x908294
+
+\e[92m	internal void LoadAdFromData() { }
+\e[91m0x9083F8
+
+\e[92m	private void <LoadAdFromData>b__44_0() { }
+\e[91m0x908648
+
+\e[92m	internal AndroidJavaObject LoadAdConfig(string bidPayload) { }
+\e[91m0x909914
+
+\e[92m	public void LoadAd() { }
+\e[91m0x900178
+
+\e[92m	public void LoadAd(string bidPayload) { }
+\e[91m0x90AE90
+
+\e[92m	internal void LoadAdFromData() { }
+\e[91m0x90AFF4
+
+\e[92m	private void <LoadAdFromData>b__61_0() { }
+\e[91m0x90B244
+
+\e[92m	internal AndroidJavaObject LoadAdConfig(string bidPayload) { }
+\e[91m0x90C764
+
+\e[92m	public override void ShowInterstitial(string placementName) { }
+\e[91m0x948104
+
+\e[92m	private void set_currency(string value) { }
+\e[91m0x77C414
+
+\e[92m	private void set_currency(string value) { }
+\e[91m0x77C4A8
+
+\e[92mpublic interface ILoadAdErrorClient : IAdErrorClient // TypeDefIndex: 6712
+\e[91m-1
+
+\e[92mpublic class LoadAdErrorClientEventArgs : EventArgs // TypeDefIndex: 6718
+\e[91m-1
+
+\e[92m	private ILoadAdErrorClient <LoadAdErrorClient>k__BackingField; // 0x8
+\e[91m-1
+
+\e[92m	public void set_LoadAdErrorClient(ILoadAdErrorClient value) { }
+\e[91m0x123B3CC
+

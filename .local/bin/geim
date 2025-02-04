@@ -57,9 +57,14 @@ keyrex="${keywords[0]}"
 for k in ${keywords[@]}; do keyrex="$keyrex|$k"; done
 
 erva="\/\/\s*RVA:\s*(0x[A-Fa-f0-9]+)"
-meth="(privatelpublic)\s+(static\s+)?(bool|int|float|void)\s+"
+meth="(private|public)\s+(static\s+)?(bool|int|float|void)\s+"
 
-result=$(grep -iEB1 "$meth($keyrex)\b" "$dumbfile" | sed -E "s/.*$erva.*/at \1:/;/--/d;s/.*$meth(\w+).*/\4 -> \3/")
+r=$(tput setaf 40)
+o=$(tput setaf 7)
+
+result=$(grep -iEB1 "$meth($keyrex)" "$dumbfile" | sed -E "s/.*$erva.*/at \1:/;/--/d;s/.*$meth(\w+)\(.*/$r\4$o -> \3/")
+
+echo -e "$result"
 
 resfile="${dumbfile%/*}/result.txt"
 
