@@ -10,6 +10,7 @@ alias tclips='termux-clipboard-set'
 alias tclipg='termux-clipboard-get'
 alias t=task
 alias ta='task add'
+alias py=python3
 
 alias r2='r2 -e bin.relocs.apply=true'
 

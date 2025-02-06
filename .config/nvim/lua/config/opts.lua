@@ -9,8 +9,10 @@ set fillchars=eob:\
 
 set background=dark
 colo retrobox
-hi Normal guibg=NONE
-hi SignColumn guibg=NONE
+"hi Normal guibg=NONE
+"hi SignColumn guibg=NONE
+hi Normal guibg=NvimDarkGray1
+hi SignColumn guibg=NvimDarkGray1
 
 set statusline=%f%m%r\ %=0x%O\ %b\ 0x%B\ %=%l:%c\ %L
 
