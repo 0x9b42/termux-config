@@ -1,0 +1,24 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-desktop" version="1.0">
+  <property name="last-settings-migration-version" type="uint" value="1"/>
+  <property name="last" type="empty">
+    <property name="window-width" type="int" value="672"/>
+    <property name="window-height" type="int" value="547"/>
+  </property>
+  <property name="backdrop" type="empty">
+    <property name="screen0" type="empty">
+      <property name="monitor0" type="empty">
+        <property name="image-path" type="string" value="/data/data/com.termux/files/home/storage/dcim/Screenshots/wp.png"/>
+        <property name="image-show" type="bool" value="true"/>
+        <property name="image-style" type="int" value="5"/>
+      </property>
+      <property name="monitorVNC-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="last-image" type="string" value="/data/data/com.termux/files/home/storage/dcim/Screenshots/wp.png"/>
+          <property name="image-style" type="int" value="2"/>
+        </property>
+      </property>
+    </property>
+  </property>
+</channel>
