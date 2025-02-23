@@ -5,7 +5,7 @@
 
 
   <TextView
-    android:text="Aplikasi ini dibuat di Termux"
+    android:text="Aplikasi ini dibuat di Termux!"
     android:gravity="center"
     android:textSize="40px"
     android:layout_width="match_parent"
