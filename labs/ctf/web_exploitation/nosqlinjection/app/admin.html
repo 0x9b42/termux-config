@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Page</title>
+    <style>
+        body {
+            color: #475569;
+            margin: 0 auto;
+            padding: 1rem;
+            background-color: #eaeaed;
+            min-height: 100vh;
+            font-family: Arial, sans-serif;
+        }
+
+        h1, h2, h3 {
+            color: #475569;
+        }
+
+        h1 {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+
+        h2 {
+            font-size: 1.25rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+
+        h3 {
+            font-size: 1.125rem;
+            font-weight: bold;
+            margin-bottom: 0.25rem;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 1rem;
+        }
+
+        .concept-list li {
+            padding: 0.5rem;
+            border-radius: 0.25rem;
+            cursor: pointer;
+            color: #475569;
+            font-weight: normal;
+        }
+
+        .concept-list li.selected {
+            font-weight: bold;
+            font-size: 1.5rem;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Admin Page</h1>
+
+        <div class="container">
+            <div>
+                <h2>Cybersecurity Concepts</h2>
+                <ul class="concept-list" id="conceptList">
+                    <!-- Concept items will be inserted here by JavaScript -->
+                </ul>
+            </div>
+
+            <div>
+                <h2>Concept Details</h2>
+                <div id="conceptDetails">
+                    <p style="font-style: italic;">Select a concept to view details.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const concepts = [
+            {
+                id: 1,
+                name: "Encryption",
+                description: "Encryption is the process of converting information into a secure code to prevent unauthorized access.",
+            },
+            {
+                id: 2,
+                name: "Firewall",
+                description: "A firewall is a network security device that monitors and filters incoming and outgoing network traffic.",
+            },
+            {
+                id: 3,
+                name: "Phishing",
+                description: "Phishing is a cyber attack where an attacker pretends to be a trustworthy entity to trick victims into revealing sensitive information.",
+            },
+        ];
+
+        let selectedConcept = null;
+
+        function renderConceptList() {
+            const conceptList = document.getElementById('conceptList');
+            conceptList.innerHTML = '';
+            concepts.forEach(concept => {
+                const listItem = document.createElement('li');
+                listItem.textContent = concept.name;
+                listItem.className = selectedConcept && selectedConcept.id === concept.id ? 'selected' : '';
+                listItem.addEventListener('click', () => {
+                    selectedConcept = concept;
+                    renderConceptList();
+                    renderConceptDetails();
+                });
+                conceptList.appendChild(listItem);
+            });
+        }
+
+        function renderConceptDetails() {
+            const conceptDetails = document.getElementById('conceptDetails');
+            conceptDetails.innerHTML = '';
+            if (selectedConcept) {
+                const conceptName = document.createElement('h3');
+                conceptName.textContent = selectedConcept.name;
+
+                const conceptDescription = document.createElement('p');
+                conceptDescription.textContent = selectedConcept.description;
+
+                conceptDetails.appendChild(conceptName);
+                conceptDetails.appendChild(conceptDescription);
+            } else {
+                const placeholder = document.createElement('p');
+                placeholder.style.fontStyle = 'italic';
+                placeholder.textContent = 'Select a concept to view details.';
+                conceptDetails.appendChild(placeholder);
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            renderConceptList();
+            renderConceptDetails();
+        });
+    </script>
+</body>
+</html>
