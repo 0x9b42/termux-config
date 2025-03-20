@@ -1,0 +1,112 @@
+#!/bin/bash
+[ "$1" ] || {
+  echo "usage: ${0##*/} <app name>"
+  exit 1
+}
+
+set -e
+
+echo -n "company name [com.company]: "
+read com
+[ "$com" ] && PKG="$com.${*,,}" || PKG="com.company.${*,,}"
+
+PKG=$(echo $PKG | sed 's/  *//g;s/\.\.*/./g')
+KLAS=~/android/sdk/platforms/android-33/android.jar
+#NDK=~/android/ndk
+MIN_SDK=21
+TARGET_SDK=33
+
+MANIF=$(cat << MOB
+<manifest
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  package="$PKG">
+
+  <uses-sdk
+    android:minSdkVersion="21"
+    android:targetSdkVersion="33" />
+
+  <application
+    android:label="${@}"
+    android:supportsRtl="true">
+
+    <activity
+      android:name=".MainActivity"
+      android:theme="@android:style/Theme.Material.NoActionBar">
+
+      <intent-filter>
+        <action
+          android:name="android.intent.action.MAIN" />
+        <category
+          android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+
+    </activity>
+
+  </application>
+
+</manifest>
+MOB
+)
+
+MAINJAVA=$(cat << MOB
+package $PKG;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.widget.TextView;
+import android.view.Gravity;
+
+public class MainActivity extends Activity {
+  @Override
+  protected void onCreate(Bundle bundel) {
+    super.onCreate(bundel);
+
+    TextView helo = new TextView(this);
+    helo.setText("hola mundo!");
+    helo.setGravity(Gravity.CENTER);
+    helo.setTextSize(24);
+
+    setContentView(helo);
+  }
+}
+MOB
+)
+
+BUILDSH=$(cat << MOB
+#!/bin/bash
+_i() {
+  echo -e "[*]\\e[34;1m \$@\\e[0m"
+}
+_d() {
+  echo -e "[√]\\e[32;1m \$@\\e[0m"
+}
+set -e
+_i prep ...
+rm -fr output
+mkdir -p output
+_i running aapt ...
+aapt package -f -m -J java -S res -M AndroidManifest.xml -I $KLAS -F output/app.apk
+_i compiling java files ...
+ecj -d output \$(find java -name *.java)
+_i packaging APK ...
+cd output
+dx --dex --output=classes.dex \$(find ${PKG%%.*} -name *.class)
+zip -r app.apk classes.dex
+_i optimizing APK ...
+zipalign -v 4 app.apk unsigned.apk
+rm app.apk
+_d built successfully: output/unsigned.apk
+_i sign the apk first to install
+termux-share unsigned.apk
+MOB
+)
+
+mkdir "$*"
+cd "$*"
+src=java/$(echo $PKG | sed 's,\.,/,g')
+mkdir -p $src
+mkdir -p res/{layout,values}
+echo -e "$MANIF" > AndroidManifest.xml
+echo -e "$BUILDSH" > build.sh
+echo -e "$MAINJAVA" > $src/MainActivity.java
+echo "created new project '$*' ($PKG)"
