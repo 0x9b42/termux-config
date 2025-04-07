@@ -35,7 +35,7 @@ Termux:API
 
 apps() {
     su -c ls /data &>/dev/null
-    [ $? -eq 1 ] && echo are you rooted? && exit 1
+    [ $? -ne 0 ] && echo are you rooted? && exit 1
 
     packages="$(su -c pm list packages | sed 's/package://g')"
 

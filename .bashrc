@@ -6,12 +6,12 @@ HISTFILESIZE=
 HISTCONTROL="erasedups:ignoreboth"
 
 alya=(
-    ~/.bash_aliases
-    ~/.local/tools/vidutils.sh
+  ~/.bash_aliases
+  ~/.local/tools/vidutils.sh
 )
 for i in ${alya[@]}
 do
-    [ -f $i ] && . $i
+  [ -f $i ] && . $i
 done
 unset alya
 
@@ -22,23 +22,25 @@ PS1="\e[32m\w\e[0m\n \$ "
 # cow saying funny shit
 fortune | cowsay
 
-export ANDROID_HOME="$HOME/android/sdk"
-export ANDROID_SDK_ROOT="$HOME/android/sdk"
-export ANDROID_NDK_ROOT="$HOME/android/ndk"
-export JAVA_HOME="$PREFIX/lib/jvm/java-17-openjdk"
-export _JAVA_OPTIONS="-Xmx512m"
+export OPTDIR=$HOME/opt
 
-PATH="~/.local/bin:$PATH"
+export     ANDROID_HOME=$OPTDIR/android/sdk
+export ANDROID_SDK_ROOT=$OPTDIR/android/sdk
+export ANDROID_NDK_ROOT=$OPTDIR/android/ndk
+export      GRADLE_HOME=$OPTDIR/gradle
+export        JAVA_HOME=$PREFIX/lib/jvm/java-17-openjdk
+export _JAVA_OPTIONS='-Xmx512m'
+
+export ANDROID_JAR=$ANDROID_HOME/platforms/android-33/android.jar
+export AAPT2=$ANDROID_HOME/build-tools/34.0.4/aapt2
+
+PATH="$PATH:~/.local/bin"
+PATH="$PATH:$ANDROID_NDK_ROOT"
 PATH="$PATH:$ANDROID_SDK_ROOT/platform-tools"
 PATH="$PATH:$ANDROID_SDK_ROOT/build-tools/34.0.4"
 PATH="$PATH:$ANDROID_SDK_ROOT/cmdline-tools/latest/bin"
-PATH="$PATH:$HOME/.gradle/bin"
+PATH="$PATH:$GRADLE_HOME/bin"
 export PATH
 
-ANDROID_JAR="$ANDROID_HOME/platforms/android-33/android.jar"
-export ANDROID_JAR
 
-#alias whoami='echo root'
-#alias su='HOME="/" PS1=":\w # "'
-#alias rm='/data/data/com.termux/files/usr/bin/su -c sleep 77'
-#alias ls='sudo ls --color=never'
+eval "$(starship init bash)"

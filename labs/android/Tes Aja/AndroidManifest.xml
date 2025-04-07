@@ -1,0 +1,28 @@
+<manifest
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  package="mob.tesaja">
+
+  <uses-sdk
+    android:minSdkVersion="21"
+    android:targetSdkVersion="33" />
+
+  <application
+    android:label="Tes Aja"
+    android:supportsRtl="true">
+
+    <activity
+      android:name=".MainActivity"
+      android:theme="@android:style/Theme.Material.NoActionBar">
+
+      <intent-filter>
+        <action
+          android:name="android.intent.action.MAIN" />
+        <category
+          android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+
+    </activity>
+
+  </application>
+
+</manifest>

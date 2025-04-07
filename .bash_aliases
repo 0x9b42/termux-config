@@ -8,6 +8,9 @@ alias alisa='vi ~/.bash_aliases'
 alias which='command -v'
 alias tclips='termux-clipboard-set'
 alias tclipg='termux-clipboard-get'
+alias py='python3'
+alias ta='task add'
+alias t=task
 
 alias r2='r2 -e bin.relocs.apply=true'
 

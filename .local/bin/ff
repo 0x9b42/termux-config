@@ -1,3 +1,4 @@
 #!/bin/env bash
-ffmpeg -i "$1" -filter:v "setpts=0.6*PTS" "${1%.*}_ff.mp4"
+[ $2 ] || exit 1
+ffmpeg -i "$1" -filter:v "setpts=0.$2*PTS" -r 24 "${1%.*}_ff.mp4"
 

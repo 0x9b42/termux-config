@@ -1,0 +1,46 @@
+{
+
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "image": {
+    "path": "~/.config/fastfetch/logo.png",
+    "type": "w3m",
+    "width": 300,  // Sesuaikan ukuran
+    "height": 300, // Sesuaikan ukuran
+    "preserveAspectRatio": true
+  },
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "host",
+    //"kernel",
+        {
+            "type": "kernel",
+            "format": "Linux 4.14.186-0x9b42"
+        },
+    "uptime",
+    "packages",
+    "shell",
+    "display",
+    "de",
+  //  "wm",
+   // "wmtheme",
+    "theme",
+    "icons",
+    "font",
+    "cursor",
+    "terminal",
+    "terminalfont",
+    "cpu",
+    "gpu",
+    "memory",
+    "swap",
+ //   "disk",
+   // "localip",
+    "battery",
+   // "poweradapter",
+   // "locale",
+    "break",
+    "colors"
+  ]
+}
