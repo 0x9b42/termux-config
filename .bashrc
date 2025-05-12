@@ -20,7 +20,7 @@ export PATH
 PS1="\e[32m\w\e[0m\n \$ "
 
 # cow saying funny shit
-fortune | cowsay
+#fortune | cowsay
 
 export OPTDIR=$HOME/opt
 
@@ -43,4 +43,10 @@ PATH="$PATH:$GRADLE_HOME/bin"
 export PATH
 
 
+python ~/.quiz_cards/quizzer.py
 eval "$(starship init bash)"
+source ~/.config/starship_completions.sh
+
+
+
+

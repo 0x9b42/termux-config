@@ -22,8 +22,8 @@ ffx265noau(){
 }
 
 ffx264(){
-    ffmpeg -i "$1" -c:v libx264 -preset normal -b:v 500k -pass 1 -an -f mp4 -y /dev/null && \
-    ffmpeg -i "$1" -c:v libx264 -preset normal -b:v 500k -pass 2 -c:a libopus -b:a 96k "${1%.*}-x264.${1#*.}"
+    ffmpeg -i "$1" -r 24 -c:v libx264 -preset medium -b:v 500k -pass 1 -an -f mp4 -y /dev/null && \
+    ffmpeg -i "$1" -r 24 -c:v libx264 -preset medium -b:v 500k -pass 2 -c:a libopus -b:a 96k "${1%.*}-x264.${1#*.}"
 }
 
 ffx264noau(){

@@ -1,0 +1,376 @@
+[
+  {
+    "question": "Chinese: What does '现在几点？' mean?",
+    "answer": "What time is it?"
+  },
+  {
+    "question": "Chinese: What does '现在' mean?",
+    "answer": "Now"
+  },
+  {
+    "question": "Russian: What does 'Сколько времени?' mean?",
+    "answer": "What time is it?"
+  },
+  {
+    "question": "Russian: What case is 'времени' in?",
+    "answer": "Genitive case"
+  },
+  {
+    "question": "Spanish: What does '¿Qué hora es?' mean?",
+    "answer": "What time is it?"
+  },
+  {
+    "question": "Spanish: What does 'hora' mean?",
+    "answer": "Hour"
+  },
+  {
+    "question": "French: What does 'Quelle heure est-il ?' mean?",
+    "answer": "What time is it?"
+  },
+  {
+    "question": "French: Why is 'quelle' used instead of 'quel'?",
+    "answer": "Because 'heure' is feminine"
+  },
+  {
+    "question": "Arabic: What does 'كم الساعة؟' mean?",
+    "answer": "What time is it?"
+  },
+  {
+    "question": "Arabic: What does 'الساعة' mean?",
+    "answer": "The hour"
+  },
+  {
+    "question": "Japanese: What does '今何時ですか？' mean?",
+    "answer": "What time is it?"
+  },
+  {
+    "question": "Japanese: What does '何時' mean?",
+    "answer": "What time"
+  },
+  {
+    "question": "Chinese: What does '我饿了' mean?",
+    "answer": "I'm hungry."
+  },
+  {
+    "question": "Chinese: What does '了' indicate in this sentence?",
+    "answer": "A change of state — 'have become hungry'."
+  },
+  {
+    "question": "Chinese: What does '我渴了' mean?",
+    "answer": "I'm thirsty."
+  },
+  {
+    "question": "Russian: What does 'Я голоден' mean?",
+    "answer": "I'm hungry (masculine)."
+  },
+  {
+    "question": "Russian: What changes in 'Я голодна'?",
+    "answer": "The adjective changes to feminine form."
+  },
+  {
+    "question": "Russian: What does 'Я хочу пить' mean?",
+    "answer": "I want to drink (I'm thirsty)."
+  },
+  {
+    "question": "Spanish: What does 'Tengo hambre' mean?",
+    "answer": "I'm hungry."
+  },
+  {
+    "question": "Spanish: What does 'Tengo sed' mean?",
+    "answer": "I'm thirsty."
+  },
+  {
+    "question": "French: What does 'J’ai faim' mean?",
+    "answer": "I'm hungry."
+  },
+  {
+    "question": "French: What does 'J’ai soif' mean?",
+    "answer": "I'm thirsty."
+  },
+  {
+    "question": "Arabic: What does 'أنا جائع' mean?",
+    "answer": "I'm hungry (masculine)."
+  },
+  {
+    "question": "Arabic: What does 'أنا جائعة' mean?",
+    "answer": "I'm hungry (feminine)."
+  },
+  {
+    "question": "Arabic: What does 'أنا عطشان' mean?",
+    "answer": "I'm thirsty (masculine)."
+  },
+  {
+    "question": "Arabic: What does 'أنا عطشى' mean?",
+    "answer": "I'm thirsty (feminine)."
+  },
+  {
+    "question": "Japanese: What does 'おなかがすきました' mean?",
+    "answer": "I'm hungry (lit. my stomach became empty)."
+  },
+  {
+    "question": "Japanese: What does 'のどがかわきました' mean?",
+    "answer": "I'm thirsty (lit. my throat became dry)."
+  },
+
+  {
+    "question": "Chinese: What does '厕所在哪里？' mean?",
+    "answer": "Where is the bathroom?"
+  },
+  {
+    "question": "Chinese: Which word means 'where'?",
+    "answer": "'哪里'"
+  },
+  {
+    "question": "Russian: What does 'Где туалет?' mean?",
+    "answer": "Where is the bathroom?"
+  },
+  {
+    "question": "Russian: What is the Russian word for 'where'?",
+    "answer": "'Где'"
+  },
+  {
+    "question": "Spanish: What does '¿Dónde está el baño?' mean?",
+    "answer": "Where is the bathroom?"
+  },
+  {
+    "question": "Spanish: What verb is used to show location?",
+    "answer": "'está'"
+  },
+  {
+    "question": "French: What does 'Où sont les toilettes ?' mean?",
+    "answer": "Where are the bathrooms?"
+  },
+  {
+    "question": "French: What does 'où' mean?",
+    "answer": "'where'"
+  },
+  {
+    "question": "Arabic: What does 'أين الحمام؟' mean?",
+    "answer": "Where is the bathroom?"
+  },
+  {
+    "question": "Arabic: What Arabic word asks 'where'?",
+    "answer": "'أين'"
+  },
+  {
+    "question": "Japanese: What does 'トイレはどこですか？' mean?",
+    "answer": "Where is the bathroom?"
+  },
+  {
+    "question": "Japanese: What word means 'where'?",
+    "answer": "'どこ'"
+  },
+  {
+    "question": "Chinese: What does '你喜欢什么？' mean?",
+    "answer": "What do you like?"
+  },
+  {
+    "question": "Chinese: Which word means 'what'?",
+    "answer": "'什么'"
+  },
+  {
+    "question": "Russian: What does 'Что ты любишь?' mean?",
+    "answer": "What do you like?"
+  },
+  {
+    "question": "Russian: Where is the question word placed?",
+    "answer": "At the beginning – 'Что'"
+  },
+  {
+    "question": "Spanish: What does '¿Qué te gusta?' mean?",
+    "answer": "What do you like?"
+  },
+  {
+    "question": "Spanish: What is the question word?",
+    "answer": "'¿Qué'"
+  },
+  {
+    "question": "French: What does 'Qu'est-ce que tu aimes ?' mean?",
+    "answer": "What do you like?"
+  },
+  {
+    "question": "French: What phrase introduces the question?",
+    "answer": "'Qu'est-ce que'"
+  },
+  {
+    "question": "Arabic: What does 'ماذا تحب؟' mean?",
+    "answer": "What do you like?"
+  },
+  {
+    "question": "Arabic: What is the Arabic word for 'what' in this sentence?",
+    "answer": "'ماذا'"
+  },
+  {
+    "question": "Japanese: What does 'あなたは何が好きですか？' mean?",
+    "answer": "What do you like?"
+  },
+  {
+    "question": "Japanese: What makes it a question?",
+    "answer": "The particle 'か'"
+  },
+
+  {
+    "question": "Chinese: What does '我喜欢苹果' mean?",
+    "answer": "I like apples."
+  },
+  {
+    "question": "Chinese: What verb is used for 'like' in the sentence?",
+    "answer": "'喜欢' (xǐhuān)."
+  },
+  {
+    "question": "Russian: What does 'Я люблю яблоки' mean?",
+    "answer": "I like apples."
+  },
+  {
+    "question": "Russian: What does 'люблю' tell you about the subject?",
+    "answer": "That the subject is 'I' (1st person singular)."
+  },
+  {
+    "question": "Spanish: What does 'Me gustan las manzanas' mean?",
+    "answer": "I like apples."
+  },
+  {
+    "question": "Spanish: What is the grammatical subject in this sentence?",
+    "answer": "'Las manzanas' (the apples)."
+  },
+  {
+    "question": "French: What does 'J’aime les pommes' mean?",
+    "answer": "I like apples."
+  },
+  {
+    "question": "French: What verb is used for 'like'?",
+    "answer": "'Aime', from the verb 'aimer'."
+  },
+  {
+    "question": "Arabic: What does 'أنا أحب التفاح' mean?",
+    "answer": "I like apples."
+  },
+  {
+    "question": "Arabic: What does 'أحب' mean?",
+    "answer": "It means 'I like' or 'I love'."
+  },
+  {
+    "question": "Japanese: What does '私はりんごが好きです' mean?",
+    "answer": "I like apples."
+  },
+  {
+    "question": "Japanese: What is the grammatical subject of the sentence?",
+    "answer": "'りんご' (ringo - apple)."
+  },
+  {
+    "question": "Chinese: What does '他有一本书' mean?",
+    "answer": "He has a book."
+  },
+  {
+    "question": "Chinese: What does '本' mean in '一本书'?",
+    "answer": "It's a measure word for books."
+  },
+  {
+    "question": "Russian: What does 'У меня есть книга' mean?",
+    "answer": "I have a book."
+  },
+  {
+    "question": "Russian: What structure expresses possession here?",
+    "answer": "'У + genitive' expresses possession (At me there is...)."
+  },
+  {
+    "question": "Spanish: What does 'Él tiene un libro' mean?",
+    "answer": "He has a book."
+  },
+  {
+    "question": "Spanish: What verb does 'tiene' come from?",
+    "answer": "It comes from 'tener' (to have)."
+  },
+  {
+    "question": "French: What does 'Il a un livre' mean?",
+    "answer": "He has a book."
+  },
+  {
+    "question": "French: What verb is 'a' from in 'Il a'?",
+    "answer": "It's from 'avoir' (to have)."
+  },
+  {
+    "question": "Arabic: What does 'هو عنده كتاب' mean?",
+    "answer": "He has a book."
+  },
+  {
+    "question": "Arabic: What does 'عنده' express?",
+    "answer": "It expresses possession (lit. 'at him')."
+  },
+  {
+    "question": "Japanese: What does '彼は本を持っています' mean?",
+    "answer": "He has a book."
+  },
+  {
+    "question": "Japanese: What does '持っています' imply?",
+    "answer": "It implies possession or holding something."
+  },
+  {
+    "question": "Chinese: What does '她是老师' mean?",
+    "answer": "She is a teacher."
+  },
+  {
+    "question": "Chinese: What is the function of '是' in '她是老师'?",
+    "answer": "It's the linking verb 'is'."
+  },
+  {
+    "question": "Russian: What does 'Он мой брат' mean?",
+    "answer": "He is my brother."
+  },
+  {
+    "question": "Russian: Why is there no verb in 'Он мой брат'?",
+    "answer": "Russian omits 'to be' in the present tense."
+  },
+  {
+    "question": "Spanish: What does 'Ella es mi amiga' mean?",
+    "answer": "She is my friend."
+  },
+  {
+    "question": "Spanish: Why is it 'amiga' and not 'amigo' in 'Ella es mi amiga'?",
+    "answer": "'Amiga' is the feminine form, matching 'ella' (she)."
+  },
+  {
+    "question": "Chinese: What does '我是人' mean?",
+    "answer": "I am a person."
+  },
+  {
+    "question": "Chinese: What does '是' mean in '我是人'?",
+    "answer": "It means 'am/is/are' – a linking verb."
+  },
+  {
+    "question": "Russian: What does 'Я дома' mean?",
+    "answer": "I am at home."
+  },
+  {
+    "question": "Russian: Why is there no verb in 'Я дома'?",
+    "answer": "Russian omits 'to be' in the present tense."
+  },
+  {
+    "question": "Spanish: What does 'Soy estudiante' mean?",
+    "answer": "I am a student."
+  },
+  {
+    "question": "Spanish: What verb is 'soy' from?",
+    "answer": "It is from the verb 'ser', used for identity."
+  },
+  {
+    "question": "What does a switch do when it receives a frame?",
+    "answer": "It checks the destination MAC address and uses its MAC table to forward the frame out the correct port."
+  },
+  {
+    "question": "Which OSI layer does a basic switch operate on?",
+    "answer": "Layer 2 – the Data Link layer."
+  },
+  {
+    "question": "What’s the MAC address table also known as?",
+    "answer": "The CAM table – short for Content Addressable Memory."
+  },
+  {
+    "question": "What happens if a switch doesn’t recognize the destination MAC?",
+    "answer": "It floods the frame to all ports."
+  },
+  {
+    "question": "What’s the difference between unicast, broadcast, and multicast?",
+    "answer": "Unicast = 1 to 1, Broadcast = 1 to all, Multicast = 1 to group."
+  }
+]

@@ -30,14 +30,18 @@ Termux:API
     exit $1
 }
 
+sudo() {
+  ~/.local/bin/rish -c "$*"
+}
+
 # exit if no command provided
 [ ! $1 ] && mob_help 1
 
 apps() {
-    su -c ls /data &>/dev/null
+    sudo ls /data &>/dev/null
     [ $? -ne 0 ] && echo are you rooted? && exit 1
 
-    packages="$(su -c pm list packages | sed 's/package://g')"
+    packages="$(sudo pm list packages | sed 's/package://g')"
 
     [ ! $1 ] && echo "$packages" && exit 0
 
@@ -99,7 +103,7 @@ getapk() {
     }
 
     # get package path
-    APKS=$(su -c pm path $1 | cut -d: -f2)
+    APKS=$(sudo pm path $1 | cut -d: -f2)
 
     # exit if no path found
     [ -z "$APKS" ] && {
@@ -141,7 +145,7 @@ getapk() {
 }
 
 apkeditor() {
-    java -jar ~/.local/tools/jar/APKEditor-1.4.1.jar "$@"
+    java -jar ~/.local/tools/jar/APKEditor.jar "$@"
 }
 
 unitydump() {

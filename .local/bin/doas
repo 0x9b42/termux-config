@@ -1,2 +1,2 @@
 #!/bin/bash
-~/.local/bin/rish -c $(command -v $1) "$@"
+~/.local/bin/rish -c "$*"
