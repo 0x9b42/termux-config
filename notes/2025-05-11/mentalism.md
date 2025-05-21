@@ -1,5 +1,3 @@
-research and report all you can find about mentalism
-
 # Mentalism: The Art of Mind Manipulation and Illusion
 
 Mentalism is a fascinating performing art where practitioners demonstrate seemingly supernatural mental abilities while actually employing psychology, misdirection, and theatrical techniques. This report explores the history, techniques, notable practitioners, and evolution of this captivating art form that continues to astonish audiences worldwide.
@@ -99,115 +97,114 @@ The techniques and principles of mentalism reveal much about human psychology, p
 As science and technology continue advancing, mentalism will likely evolve further, finding new expressions while maintaining its fundamental connection to the psychology of wonder and belief. The enduring appeal of mentalism speaks to our persistent fascination with the mysteries of the human mind and our desire to experience the seemingly impossible.
 
 Citations:
-[1] Mentalism - Wikipedia https://en.wikipedia.org/wiki/Mentalism
-[2] Mentalism: Where Did it Come From? - Good Liar https://www.agoodliar.com/post/mentalism-where-did-it-come-from
-[3] 10 secret techniques in mentalism - AMIT KALANTRI https://amitkalantrimagic.com/2017/10/12/top-magician-in-india/
-[4] The History Of Mentalism - Vanishing Inc. Magic shop https://www.vanishingincmagic.com/mentalism/articles/history-of-mentalism/
-[5] Joseph Dunninger - Wikipedia https://en.wikipedia.org/wiki/Joseph_Dunninger
-[6] The Amazing Kreskin unmasked | Jon Finch | The secrets of the ... https://finchmagician.com/magic/kreskin
-[7] The End of the Magic World's 50-Year Grudge - The New York Times https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html
-[8] How Does Cold Reading Work? - Vanishing Inc. Magic shop https://www.vanishingincmagic.com/mentalism/articles/how-does-cold-reading-work/
-[9] Dual Reality Mentalism - What You Should Know About It https://magicmentalism.com/dual-reality-mentalism/
-[10] Equivocation (disambiguation) - Wikipedia https://en.wikipedia.org/wiki/Equivocation_(disambiguation)
-[11] Derren Brown - Wikipedia https://en.wikipedia.org/wiki/Derren_Brown
-[12] Richard Osterlind - Wikipedia https://en.wikipedia.org/wiki/Richard_Osterlind
-[13] Barnum effect - Wikipedia https://en.wikipedia.org/wiki/Barnum_effect
-[14] Suggestion – Mentalism https://mentalismlab.com/suggestion/
-[15] Priming In Psychology - Verywell Mind https://www.verywellmind.com/priming-and-the-psychology-of-memory-4173092
-[16] Mentalism - APA Dictionary of Psychology https://dictionary.apa.org/mentalism
-[17] Cold reading - Wikipedia https://en.wikipedia.org/wiki/Cold_reading
-[18] Mentalism (psychology) - Wikipedia https://en.wikipedia.org/wiki/Mentalism_(psychology)
-[19] MENTALISM Definition & Meaning | Dictionary.com https://www.dictionary.com/browse/mentalism
-[20] MENTALISM definition and meaning | Collins English Dictionary https://www.collinsdictionary.com/dictionary/english/mentalism
-[21] These are the 7 top mentalists in 2024 - Cambridge Independent https://www.cambridgeindependent.co.uk/whats-on/these-are-the-7-top-mentalists-in-2024-9388088/
-[22] Mentalism - Philosophy Dictionary of Arguments https://philosophy-science-humanities-controversies.com/listview-list.php?concept=Mentalism
-[23] The History Of Mentalism - Vanishing Inc. Magic shop https://www.vanishingincmagic.com/mentalism/articles/history-of-mentalism/
-[24] 6 Easy Mentalism Tricks to Amaze Your Friends - Riccardo Berdini https://riccardoberdini.com/blog/6-easy-mentalism-tricks-to-amaze-your-friends
-[25] The Principle of Mentalism - Psychology Magazine https://www.psychologs.com/the-principle-of-mentalism/
-[26] The Top 13 Most Famous Mentalists - Vanishing Inc. Magic shop https://www.vanishingincmagic.com/mentalism/articles/top-famous-mentalists/
-[27] What Is Mentalism? Tips for Becoming a Mentalist - MasterClass https://www.masterclass.com/articles/mentalism-explained
-[28] The History of Mentalism: How Mentalist Performers Have Evolved ... https://www.drewthomasmagicwowshow.com/post/the-history-of-mentalism-how-mentalist-performers-have-evolved-over-time
-[29] Easy Mentalism Tricks You Can Do - Vanishing Inc. Magic shop https://www.vanishingincmagic.com/easy-magic-tricks/mentalism/articles/easy-mentalism-tricks/
-[30] Uncovering the Science Behind Mentalism | Jigar Solanki https://www.jigarsolanki.com/post/science-behind-mentalism
-[31] Top 11 Famous Mentalists in India - Jigar Solanki https://www.jigarsolanki.com/post/famous-mentalists-in-india
-[32] What Is Mentalism? - Vanishing Inc. Magic shop https://www.vanishingincmagic.com/mentalism/articles/what-is-mentalism/
-[33] What is Mentalism? - Kevin Blake https://kevinblakemagic.com/what-is-mentalism/
-[34] History Of Mentalism | Where Did Mentalism Begin? https://mentalistphoenix.com.au/history-mentalism-mentalist-phoenix/
-[35] Dunninger | The greatest mentalist of the 20th century - Jon Finch https://finchmagician.com/magic/dunninger
-[36] The Amazing Kreskin, Master of Mind Games, Dies at 89 https://www.hollywoodreporter.com/tv/tv-news/amazing-kreskin-dead-mind-games-master-1236083336/
-[37] Israeli 'psychic' Uri Geller still baffling fans at 75 - BBC https://www.bbc.com/news/world-middle-east-59609232
-[38] Spiritualism (beliefs) - Wikipedia https://en.wikipedia.org/wiki/Spiritualism_(beliefs)
-[39] Dunninger - Magic Web Channel hall of fame https://www.magicwebchannel.com/hall_dunninger.html
-[40] The Amazing Kreskin - Wikipedia https://en.wikipedia.org/wiki/The_Amazing_Kreskin
-[41] Uri Geller | The most famous mentalist of the 20th century - Jon Finch https://finchmagician.com/magic/uri-geller
-[42] The Principle of Mentalism For Your Spiritual Awakening - YouTube https://www.youtube.com/watch?v=Y5aOFyY2_os
-[43] The History and Future of Mentalism | PDF - Scribd https://www.scribd.com/document/808889943/The-History-and-Future-of-Mentalism
-[44] Dual Reality Mentalism - What You Should Know About It https://magicmentalism.com/dual-reality-mentalism/
-[45] Equivocation (disambiguation) - Wikipedia https://en.wikipedia.org/wiki/Equivocation_(disambiguation)
-[46] The Art and Science of Cold Reading - How to Be a Mentalist https://www.youtube.com/watch?v=LfyMY72pftA
-[47] Muscle reading - Wikipedia https://en.wikipedia.org/wiki/Muscle_reading
-[48] Hot/Cold Reading | Mentalism - Wix.com https://mentalist260.wixsite.com/mentalism/hotcold-reading
-[49] Vol 7. Psychological Forces PDF - Scribd https://www.scribd.com/document/422684486/Vol-7-Psychological-Forces-pdf
-[50] Harness The Power of Dual Reality - For Magicians - One Ahead https://www.oneahead.com/harness-the-power-of-dual-reality/
-[51] Equivocation : Department of Philosophy - Texas State University https://www.txst.edu/philosophy/resources/fallacy-definitions/equivocation.html
-[52] The Muscle-Readers, a Historical Sketch - Seeds of Science https://www.theseedsofscience.pub/p/the-muscle-readers-a-historical-sketch
-[53] Mentalism - Wikipedia https://en.wikipedia.org/wiki/Mentalism
-[54] Psychological Forces (Vol 7) by Peter Turner DRM Protected Ebook ... https://www.penguinmagic.com/p/S22018
-[55] Dual Reality, V3 by Peter Turner eBook (Download) https://stevensmagic.com/products/dual-reality-v3-by-peter-turner-ebook-download
-[56] Dual Reality - Conjuring Archive https://www.conjuringarchive.com/list/category/1896
-[57] 10 secret techniques in mentalism - AMIT KALANTRI https://amitkalantrimagic.com/2017/10/12/top-magician-in-india/
-[58] Pre-Show Work and Dual Reality! | Advice for Magicians - YouTube https://www.youtube.com/watch?v=j3ox3-UVRh0
-[59] Equivocation in Magic | Magician's Rabbit https://magiciansrabbit.wordpress.com/2016/04/18/equivocation-in-magic/
-[60] Double reality : Miscellaneous - talkmagic.co.uk https://www.talkmagic.co.uk/ftopic16004.php
-[61] Masterclass by Dan Harlan - Equivocation - Vanishing Inc. https://www.vanishingincmagic.com/masterclass/dan-harlan-masterclass/
-[62] Billet Character Dual-reality Mentalism Observational Pdf Psychic ... https://www.penguinmagic.com/s/2.0+to/tricks/tagged/billet+dual-reality+mentalism+observational+pdf+psychic+psychology+character
-[63] Equivoque MENTALISM Tutorial - YouTube https://www.youtube.com/watch?v=2COYhWMg4YE
-[64] Best books on equivocation/magician's choice? | theory11 forums https://www.theory11.com/forums/threads/best-books-on-equivocation-magicians-choice.50325/
-[65] Learn to Force ANY Object - The Equivoque Masterclass - YouTube https://www.youtube.com/watch?v=J1uZVlT1mPk
-[66] Mind-Blowing Mind Reading: Derren Brown Amazes New Yorkers! https://www.youtube.com/watch?v=EQNy7u3Qz6s
-[67] The Jermay Close Up Magic Theatre at The Lost & Found https://www.leeds.jermaymagic.com/events/jermay/1184257
-[68] Max Maven - Wikipedia https://en.wikipedia.org/wiki/Max_Maven
-[69] Principles of Mentalism - Richard Osterlind | salemmagicshow https://www.thesalemmagicshow.com/product-page/principles-of-mentalism-richard-osterlind
-[70] Modern Mentalism Vol 1 & 2 by Matt Mello Instant Download https://www.penguinmagic.com/p/2609
-[71] Derren Brown | The Official Website https://derrenbrown.co.uk
-[72] Luke Jermay LIVE Instant Download - Penguin Magic https://www.penguinmagic.com/p/5256
-[73] Max Maven(1950-2022) - IMDb https://www.imdb.com/name/nm0561364/
-[74] Magic by Richard Osterlind - Vanishing Inc. https://www.vanishingincmagic.com/magician/Richard-Osterlind/
-[75] The Top 13 Most Famous Mentalists of Modern Magic https://mollieplotkingroup.com/the-top-13-most-famous-mentalists-of-modern-magic/
-[76] Illusionist Derren Brown pushes the boundaries of mentalism https://www.youtube.com/watch?v=eOg93AVGGyI
-[77] How To Recognize and Lessen the Barnum Effect https://health.clevelandclinic.org/barnum-effect
-[78] Power of Suggestion Tricks in Mentalism - Everything You Should ... https://magicmentalism.com/power-of-suggestion-tricks-in-mentalism/
-[79] Priming | Mentalism - Wix.com https://mentalist260.wixsite.com/mentalism/priming
-[80] The Power of Confirmation Bias: Why We Only See What We Believe https://mindthegraph.com/blog/confirmation-bias/
-[81] Forer / Barnum Effect from Trick of the Mind - Mentalism and magic http://mentalismandmagic.weebly.com/forer--barnum-effect-from-trick-of-the-mind.html
-[82] What is a suggestion show? - Lior Suchard https://liorsuchard.com/suggestion-show/
-[83] Priming (psychology) - Wikipedia https://en.wikipedia.org/wiki/Priming_(psychology)
-[84] Confirmation Bias - The Decision Lab https://thedecisionlab.com/biases/confirmation-bias
-[85] Barnum Effect Mentalist Trick - YouTube https://www.youtube.com/watch?v=7axDPMiro3o
-[86] Sure-Fire Mentalism vs. Suggestion Mentalism | theory11 forums https://www.theory11.com/forums/threads/sure-fire-mentalism-vs-suggestion-mentalism.17057/
-[87] Priming - The Decision Lab https://thedecisionlab.com/biases/priming
-[88] Confirmation Bias And the Power of Disconfirming Evidence https://fs.blog/confirmation-bias/
-[89] Mentalism in Psychology and the belief in the soul - Mentes Abiertas https://www.mentesabiertaspsicologia.com/blog-psicologia/mentalism-in-psychology-and-the-belief-in-the-soul
-[90] TIMELINE by Abhinav Bothra Instant Download - Penguin Magic https://www.penguinmagic.com/p/10942
-[91] How Does Mentalism Work? History, Facts and More https://magicmentalism.com/how-does-mentalism-work/
-[92] Cold Reader Tips: How Cold Reading Works - 2025 - MasterClass https://www.masterclass.com/articles/cold-reader-guide
-[93] Mastering the Art of Cold Reading - YouTube https://www.youtube.com/watch?v=ahvPSAe2YlY
-[94] Cold Reading & Mentalism For The Psychic Entertainer https://www.murphysmagic.com/Streaming/Product.aspx?id=53714
-[95] Muscle reading | Mentalism - Wix.com https://mentalist260.wixsite.com/mentalism/muscle-reading
-[96] Mind Reading and Mentalism – Top 10 Magic Tricks Revealed https://niftytechfinds.com/mind-reading-and-mentalism-top-magic-tricks/
-[97] Psychological Force – Jon Finch | Magician & Mentalist https://finchmagician.com/magic-terms/mentalism/forcing/psychological-force
-[98] Dual-reality Magic Tricks https://www.penguinmagic.com/tricks/tagged/dual-reality
-[99] Mentalism Masterclass 3: dual reality by Peter Turner - Lybrary https://www.lybrary.com/mentalism-masterclass-3-dual-reality-p-845657.html
-[100] Resources on the principle of dual reality? : r/Magic - Reddit https://www.reddit.com/r/Magic/comments/3butiq/resources_on_the_principle_of_dual_reality/
-[101] Mentalism, mind reading and the art of getting inside your head | TED https://www.youtube.com/watch?v=2IFa0tqHrwE
-[102] Mentalism, mind reading and the art of getting inside your head - TED https://www.ted.com/talks/derren_brown_mentalism_mind_reading_and_the_art_of_getting_inside_your_head
-[103] How Derren Brown Remade Mind Reading for Skeptics https://www.newyorker.com/magazine/2019/10/07/how-derren-brown-remade-mind-reading-for-skeptics
-[104] Derren Brown | The psychological illusionist's tricks mind over matter https://finchmagician.com/magic/derren-brown
+- [1] [Mentalism - Wikipedia](https://en.wikipedia.org/wiki/Mentalism)
+- [2] [Mentalism: Where Did it Come From? - Good Liar](https://www.agoodliar.com/post/mentalism-where-did-it-come-from)
+- [3] [10 secret techniques in mentalism - AMIT KALANTRI](https://amitkalantrimagic.com/2017/10/12/top-magician-in-india/)
+- [4] [The History Of Mentalism - Vanishing Inc. Magic shop](https://www.vanishingincmagic.com/mentalism/articles/history-of-mentalism/)
+- [5] [Joseph Dunninger - Wikipedia](https://en.wikipedia.org/wiki/Joseph_Dunninger)
+- [6] [The Amazing Kreskin unmasked | Jon Finch | The secrets of the ...](https://finchmagician.com/magic/kreskin)
+- [7] [The End of the Magic World's 50-Year Grudge - The New York Times](https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html)
+- [8] [How Does Cold Reading Work? - Vanishing Inc. Magic shop](https://www.vanishingincmagic.com/mentalism/articles/how-does-cold-reading-work/)
+- [9] [Dual Reality Mentalism - What You Should Know About It](https://magicmentalism.com/dual-reality-mentalism/)
+- [10] [Equivocation (disambiguation) - Wikipedia](https://en.wikipedia.org/wiki/Equivocation_(disambiguation))
+- [11] [Derren Brown - Wikipedia](https://en.wikipedia.org/wiki/Derren_Brown)
+- [12] [Richard Osterlind - Wikipedia](https://en.wikipedia.org/wiki/Richard_Osterlind)
+- [13] [Barnum effect - Wikipedia](https://en.wikipedia.org/wiki/Barnum_effect)
+- [14] [Suggestion – Mentalism](https://mentalismlab.com/suggestion/)
+- [15] [Priming In Psychology - Verywell Mind](https://www.verywellmind.com/priming-and-the-psychology-of-memory-4173092)
+- [16] [Mentalism - APA Dictionary of Psychology](https://dictionary.apa.org/mentalism)
+- [17] [Cold reading - Wikipedia](https://en.wikipedia.org/wiki/Cold_reading)
+- [18] [Mentalism (psychology) - Wikipedia](https://en.wikipedia.org/wiki/Mentalism_(psychology))
+- [19] [MENTALISM Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/mentalism)
+- [20] [MENTALISM definition and meaning | Collins English Dictionary](https://www.collinsdictionary.com/dictionary/english/mentalism)
+- [21] [These are the 7 top mentalists in 2024 - Cambridge Independent](https://www.cambridgeindependent.co.uk/whats-on/these-are-the-7-top-mentalists-in-2024-9388088/)
+- [22] [Mentalism - Philosophy Dictionary of Arguments](https://philosophy-science-humanities-controversies.com/listview-list.php?concept=Mentalism)
+- [23] [The History Of Mentalism - Vanishing Inc. Magic shop](https://www.vanishingincmagic.com/mentalism/articles/history-of-mentalism/)
+- [24] [6 Easy Mentalism Tricks to Amaze Your Friends - Riccardo Berdini](https://riccardoberdini.com/blog/6-easy-mentalism-tricks-to-amaze-your-friends)
+- [25] [The Principle of Mentalism - Psychology Magazine](https://www.psychologs.com/the-principle-of-mentalism/)
+- [26] [The Top 13 Most Famous Mentalists - Vanishing Inc. Magic shop](https://www.vanishingincmagic.com/mentalism/articles/top-famous-mentalists/)
+- [27] [What Is Mentalism? Tips for Becoming a Mentalist - MasterClass](https://www.masterclass.com/articles/mentalism-explained)
+- [28] [The History of Mentalism: How Mentalist Performers Have Evolved ...](https://www.drewthomasmagicwowshow.com/post/the-history-of-mentalism-how-mentalist-performers-have-evolved-over-time)
+- [29] [Easy Mentalism Tricks You Can Do - Vanishing Inc. Magic shop](https://www.vanishingincmagic.com/easy-magic-tricks/mentalism/articles/easy-mentalism-tricks/)
+- [30] [Uncovering the Science Behind Mentalism | Jigar Solanki](https://www.jigarsolanki.com/post/science-behind-mentalism)
+- [31] [Top 11 Famous Mentalists in India - Jigar Solanki](https://www.jigarsolanki.com/post/famous-mentalists-in-india)
+- [32] [What Is Mentalism? - Vanishing Inc. Magic shop](https://www.vanishingincmagic.com/mentalism/articles/what-is-mentalism/)
+- [33] [What is Mentalism? - Kevin Blake](https://kevinblakemagic.com/what-is-mentalism/)
+- [34] [History Of Mentalism | Where Did Mentalism Begin?](https://mentalistphoenix.com.au/history-mentalism-mentalist-phoenix/)
+- [35] [Dunninger | The greatest mentalist of the 20th century - Jon Finch](https://finchmagician.com/magic/dunninger)
+- [36] [The Amazing Kreskin, Master of Mind Games, Dies at 89](https://www.hollywoodreporter.com/tv/tv-news/amazing-kreskin-dead-mind-games-master-1236083336/)
+- [37] [Israeli 'psychic' Uri Geller still baffling fans at 75 - BBC](https://www.bbc.com/news/world-middle-east-59609232)
+- [38] [Spiritualism (beliefs) - Wikipedia](https://en.wikipedia.org/wiki/Spiritualism_(beliefs))
+- [39] [Dunninger - Magic Web Channel hall of fame](https://www.magicwebchannel.com/hall_dunninger.html)
+- [40] [The Amazing Kreskin - Wikipedia](https://en.wikipedia.org/wiki/The_Amazing_Kreskin)
+- [41] [Uri Geller | The most famous mentalist of the 20th century - Jon Finch](https://finchmagician.com/magic/uri-geller)
+- [42] [The Principle of Mentalism For Your Spiritual Awakening - YouTube](https://www.youtube.com/watch?v=Y5aOFyY2_os)
+- [43] [The History and Future of Mentalism | PDF - Scribd](https://www.scribd.com/document/808889943/The-History-and-Future-of-Mentalism)
+- [44] [Dual Reality Mentalism - What You Should Know About It](https://magicmentalism.com/dual-reality-mentalism/)
+- [45] [Equivocation (disambiguation) - Wikipedia](https://en.wikipedia.org/wiki/Equivocation_(disambiguation))
+- [46] [The Art and Science of Cold Reading - How to Be a Mentalist](https://www.youtube.com/watch?v=LfyMY72pftA)
+- [47] [Muscle reading - Wikipedia](https://en.wikipedia.org/wiki/Muscle_reading)
+- [48] [Hot/Cold Reading | Mentalism - Wix.com](https://mentalist260.wixsite.com/mentalism/hotcold-reading)
+- [49] [Vol 7. Psychological Forces PDF - Scribd](https://www.scribd.com/document/422684486/Vol-7-Psychological-Forces-pdf)
+- [50] [Harness The Power of Dual Reality - For Magicians - One Ahead](https://www.oneahead.com/harness-the-power-of-dual-reality/)
+- [51] [Equivocation : Department of Philosophy - Texas State University](https://www.txst.edu/philosophy/resources/fallacy-definitions/equivocation.html)
+- [52] [The Muscle-Readers, a Historical Sketch - Seeds of Science](https://www.theseedsofscience.pub/p/the-muscle-readers-a-historical-sketch)
+- [53] [Mentalism - Wikipedia](https://en.wikipedia.org/wiki/Mentalism)
+- [54] [Psychological Forces (Vol 7) by Peter Turner DRM Protected Ebook ...](https://www.penguinmagic.com/p/S22018)
+- [55] [Dual Reality, V3 by Peter Turner eBook (Download)](https://stevensmagic.com/products/dual-reality-v3-by-peter-turner-ebook-download)
+- [56] [Dual Reality - Conjuring Archive](https://www.conjuringarchive.com/list/category/1896)
+- [57] [10 secret techniques in mentalism - AMIT KALANTRI](https://amitkalantrimagic.com/2017/10/12/top-magician-in-india/)
+- [58] [Pre-Show Work and Dual Reality! | Advice for Magicians - YouTube](https://www.youtube.com/watch?v=j3ox3-UVRh0)
+- [59] [Equivocation in Magic | Magician's Rabbit](https://magiciansrabbit.wordpress.com/2016/04/18/equivocation-in-magic/)
+- [60] [Double reality : Miscellaneous - talkmagic.co.uk](https://www.talkmagic.co.uk/ftopic16004.php)
+- [61] [Masterclass by Dan Harlan - Equivocation - Vanishing Inc.](https://www.vanishingincmagic.com/masterclass/dan-harlan-masterclass/)
+- [62] [Billet Character Dual-reality Mentalism Observational Pdf Psychic ...](https://www.penguinmagic.com/s/2.0+to/tricks/tagged/billet+dual-reality+mentalism+observational+pdf+psychic+psychology+character)
+- [63] [Equivoque MENTALISM Tutorial - YouTube](https://www.youtube.com/watch?v=2COYhWMg4YE)
+- [64] [Best books on equivocation/magician's choice? | theory11 forums](https://www.theory11.com/forums/threads/best-books-on-equivocation-magicians-choice.50325/)
+- [65] [Learn to Force ANY Object - The Equivoque Masterclass - YouTube](https://www.youtube.com/watch?v=J1uZVlT1mPk)
+- [66] [Mind-Blowing Mind Reading: Derren Brown Amazes New Yorkers!](https://www.youtube.com/watch?v=EQNy7u3Qz6s)
+- [67] [The Jermay Close Up Magic Theatre at The Lost & Found](https://www.leeds.jermaymagic.com/events/jermay/1184257)
+- [68] [Max Maven - Wikipedia](https://en.wikipedia.org/wiki/Max_Maven)
+- [69] [Principles of Mentalism - Richard Osterlind | salemmagicshow](https://www.thesalemmagicshow.com/product-page/principles-of-mentalism-richard-osterlind)
+- [70] [Modern Mentalism Vol 1 & 2 by Matt Mello Instant Download](https://www.penguinmagic.com/p/2609)
+- [71] [Derren Brown | The Official Website](https://derrenbrown.co.uk)
+- [72] [Luke Jermay LIVE Instant Download - Penguin Magic](https://www.penguinmagic.com/p/5256)
+- [73] [Max Maven(1950-2022) - IMDb](https://www.imdb.com/name/nm0561364/)
+- [74] [Magic by Richard Osterlind - Vanishing Inc.](https://www.vanishingincmagic.com/magician/Richard-Osterlind/)
+- [75] [The Top 13 Most Famous Mentalists of Modern Magic](https://mollieplotkingroup.com/the-top-13-most-famous-mentalists-of-modern-magic/)
+- [76] [Illusionist Derren Brown pushes the boundaries of mentalism](https://www.youtube.com/watch?v=eOg93AVGGyI)
+- [77] [How To Recognize and Lessen the Barnum Effect](https://health.clevelandclinic.org/barnum-effect)
+- [78] [Power of Suggestion Tricks in Mentalism - Everything You Should ...](https://magicmentalism.com/power-of-suggestion-tricks-in-mentalism/)
+- [79] [Priming | Mentalism - Wix.com](https://mentalist260.wixsite.com/mentalism/priming)
+- [80] [The Power of Confirmation Bias: Why We Only See What We Believe](https://mindthegraph.com/blog/confirmation-bias/)
+- [81] [Forer / Barnum Effect from Trick of the Mind - Mentalism and magic http://mentalismandmagic.weebly.com/forer--barnum-effect-from-trick-of-the-mind.html
+[82] What is a suggestion show? - Lior Suchard](https://liorsuchard.com/suggestion-show/)
+- [83] [Priming (psychology) - Wikipedia](https://en.wikipedia.org/wiki/Priming_(psychology))
+- [84] [Confirmation Bias - The Decision Lab](https://thedecisionlab.com/biases/confirmation-bias)
+- [85] [Barnum Effect Mentalist Trick - YouTube](https://www.youtube.com/watch?v=7axDPMiro3o)
+- [86] [Sure-Fire Mentalism vs. Suggestion Mentalism | theory11 forums](https://www.theory11.com/forums/threads/sure-fire-mentalism-vs-suggestion-mentalism.17057/)
+- [87] [Priming - The Decision Lab](https://thedecisionlab.com/biases/priming)
+- [88] [Confirmation Bias And the Power of Disconfirming Evidence](https://fs.blog/confirmation-bias/)
+- [89] [Mentalism in Psychology and the belief in the soul - Mentes Abiertas](https://www.mentesabiertaspsicologia.com/blog-psicologia/mentalism-in-psychology-and-the-belief-in-the-soul)
+- [90] [TIMELINE by Abhinav Bothra Instant Download - Penguin Magic](https://www.penguinmagic.com/p/10942)
+- [91] [How Does Mentalism Work? History, Facts and More](https://magicmentalism.com/how-does-mentalism-work/)
+- [92] [Cold Reader Tips: How Cold Reading Works - 2025 - MasterClass](https://www.masterclass.com/articles/cold-reader-guide)
+- [93] [Mastering the Art of Cold Reading - YouTube](https://www.youtube.com/watch?v=ahvPSAe2YlY)
+- [94] [Cold Reading & Mentalism For The Psychic Entertainer](https://www.murphysmagic.com/Streaming/Product.aspx?id=53714)
+- [95] [Muscle reading | Mentalism - Wix.com](https://mentalist260.wixsite.com/mentalism/muscle-reading)
+- [96] [Mind Reading and Mentalism – Top 10 Magic Tricks Revealed](https://niftytechfinds.com/mind-reading-and-mentalism-top-magic-tricks/)
+- [97] [Psychological Force – Jon Finch | Magician & Mentalist](https://finchmagician.com/magic-terms/mentalism/forcing/psychological-force)
+- [98] [Dual-reality Magic Tricks](https://www.penguinmagic.com/tricks/tagged/dual-reality)
+- [99] [Mentalism Masterclass 3: dual reality by Peter Turner - Lybrary](https://www.lybrary.com/mentalism-masterclass-3-dual-reality-p-845657.html)
+- [100] [Resources on the principle of dual reality? : r/Magic - Reddit](https://www.reddit.com/r/Magic/comments/3butiq/resources_on_the_principle_of_dual_reality/)
+- [101] [Mentalism, mind reading and the art of getting inside your head | TED](https://www.youtube.com/watch?v=2IFa0tqHrwE)
+- [102] [Mentalism, mind reading and the art of getting inside your head - TED](https://www.ted.com/talks/derren_brown_mentalism_mind_reading_and_the_art_of_getting_inside_your_head)
+- [103] [How Derren Brown Remade Mind Reading for Skeptics](https://www.newyorker.com/magazine/2019/10/07/how-derren-brown-remade-mind-reading-for-skeptics)
+- [104] [Derren Brown | The psychological illusionist's tricks mind over matter](https://finchmagician.com/magic/derren-brown)
 [105] Luke Jermay - Wikipedia https://en.wikipedia.org/wiki/Luke_Jermay
-[106] Max Maven Dies: Mentalist, Magical Historian Was 71 - Deadline https://deadline.com/2022/11/max-maven-dead-mentalist-and-magical-historian-was-71-obituary-1235163201/
-[107] Barnum Effect | Psychology of Self-Deception & Misattribution https://www.britannica.com/science/Barnum-Effect
-[108] Are You a Victim of the Barnum Effect? - Verywell Mind https://www.verywellmind.com/barnum-effect-7561323
-[109] The Barnum Demonstration https://psych.fullerton.edu/mbirnbaum/psych101/barnum_demo.htm
-[110] Barnum effect | Shortcuts - Shortcogs https://www.shortcogs.com/bias/barnum-effect
-[111] Confirmation bias - Wikipedia https://en.wikipedia.org/wiki/Confirmation_bias
-
+- [106] [Max Maven Dies: Mentalist, Magical Historian Was 71 - Deadline](https://deadline.com/2022/11/max-maven-dead-mentalist-and-magical-historian-was-71-obituary-1235163201/)
+- [107] [Barnum Effect | Psychology of Self-Deception & Misattribution](https://www.britannica.com/science/Barnum-Effect)
+- [108] [Are You a Victim of the Barnum Effect? - Verywell Mind](https://www.verywellmind.com/barnum-effect-7561323)
+- [109] [The Barnum Demonstration](https://psych.fullerton.edu/mbirnbaum/psych101/barnum_demo.htm)
+- [110] [Barnum effect | Shortcuts - Shortcogs](https://www.shortcogs.com/bias/barnum-effect)
+- [111] [Confirmation bias - Wikipedia](https://en.wikipedia.org/wiki/Confirmation_bias)

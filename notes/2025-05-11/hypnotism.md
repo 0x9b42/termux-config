@@ -1,5 +1,3 @@
-report all you can find about hypnotism in great detail
-
 # Hypnotism: A Comprehensive Analysis
 
 Hypnotism represents a fascinating psychological state characterized by focused attention, heightened suggestibility, and altered awareness. The phenomenon involves inducing a trance-like condition in which individuals remain conscious but experience a detachment from their immediate surroundings while becoming more receptive to suggestions. Modern scientific understanding has evolved significantly from historical mystical interpretations to evidence-based neurological explanations. Hypnotic states are now recognized as legitimate psychological phenomena with valuable therapeutic applications across various fields including pain management, anxiety reduction, and behavioral modification.
@@ -87,108 +85,108 @@ The scientific evidence supporting hypnotic interventions continues to grow, par
 Future directions for the field include further refinement of neuroscientific models explaining hypnotic phenomena, development of more targeted applications for specific clinical conditions, and improved methods for identifying and working effectively with individuals across the spectrum of hypnotic susceptibility. As understanding grows regarding the mechanisms through which hypnotic suggestion influences perception, sensation, and physiological processes, more sophisticated and effective therapeutic applications will likely emerge. The continuing integration of hypnotic approaches with other evidence-based interventions promises to enhance treatment options for many conditions while further illuminating the remarkable connections between mind, brain, and body that hypnotic phenomena so vividly demonstrate.
 
 Citations:
-[1] HYPNOTISM | English meaning - Cambridge Dictionary https://dictionary.cambridge.org/dictionary/english/hypnotism
-[2] HYPNOSIS definition and meaning | Collins English Dictionary https://www.collinsdictionary.com/dictionary/english/hypnosis
-[3] What is hypnosis and how might it work? - PMC - PubMed Central https://pmc.ncbi.nlm.nih.gov/articles/PMC6357291/
-[4] History of hypnosis - Wikipedia https://en.wikipedia.org/wiki/History_of_hypnosis
-[5] Franz Mesmer - Wikipedia https://en.wikipedia.org/wiki/Franz_Mesmer
-[6] Hypnotic induction - Wikipedia https://en.wikipedia.org/wiki/Hypnotic_induction
-[7] What Is Self-Hypnosis and How Do I Do It? - Health Cleveland Clinic https://health.clevelandclinic.org/self-hypnosis
-[8] NEODISSOCIATION THEORY - Aspiro Ltd https://www.aspiro.uk/home/theories-of-hypnosis/neodissociation-theory/
-[9] Stage hypnosis - Wikipedia https://en.wikipedia.org/wiki/Stage_hypnosis
-[10] Meta-analytic evidence on the efficacy of hypnosis for mental and ... https://pmc.ncbi.nlm.nih.gov/articles/PMC10807512/
-[11] Hypnosis, and the potential to manage pain - Monash Lens https://lens.monash.edu/@medicine-health/2023/01/19/1385350/hypnosis-and-the-potential-to-manage-pain
-[12] the role of hypnosis in memory recall and false memories formation https://pubmed.ncbi.nlm.nih.gov/39968201/
-[13] Hypnotism - Definition, Meaning & Synonyms - Vocabulary.com https://www.vocabulary.com/dictionary/hypnotism
-[14] 31 Hypnosis Techniques (The Most Comprehensive List) https://britishhypnosisresearch.com/hypnosis-techniques/
-[15] Theories of Hypnosis https://hypnosisandsuggestion.com/theories-of-hypnosis.html
-[16] Hypnosis - Wikipedia https://en.wikipedia.org/wiki/Hypnosis
-[17] Dave Elman Hypnotic Induction Script https://www.ukhypnosis.com/dave-elman-hypnotic-inductionscript/
-[18] Hypnosis | Definition, History, Techniques, & Facts - Britannica https://www.britannica.com/science/hypnosis
-[19] hypnotism - LDOCE - Longman Dictionary https://www.ldoceonline.com/dictionary/hypnotism
-[20] Hypnosis: What It Is, How It Works, Benefits & Risks - Cleveland Clinic https://my.clevelandclinic.org/health/treatments/22676-hypnosis
-[21] Hypnosis - Mayo Clinic https://www.mayoclinic.org/tests-procedures/hypnosis/about/pac-20394405
-[22] Hypnosis: Types, Uses, Impact, Pitfalls - Verywell Mind https://www.verywellmind.com/what-is-hypnosis-2795921
-[23] hypnotism, n. meanings, etymology and more https://www.oed.com/dictionary/hypnotism_n
-[24] HYPNOSIS | English meaning - Cambridge Dictionary https://dictionary.cambridge.org/dictionary/english/hypnosis
-[25] HYPNOTISM definition and meaning | Collins English Dictionary https://www.collinsdictionary.com/dictionary/english/hypnotism
-[26] hypnosis - APA Dictionary of Psychology https://dictionary.apa.org/hypnosis
-[27] Definition of hypnosis - NCI Dictionary of Cancer Terms https://www.cancer.gov/publications/dictionaries/cancer-terms/def/hypnosis
-[28] James Braid | Golfer, Hypnotist & Neurophysiologist - Britannica https://www.britannica.com/biography/James-Braid-British-surgeon
-[29] Franz Anton Mesmer | Magnetism, Hypnosis, Animal ... - Britannica https://www.britannica.com/biography/Franz-Anton-Mesmer
-[30] Hypnosis - Wikipedia https://en.wikipedia.org/wiki/Hypnosis
-[31] James Braid (surgeon) - Wikipedia https://en.wikipedia.org/wiki/James_Braid_(surgeon)
-[32] Franz Anton Mesmer - P2K Stekom https://p2k.stekom.ac.id/ensiklopedia/Franz_Anton_Mesmer
-[33] The History of Hypnosis https://www.mathewsopenaccess.com/full-text/the-history-of-hypnosis
-[34] James Braid - Wikipedia bahasa Indonesia, ensiklopedia bebas https://id.wikipedia.org/wiki/James_Braid
-[35] Franz Anton Mesmer (1734-1815) | The Super-Enlightenment https://exhibits.stanford.edu/super-e/feature/franz-anton-mesmer-1734-1815
-[36] James Braid | S1 | Terakreditasi | Universitas STEKOM Semarang https://p2k.stekom.ac.id/ensiklopedia/James_Braid
-[37] Franz Anton Mesmer - Wikipedia bahasa Indonesia, ensiklopedia ... https://id.wikipedia.org/wiki/Franz_Anton_Mesmer
-[38] James Braid - Hillsdale in D.C. https://dc.hillsdale.edu/Profiles/James-Braid/
-[39] Jual Mesmerism : The Discovery of Animal Magnetism - Franz Anton ... https://www.tokopedia.com/mamalane/mesmerism-the-discovery-of-animal-magnetism-franz-anton-mesmer
-[40] Top Hypnosis Methods | Moving Minds Hypnotherapy https://movingmindshypnotherapy.com.au/the-top-hypnosis-methods-and-how-they-work/
-[41] Self-hypnosis - Wikipedia https://en.wikipedia.org/wiki/Self-hypnosis
-[42] Master the Dave Elman Induction: A Step by Step Guide https://mikemandelhypnosis.com/hypnosis-training/dave-elman-induction-master-classic-essentially-perfect-hypnotic-induction/
-[43] Self-Hypnosis: Benefits, How to Try It & More - Healthline https://www.healthline.com/health/mental-health/self-hypnosis
-[44] Self Hypnosis: Manfaat dan Cara Melakukannya - Lifepack.id https://lifepack.id/self-hypnosis-adalah/
-[45] The Ultimate Guide to Hypnotic Inductions - Mike Mandel Hypnosis https://mikemandelhypnosis.com/hypnosis-training/hypnotic-inductions-ultimate-guide/
-[46] Types of Hypnosis & Hypnotherapy Techniques - Primed Mind https://primedmind.com/types-of-hypnosis/
-[47] Self Hypnosis, Terapi Diri Sendiri untuk Kesehatan Mental - Halodoc https://www.halodoc.com/artikel/self-hypnosis-terapi-diri-sendiri-untuk-kesehatan-mental
-[48] Looking for simple hypnotic inductions : r/hypnosis - Reddit https://www.reddit.com/r/hypnosis/comments/egiuyc/looking_for_simple_hypnotic_inductions/
-[49] Hypnosis: What It Is, How It Works, Benefits & Risks - Cleveland Clinic https://my.clevelandclinic.org/health/treatments/22676-hypnosis
-[50] Pengertian dan Manfaat Self Hypnosis - QuBisa https://www.qubisa.com/article/pengertian-dan-manfaat-self-hypnosis
-[51] Hypnotic Induction (3 effective techniques) | British Hypnosis Research https://britishhypnosisresearch.com/rapid-inductions/
-[52] State or Non-State Hypnosis? Why It's Not As Simple As It Sounds https://www.academyinnermind.co.uk/post/state-or-non-state-hypnosis-why-it-s-not-as-simple-as-it-sounds
-[53] Hypnosis and Meditation | Introduction to Psychology https://courses.lumenlearning.com/suny-hvcc-psychology-1/chapter/other-states-of-consciousness/
-[54] States of consciousness - Hypnosis And Suggestion https://hypnosisandsuggestion.com/states-of-consciousness.html
-[55] The social-cognitive theory of hypnosis assumes that people who a... https://www.pearson.com/channels/psychology/asset/99a2dc12/the-social-cognitive-theory-of-hypnosis-assumes-that-people-who-are-hypnotized-a
-[56] State or Non-State Theories of Hypnosis - https://hypnomanchester.co.uk/state-or-non-state-theories-of-hypnosis/
-[57] Theories of Hypnosis | Springer Publishing https://connect.springerpub.com/content/book/978-0-8261-2487-6/part/part01/chapter/ch02
-[58] Hypnosis State vs. Non-State Flashcards by Meida Rutkauskaite https://www.brainscape.com/flashcards/hypnosis-state-vs-non-state-5194400/packs/7666645
-[59] 5 Social cognitive theories of hypnosis - Oxford Academic https://academic.oup.com/edited-volume/34389/chapter/291613264
-[60] Altered 'state' of consciousness versus the 'nonstate' theory of ... https://www.therapyandhypnosis.ie/altered-state-of-consciousness-versus-the-nonstate-theory-of-hypnosis/
-[61] The Big Hypnosis Debate - State or Nonstate? - Adam Eason https://www.adam-eason.com/the-big-hypnosis-debate-state-or-nonstate/
-[62] Apa Itu Stage | PDF - Scribd https://ro.scribd.com/doc/43461850/Apa-Itu-Stage
-[63] Rahasia Melakukan Stage Hypnosis - Adi W Gunawan https://adiwgunawan.id/news/rahasia-melakukan-stage-hypnosis
-[64] Belajar Psikologi Umum | INI DIA RAHASIA PERTUNJUKAN STAGE ... https://www.instagram.com/belajarilmupsikologi/reel/C-7Ba7jMqGn/
-[65] Jual Stage hypnosis buku murah obral original | Shopee Indonesia https://shopee.co.id/Stage-hypnosis-buku-murah-obral-original-i.209798822.16972830477
-[66] Efficacy of hypnotherapy compared to cognitive behavioral therapy ... https://www.sciencedirect.com/science/article/pii/S0165032721002032
-[67] Does hypnosis help to quit smoking? - Medical News Today https://www.medicalnewstoday.com/articles/hypnosis-to-quit-smoking
-[68] Hypnotherapy for the Management of Chronic Pain - PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC2752362/
-[69] Dealing With False Memories in Hypnosis https://mikemandelhypnosis.com/hypnosis-training/dealing-with-false-memories/
-[70] Hypnotherapy - Wikipedia https://en.wikipedia.org/wiki/Hypnotherapy
-[71] Hypnosis to Quit Smoking: Benefits and Risks - WebMD https://www.webmd.com/smoking-cessation/hypnosis-for-quitting-smoking
-[72] Hypnotic Approaches for Chronic Pain Management - PubMed Central https://pmc.ncbi.nlm.nih.gov/articles/PMC4465776/
-[73] A Cognitive Psychology Blog » False memories and hypnosis https://web.colby.edu/cogblog/2022/04/24/hypnosis-isnt-magic-and-can-actually-change-your-brain-the-power-of-acceptance-and-suggestion/
-[74] Hypnosis and hypnotherapy - Royal College of Psychiatrists https://www.rcpsych.ac.uk/mental-health/treatments-and-wellbeing/hypnosis-and-hypnotherapy
-[75] Hypnotherapy as a method of smoking cessation: a systematic review https://journal.ugm.ac.id/v3/BKM/article/view/5560
-[76] How hypnosis can alter the brain's perception of pain - Scope https://scopeblog.stanford.edu/2023/04/14/how-hypnosis-can-alter-the-brains-perception-of-pain/
-[77] Remembering what did not happen: the role of hypnosis in memory ... https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1433762/full
-[78] The history of hypnosis - Jan - University of Derby https://www.derby.ac.uk/blog/the-history-of-hypnosis/
-[79] Hypnosis | Definition, History, Techniques, & Facts - Britannica https://www.britannica.com/science/hypnosis
-[80] History of Hypnosis - National Council for Hypnotherapy (NCH) https://www.hypnotherapists.org.uk/21151/history-of-hypnosis/
-[81] The Evolution & History of Hypnosis: From Ancient Spiritual Practices https://instituteofclinicalhypnosis.com/hypnosis/history-of-hypnosis/
-[82] James Braid | EBSCO Research Starters https://www.ebsco.com/research-starters/health-and-medicine/james-braid
-[83] Sejarah hipnosis (History of hypnosis) https://id.wikipedia.org/wiki/Sejarah_hipnosis
-[84] Hypnotic Induction Techniques and Mindfulness - Springer Publishing https://connect.springerpub.com/content/book/978-0-8261-2774-7/section/part01/chapter/ch04
-[85] What is a hypnotic induction? How do you hypnotise someone? https://hypnotc.com/what-is-a-hypnotic-induction/
-[86] Self-hypnosis: How to, benefits, and more - Medical News Today https://www.medicalnewstoday.com/articles/self-hypnosis
-[87] Mastering Hypnotic Inductions - International Hypnosis Association https://hypnosiscredentials.com/techniques/mastering-hypnotic-inductions/
-[88] Some operationalizations of the neodissociation concept and their ... https://pubmed.ncbi.nlm.nih.gov/3397868/
-[89] Dissociation theories of hypnosis - PubMed https://pubmed.ncbi.nlm.nih.gov/9461855/
-[90] [PDF] Ernest R. Hilgard - Stacks are the Stanford https://stacks.stanford.edu/file/druid:kk309nh8552/kk309nh8552.pdf
-[91] Is Hypnosis Real? Hypnotherapy CPD state or non-state theory https://www.academyinnermind.co.uk/post/hypnotherapy-cpd-state-or-non-state-theory
-[92] A social-cognitive skills approach to the successful ... - PubMed https://pubmed.ncbi.nlm.nih.gov/3712225/
-[93] Ernest Hilgard - Wikipedia https://en.wikipedia.org/wiki/Ernest_Hilgard
-[94] Hipnosis panggung - Wikipedia bahasa Indonesia, ensiklopedia ... https://id.wikipedia.org/wiki/Hipnosis_panggung
-[95] Stage Hypnosis (Hipnosis Panggung) - Pelatihan Hipnoterapi https://www.sultanbudilenggono.com/2014/02/stage-hypnosis-hipnosis-panggung.html
-[96] Rahasia Melakukan Stage Hypnosis - Adi W Gunawan https://www.adiwgunawan.com/news/rahasia-melakukan-stage-hypnosis
-[97] Stage Hypnosis Revealed | PDF | Filsafat - Scribd https://id.scribd.com/document/500316206/Stage-Hypnosis-Revealed
-[98] Master of Stage Hypnotist Workshop - transformasi indonesia https://transformasiindonesia.net/master-stage-hypnotist-workshop/
-[99] Stage HYpnosis - IBHCenter https://www.ibhcenter.org/stage-hypnosis/
-[100] Rahasia Melakukan Stage Hypnosis - Adi W Gunawan https://www.adiwgunawan.com/newsprint.php?pid=48
-[101] Uncovering the new science of clinical hypnosis https://www.apa.org/monitor/2024/04/science-of-hypnosis
-[102] THE EFFICACY OF HYPNOSIS AS A TREATMENT FOR ANXIETY https://pubmed.ncbi.nlm.nih.gov/31251710/
-[103] Does Hypnotherapy Really Work? 10+ Scientific Findings https://positivepsychology.com/hypnotherapy/
-[104] Hypnosis to Quit Smoking: Benefits, Risks, How It Works - Healthline https://www.healthline.com/health/hypnosis-to-quit-smoking
+- [1] [HYPNOTISM | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/hypnotism)
+- [2] [HYPNOSIS definition and meaning | Collins English Dictionary](https://www.collinsdictionary.com/dictionary/english/hypnosis)
+- [3] [What is hypnosis and how might it work? - PMC - PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC6357291/)
+- [4] [History of hypnosis - Wikipedia](https://en.wikipedia.org/wiki/History_of_hypnosis)
+- [5] [Franz Mesmer - Wikipedia](https://en.wikipedia.org/wiki/Franz_Mesmer)
+- [6] [Hypnotic induction - Wikipedia](https://en.wikipedia.org/wiki/Hypnotic_induction)
+- [7] [What Is Self-Hypnosis and How Do I Do It? - Health Cleveland Clinic](https://health.clevelandclinic.org/self-hypnosis)
+- [8] [NEODISSOCIATION THEORY - Aspiro Ltd](https://www.aspiro.uk/home/theories-of-hypnosis/neodissociation-theory/)
+- [9] [Stage hypnosis - Wikipedia](https://en.wikipedia.org/wiki/Stage_hypnosis)
+- [10] [Meta-analytic evidence on the efficacy of hypnosis for mental and ...](https://pmc.ncbi.nlm.nih.gov/articles/PMC10807512/)
+- [11] [Hypnosis, and the potential to manage pain - Monash Lens](https://lens.monash.edu/@medicine-health/2023/01/19/1385350/hypnosis-and-the-potential-to-manage-pain)
+- [12] [the role of hypnosis in memory recall and false memories formation](https://pubmed.ncbi.nlm.nih.gov/39968201/)
+- [13] [Hypnotism - Definition, Meaning & Synonyms - Vocabulary.com](https://www.vocabulary.com/dictionary/hypnotism)
+- [14] [31 Hypnosis Techniques (The Most Comprehensive List)](https://britishhypnosisresearch.com/hypnosis-techniques/)
+- [15] [Theories of Hypnosis](https://hypnosisandsuggestion.com/theories-of-hypnosis.html)
+- [16] [Hypnosis - Wikipedia](https://en.wikipedia.org/wiki/Hypnosis)
+- [17] [Dave Elman Hypnotic Induction Script](https://www.ukhypnosis.com/dave-elman-hypnotic-inductionscript/)
+- [18] [Hypnosis | Definition, History, Techniques, & Facts - Britannica](https://www.britannica.com/science/hypnosis)
+- [19] [hypnotism - LDOCE - Longman Dictionary](https://www.ldoceonline.com/dictionary/hypnotism)
+- [20] [Hypnosis: What It Is, How It Works, Benefits & Risks - Cleveland Clinic](https://my.clevelandclinic.org/health/treatments/22676-hypnosis)
+- [21] [Hypnosis - Mayo Clinic](https://www.mayoclinic.org/tests-procedures/hypnosis/about/pac-20394405)
+- [22] [Hypnosis: Types, Uses, Impact, Pitfalls - Verywell Mind](https://www.verywellmind.com/what-is-hypnosis-2795921)
+- [23] [hypnotism, n. meanings, etymology and more](https://www.oed.com/dictionary/hypnotism_n)
+- [24] [HYPNOSIS | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/hypnosis)
+- [25] [HYPNOTISM definition and meaning | Collins English Dictionary](https://www.collinsdictionary.com/dictionary/english/hypnotism)
+- [26] [hypnosis - APA Dictionary of Psychology](https://dictionary.apa.org/hypnosis)
+- [27] [Definition of hypnosis - NCI Dictionary of Cancer Terms](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/hypnosis)
+- [28] [James Braid | Golfer, Hypnotist & Neurophysiologist - Britannica](https://www.britannica.com/biography/James-Braid-British-surgeon)
+- [29] [Franz Anton Mesmer | Magnetism, Hypnosis, Animal ... - Britannica](https://www.britannica.com/biography/Franz-Anton-Mesmer)
+- [30] [Hypnosis - Wikipedia](https://en.wikipedia.org/wiki/Hypnosis)
+- [31] [James Braid (surgeon) - Wikipedia](https://en.wikipedia.org/wiki/James_Braid_(surgeon))
+- [32] [Franz Anton Mesmer - P2K Stekom](https://p2k.stekom.ac.id/ensiklopedia/Franz_Anton_Mesmer)
+- [33] [The History of Hypnosis](https://www.mathewsopenaccess.com/full-text/the-history-of-hypnosis)
+- [34] [James Braid - Wikipedia bahasa Indonesia, ensiklopedia bebas](https://id.wikipedia.org/wiki/James_Braid)
+- [35] [Franz Anton Mesmer (1734-1815) | The Super-Enlightenment](https://exhibits.stanford.edu/super-e/feature/franz-anton-mesmer-1734-1815)
+- [36] [James Braid | S1 | Terakreditasi | Universitas STEKOM Semarang](https://p2k.stekom.ac.id/ensiklopedia/James_Braid)
+- [37] [Franz Anton Mesmer - Wikipedia bahasa Indonesia, ensiklopedia ...](https://id.wikipedia.org/wiki/Franz_Anton_Mesmer)
+- [38] [James Braid - Hillsdale in D.C.](https://dc.hillsdale.edu/Profiles/James-Braid/)
+- [39] [Jual Mesmerism : The Discovery of Animal Magnetism - Franz Anton ...](https://www.tokopedia.com/mamalane/mesmerism-the-discovery-of-animal-magnetism-franz-anton-mesmer)
+- [40] [Top Hypnosis Methods | Moving Minds Hypnotherapy](https://movingmindshypnotherapy.com.au/the-top-hypnosis-methods-and-how-they-work/)
+- [41] [Self-hypnosis - Wikipedia](https://en.wikipedia.org/wiki/Self-hypnosis)
+- [42] [Master the Dave Elman Induction: A Step by Step Guide](https://mikemandelhypnosis.com/hypnosis-training/dave-elman-induction-master-classic-essentially-perfect-hypnotic-induction/)
+- [43] [Self-Hypnosis: Benefits, How to Try It & More - Healthline](https://www.healthline.com/health/mental-health/self-hypnosis)
+- [44] [Self Hypnosis: Manfaat dan Cara Melakukannya - Lifepack.id](https://lifepack.id/self-hypnosis-adalah/)
+- [45] [The Ultimate Guide to Hypnotic Inductions - Mike Mandel Hypnosis](https://mikemandelhypnosis.com/hypnosis-training/hypnotic-inductions-ultimate-guide/)
+- [46] [Types of Hypnosis & Hypnotherapy Techniques - Primed Mind](https://primedmind.com/types-of-hypnosis/)
+- [47] [Self Hypnosis, Terapi Diri Sendiri untuk Kesehatan Mental - Halodoc](https://www.halodoc.com/artikel/self-hypnosis-terapi-diri-sendiri-untuk-kesehatan-mental)
+- [48] [Looking for simple hypnotic inductions : r/hypnosis - Reddit](https://www.reddit.com/r/hypnosis/comments/egiuyc/looking_for_simple_hypnotic_inductions/)
+- [49] [Hypnosis: What It Is, How It Works, Benefits & Risks - Cleveland Clinic](https://my.clevelandclinic.org/health/treatments/22676-hypnosis)
+- [50] [Pengertian dan Manfaat Self Hypnosis - QuBisa](https://www.qubisa.com/article/pengertian-dan-manfaat-self-hypnosis)
+- [51] [Hypnotic Induction (3 effective techniques) | British Hypnosis Research](https://britishhypnosisresearch.com/rapid-inductions/)
+- [52] [State or Non-State Hypnosis? Why It's Not As Simple As It Sounds](https://www.academyinnermind.co.uk/post/state-or-non-state-hypnosis-why-it-s-not-as-simple-as-it-sounds)
+- [53] [Hypnosis and Meditation | Introduction to Psychology](https://courses.lumenlearning.com/suny-hvcc-psychology-1/chapter/other-states-of-consciousness/)
+- [54] [States of consciousness - Hypnosis And Suggestion](https://hypnosisandsuggestion.com/states-of-consciousness.html)
+- [55] [The social-cognitive theory of hypnosis assumes that people who a...](https://www.pearson.com/channels/psychology/asset/99a2dc12/the-social-cognitive-theory-of-hypnosis-assumes-that-people-who-are-hypnotized-a)
+- [56] [State or Non-State Theories of Hypnosis -](https://hypnomanchester.co.uk/state-or-non-state-theories-of-hypnosis/)
+- [57] [Theories of Hypnosis | Springer Publishing](https://connect.springerpub.com/content/book/978-0-8261-2487-6/part/part01/chapter/ch02)
+- [58] [Hypnosis State vs. Non-State Flashcards by Meida Rutkauskaite](https://www.brainscape.com/flashcards/hypnosis-state-vs-non-state-5194400/packs/7666645)
+- [59] [5 Social cognitive theories of hypnosis - Oxford Academic](https://academic.oup.com/edited-volume/34389/chapter/291613264)
+- [60] [Altered 'state' of consciousness versus the 'nonstate' theory of ...](https://www.therapyandhypnosis.ie/altered-state-of-consciousness-versus-the-nonstate-theory-of-hypnosis/)
+- [61] [The Big Hypnosis Debate - State or Nonstate? - Adam Eason](https://www.adam-eason.com/the-big-hypnosis-debate-state-or-nonstate/)
+- [62] [Apa Itu Stage | PDF - Scribd](https://ro.scribd.com/doc/43461850/Apa-Itu-Stage)
+- [63] [Rahasia Melakukan Stage Hypnosis - Adi W Gunawan](https://adiwgunawan.id/news/rahasia-melakukan-stage-hypnosis)
+- [64] [Belajar Psikologi Umum | INI DIA RAHASIA PERTUNJUKAN STAGE ...](https://www.instagram.com/belajarilmupsikologi/reel/C-7Ba7jMqGn/)
+- [65] [Jual Stage hypnosis buku murah obral original | Shopee Indonesia](https://shopee.co.id/Stage-hypnosis-buku-murah-obral-original-i.209798822.16972830477)
+- [66] [Efficacy of hypnotherapy compared to cognitive behavioral therapy ...](https://www.sciencedirect.com/science/article/pii/S0165032721002032)
+- [67] [Does hypnosis help to quit smoking? - Medical News Today](https://www.medicalnewstoday.com/articles/hypnosis-to-quit-smoking)
+- [68] [Hypnotherapy for the Management of Chronic Pain - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2752362/)
+- [69] [Dealing With False Memories in Hypnosis](https://mikemandelhypnosis.com/hypnosis-training/dealing-with-false-memories/)
+- [70] [Hypnotherapy - Wikipedia](https://en.wikipedia.org/wiki/Hypnotherapy)
+- [71] [Hypnosis to Quit Smoking: Benefits and Risks - WebMD](https://www.webmd.com/smoking-cessation/hypnosis-for-quitting-smoking)
+- [72] [Hypnotic Approaches for Chronic Pain Management - PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC4465776/)
+- [73] [A Cognitive Psychology Blog » False memories and hypnosis](https://web.colby.edu/cogblog/2022/04/24/hypnosis-isnt-magic-and-can-actually-change-your-brain-the-power-of-acceptance-and-suggestion/)
+- [74] [Hypnosis and hypnotherapy - Royal College of Psychiatrists](https://www.rcpsych.ac.uk/mental-health/treatments-and-wellbeing/hypnosis-and-hypnotherapy)
+- [75] [Hypnotherapy as a method of smoking cessation: a systematic review](https://journal.ugm.ac.id/v3/BKM/article/view/5560)
+- [76] [How hypnosis can alter the brain's perception of pain - Scope](https://scopeblog.stanford.edu/2023/04/14/how-hypnosis-can-alter-the-brains-perception-of-pain/)
+- [77] [Remembering what did not happen: the role of hypnosis in memory ...](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1433762/full)
+- [78] [The history of hypnosis - Jan - University of Derby](https://www.derby.ac.uk/blog/the-history-of-hypnosis/)
+- [79] [Hypnosis | Definition, History, Techniques, & Facts - Britannica](https://www.britannica.com/science/hypnosis)
+- [80] [History of Hypnosis - National Council for Hypnotherapy (NCH)](https://www.hypnotherapists.org.uk/21151/history-of-hypnosis/)
+- [81] [The Evolution & History of Hypnosis: From Ancient Spiritual Practices](https://instituteofclinicalhypnosis.com/hypnosis/history-of-hypnosis/)
+- [82] [James Braid | EBSCO Research Starters](https://www.ebsco.com/research-starters/health-and-medicine/james-braid)
+- [83] [Sejarah hipnosis (History of hypnosis)](https://id.wikipedia.org/wiki/Sejarah_hipnosis)
+- [84] [Hypnotic Induction Techniques and Mindfulness - Springer Publishing](https://connect.springerpub.com/content/book/978-0-8261-2774-7/section/part01/chapter/ch04)
+- [85] [What is a hypnotic induction? How do you hypnotise someone?](https://hypnotc.com/what-is-a-hypnotic-induction/)
+- [86] [Self-hypnosis: How to, benefits, and more - Medical News Today](https://www.medicalnewstoday.com/articles/self-hypnosis)
+- [87] [Mastering Hypnotic Inductions - International Hypnosis Association](https://hypnosiscredentials.com/techniques/mastering-hypnotic-inductions/)
+- [88] [Some operationalizations of the neodissociation concept and their ...](https://pubmed.ncbi.nlm.nih.gov/3397868/)
+- [89] [Dissociation theories of hypnosis - PubMed](https://pubmed.ncbi.nlm.nih.gov/9461855/)
+- [90] [[PDF] Ernest R. Hilgard - Stacks are the Stanford](https://stacks.stanford.edu/file/druid:kk309nh8552/kk309nh8552.pdf)
+- [91] [Is Hypnosis Real? Hypnotherapy CPD state or non-state theory](https://www.academyinnermind.co.uk/post/hypnotherapy-cpd-state-or-non-state-theory)
+- [92] [A social-cognitive skills approach to the successful ... - PubMed](https://pubmed.ncbi.nlm.nih.gov/3712225/)
+- [93] [Ernest Hilgard - Wikipedia](https://en.wikipedia.org/wiki/Ernest_Hilgard)
+- [94] [Hipnosis panggung - Wikipedia bahasa Indonesia, ensiklopedia ...](https://id.wikipedia.org/wiki/Hipnosis_panggung)
+- [95] [Stage Hypnosis (Hipnosis Panggung) - Pelatihan Hipnoterapi](https://www.sultanbudilenggono.com/2014/02/stage-hypnosis-hipnosis-panggung.html)
+- [96] [Rahasia Melakukan Stage Hypnosis - Adi W Gunawan](https://www.adiwgunawan.com/news/rahasia-melakukan-stage-hypnosis)
+- [97] [Stage Hypnosis Revealed | PDF | Filsafat - Scribd](https://id.scribd.com/document/500316206/Stage-Hypnosis-Revealed)
+- [98] [Master of Stage Hypnotist Workshop - transformasi indonesia](https://transformasiindonesia.net/master-stage-hypnotist-workshop/)
+- [99] [Stage HYpnosis - IBHCenter](https://www.ibhcenter.org/stage-hypnosis/)
+- [100] [Rahasia Melakukan Stage Hypnosis - Adi W Gunawan](https://www.adiwgunawan.com/newsprint.php?pid=48)
+- [101] [Uncovering the new science of clinical hypnosis](https://www.apa.org/monitor/2024/04/science-of-hypnosis)
+- [102] [THE EFFICACY OF HYPNOSIS AS A TREATMENT FOR ANXIETY](https://pubmed.ncbi.nlm.nih.gov/31251710/)
+- [103] [Does Hypnotherapy Really Work? 10+ Scientific Findings](https://positivepsychology.com/hypnotherapy/)
+- [104] [Hypnosis to Quit Smoking: Benefits, Risks, How It Works - Healthline](https://www.healthline.com/health/hypnosis-to-quit-smoking)
 

@@ -89,104 +89,104 @@ While scientific research on Reiki presents methodological challenges and curren
 Future directions for Reiki may include developing more sophisticated research methodologies to better understand its mechanisms and effects, further integration with conventional healthcare practices, and continued evolution of specialized applications for specific conditions and populations. As healthcare increasingly embraces holistic perspectives that recognize the interconnection of physical, emotional, and spiritual aspects of wellbeing, Reiki's comprehensive approach to healing maintains its relevance and potential contribution to human health and wellness.
 
 Citations:
-[1] Reiki - an overview | ScienceDirect Topics https://www.sciencedirect.com/topics/medicine-and-dentistry/reiki
-[2] What Are The 5 Principles of Reiki That Promote Wellness? https://www.souladvisor.com/your-sanctuary/article/what-are-the-5-principle-of-reiki-that-promote-wellness
-[3] Types of Reiki https://www.medindia.net/health/alternative-medicine/reiki/reiki7.htm
-[4] About Reiki Hand Positions - IARP https://iarp.org/about-reiki-hand-positions-2/
-[5] Attunement (Reiki) https://en.dharmapedia.net/wiki/Attunement_(Reiki)
-[6] Usui Reiki Symbols & Their Meanings - Centre of Excellence https://www.centreofexcellence.com/reiki-symbols-meanings/
-[7] Effect of Reiki Therapy on Pain and Anxiety in Adults https://pmc.ncbi.nlm.nih.gov/articles/PMC4147026/
-[8] What Are Energy Therapies? | Taking Charge of Your Wellbeing https://www.takingcharge.csh.umn.edu/what-are-energy-therapies
-[9] Biofield therapy: Definition, how it works, benefits, and more https://www.medicalnewstoday.com/articles/biofield-therapy
-[10] ?? What Is Sound Healing Therapy? ??♀️ How Sound Can Improve Your Mental Health ?? https://themindsjournal.com/what-is-sound-healing-therapy-how-sound-can-boost-your-mental-health-and-improve-your-life/
-[11] History of Reiki: Read about the Origin and Traditions of Reiki https://iarp.org/history-of-reiki/
-[12] 22 Reiki Hand Positions: A Quest From Traditional To Modern ... https://reikiscoop.com/reiki-hand-positions/
-[13] Reiki Is Better Than Placebo and Has Broad Potential as a ... https://pmc.ncbi.nlm.nih.gov/articles/PMC5871310/
-[14] Energy therapy: What it is, types, and uses - Medical News Today https://www.medicalnewstoday.com/articles/energy-therapy
-[15] What is the History of Reiki? https://www.reiki.org/faqs/what-history-reiki
-[16] 10 Traditional Reiki Hand Positions - Protectivity https://www.protectivity.com/knowledge-centre/10-traditional-reiki-hand-positions-you-should-know/
-[17] Reiki Is Better Than Placebo and Has Broad Potential as a Complementary Health Therapy - PubMed https://pubmed.ncbi.nlm.nih.gov/28874060/
-[18] Reiki - Wikipedia https://en.wikipedia.org/wiki/Reiki
-[19] The Origins Of Reiki - Blissful Moments Holistics https://blissfulmomentsholistics.co.uk/history-origins-reiki/
-[20] Reiki | Healing, Japan, Origin, Techniques, & Skepticism | Britannica https://www.britannica.com/science/Reiki
-[21] How to Use Reiki Principles to Boost Well-Being - Healthline https://www.healthline.com/health/reiki-principles
-[22] Explore 5 Traditional Usui Reiki Meditations & Techniques from Japan https://paritashahhealing.com/usui-reiki-meditations-techniques/
-[23] Where Does Reiki Come From? | Taking Charge of Your Wellbeing https://www.takingcharge.csh.umn.edu/where-reiki-from
-[24] The REIKI Principles https://www.speakingtree.in/blog/the-reiki-principles
-[25] Here’s Your Introductory Guide to Reiki – An Energy Healing Technique https://youaligned.com/wellness/introductory-guide-reiki/
-[26] Beyond the Mystery: The History of Reiki Healing https://www.aurahealth.io/blog/beyond-the-mystery-the-history-of-reiki-healing
-[27] What are the 5 Reiki Principles | Just For Today Mantra https://www.qhhtofficial.com/healing/5-reiki-principles/
-[28] Reiki: What it is, techniques, benefits, risks, and more https://www.medicalnewstoday.com/articles/308772
-[29] The History of Reiki https://www.georgianamoncktonreiki.com/the-history-of-reiki.php
-[30] 5 Reiki Principles For Conscious Living https://dailydish.co.uk/5-reiki-principles-for-conscious-living/
-[31] Reiki: How Energy Healing Works - Cleveland Clinic Health Essentials https://health.clevelandclinic.org/reiki
-[32] The History of Usui Reiki and the Reiki Principles | London https://www.reiki-meditation.co.uk/the-history-of-usui-reiki/
-[33] Attunements https://reikirays.com/reiki-attunements/
-[34] Reiki Symbols: Meaning and Use. | Inthebook https://inthebook.com/reiki-symbols/
-[35] Reiki hand placement chart https://irp-cdn.multiscreensite.com/fde46401/files/uploaded/ronemisasedo.pdf
-[36] What Is Reiki Attunement | Opening to the Energy https://www.starchaser-healingarts.com/what-is-reiki-attunement-opening-to-the-energy/
-[37] cshreiki - reikisymbolsandwhattheydo https://sites.google.com/site/cshreiki/reikisymbolsandwhattheydo
-[38] Reiki Hand Placements for Treating Others - Learn Religions https://www.learnreligions.com/reiki-hand-placements-for-treating-others-1731722
-[39] Reiki Levels Of Attunement https://reikirays.com/195/reiki-levels-of-attunement/
-[40] Reiki Symbols https://stason.org/articles/wellbeing/reiki/reiki_symbols.html
-[41] Reiki Hand Placement Charts (Reiki Learning Series) - Pinterest https://www.pinterest.com/pin/reiki-hand-placement-charts-reiki-learning-series--703476404320360200/
-[42] The Essential Guide to Reiki Attunements: Levels 1, 2 and 3 https://paritashahhealing.com/reiki-attunements/
-[43] What are the 3 reiki symbols https://assets-global.website-files.com/65f004b4fdb1d22b84866795/67ca22ecaa9675e9d5ce6a03_63629099978.pdf
-[44] How to Remember the Reiki Hand Positions https://www.reikitherapyresources.com/hand-positions/
-[45] Reiki, the Scientific Evidence https://www.reiki.org/articles/reiki-scientific-evidence
-[46] Reiki for Skeptics and Other People You Thought Weren't Interested https://reikiinmedicine.org/popular/reiki-for-skeptics/
-[47] A systematic review of the therapeutic effects of Reiki https://repub.eur.nl/pub/32539
-[48] [PDF] An Integrative Review of Reiki Touch Therapy Research https://www.uclahealth.org/sites/default/files/documents/Integrative_Review_of_Reiki_Research.pdf
-[49] Reiki for Skeptics and Other People You Thought Weren't Interested https://reikiinmedicine.org/communicating-reiki/reiki-for-skeptics/
-[50] Does Reiki Benefit Mental Health Symptoms Above Placebo? https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.897312/full
-[51] Should We Take Reiki Seriously? | Office for Science and Society https://www.mcgill.ca/oss/article/health-pseudoscience/should-we-take-reiki-seriously
-[52] 6 Tips for Helping Reiki Kids Deal with Adult Skepticism https://www.crystalreikiwellness.com/news/2023/10/9/6-tips-for-helping-reiki-kids-deal-with-adult-skepticism
-[53] Effects of reiki in clinical practice: a systematic review of randomised ... https://onlinelibrary.wiley.com/doi/10.1111/j.1742-1241.2008.01729.x
-[54] Reiki - an overview | ScienceDirect Topics https://www.sciencedirect.com/topics/medicine-and-dentistry/reiki
-[55] Reiki for Skeptics https://www.reikimassagepllc.com/post/reiki-for-skeptics
-[56] What Does the Research Say about Reiki? https://www.takingcharge.csh.umn.edu/what-does-research-say-about-reiki
-[57] Understanding the Different Types of Energy Healing https://www.annmariejohn.com/different-types-of-energy-healing
-[58] The role of biofield energy treatment on psychological symptoms, mental health disorders, and stress‐related quality of life in adult subjects: A randomized controlled clinical trial https://onlinelibrary.wiley.com/doi/full/10.1002/jgf2.606
-[59] How Pranic Healing Can Revitalize Your Mind, Body, and Spirit https://themindsjournal.com/what-is-pranic-healing-and-how-does-it-work/
-[60] Therapeutic touch Information | Mount Sinai - New York https://www.mountsinai.org/health-library/treatment/therapeutic-touch
-[61] Energy Psychology: Definition, Types, Techniques, and Efficacy https://www.verywellmind.com/is-energy-psychology-for-real-2330736
-[62] Examining the effects of biofield therapy through simultaneous ... https://www.nature.com/articles/s41598-024-79617-3
-[63] 40 Things You Need To Know About Pranic (Energy) Healing https://www.brainzmagazine.com/post/40-things-you-need-to-knowabout-pranic-energy-healing
-[64] Therapeutic Touch | Taking Charge of Your Wellbeing https://www.takingcharge.csh.umn.edu/therapeutic-touch
-[65] Energy Therapy - Platelet Disorder Support Association https://pdsa.org/energy-therapy
-[66] ACA Counseling Corner Blog https://www.counseling.org/news/aca-blogs/aca-counseling-corner/aca-member-blogs/2019/06/12/biofield-therapies
-[67] Pranic Healing: 7 Easy and Powerful Steps to Natural Self-Healing https://www.finerminds.com/pranic-healing/
-[68] V? https://www.chausa.org/docs/default-source/health-progress/therapeutic-touch-a-healing-intervention-pdf.pdf?sfvrsn=0
-[69] Healing with crystals: How does it work? https://timesofindia.indiatimes.com/life-style/soul-search/healing-with-crystals-how-does-it-work/photostory/107240007.cms
-[70] Introduction to Qigong https://www.qigonginstitute.org/category/5/introduction-to-qigong
-[71] What Is EFT, and How Does It Work? EFT Tapping & Benefits https://www.medicinenet.com/what_is_eft_and_how_does_it_work/article.htm
-[72] Theta Healing - Redirect the flow of powerful energies https://www.lifepositive.com/service/theta-healing
-[73] The Healing Power of Sound | Timberline Knolls Residential Treatment Center https://www.timberlineknolls.com/about/blog/the-healing-power-of-sound/
-[74] What is Crystal Healing? | Crystal Life https://www.crystal-life.com/what-is-crystal-healing/
-[75] Qigong Meditation: For Beginners, Techniques, Benefits, and More https://www.healthline.com/nutrition/qigong-meditation
-[76] How to Do EFT Tapping: Your Guide to the Tapping Technique https://www.thetappingsolution.com/blog/how-to-do-eft-tapping-your-complete-guide-to-the-tapping-technique-and-the-basic-tapping-sequence/
-[77] What is ThetaHealing®? Your Complete Guide to this Technique. https://www.bourgeon.co.uk/what-is-theta-healing/
-[78] If stress is getting to you, soothe your mind and body with sound therapy https://www.healthshots.com/how-to/how-to-use-sound-to-heal-yourself/
-[79] Everything You Need To Know About Crystal Healing https://www.sassyhongkong.com/crystal-healing-chakras-health-wellness/
-[80] Qigong Practice to Cultivate Healing (Qigong Group Starting Soon!!!) https://www.youtube.com/watch?v=JCV9IyK4xPo
-[81] [PDF] USUI REIKI TRAINING HAND POSITIONS | Holistic Solutions https://www.holisticsolutions.online/wp-content/uploads/2020/09/hs-usui-reiki-training-hand-positions.pdf
-[82] Reiki Hand Position http://www.indobase.com/reiki/receiving-reiki/reiki-hand-position.html
-[83] How are the hands used during reiki? https://reikifascination.com/handpositions/
-[84] The effect of reiki on pain: A meta-analysis - ScienceDirect.com https://www.sciencedirect.com/science/article/abs/pii/S1744388117303626
-[85] Reiki Therapy for the Improvement of Key Symptoms among ... https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2024-04926
-[86] Medical Trials Involving Reiki https://reikihorizons.com/medical-trials-involving-reiki
-[87] The Touchstone Process: an ongoing critical evaluation of reiki in the scientific literature - PubMed https://pubmed.ncbi.nlm.nih.gov/20706088/
-[88] Explaining Reiki to Skeptics https://reikirays.com/90775/explaining-reiki-to-skeptics/
-[89] 10 Types of Energy Healing: Which One Is Right for You? - LocallyWell https://www.locallywell.com/10-types-of-energy-healing-which-one-is-right-for-you/
-[90] Energy medicine - Wikipedia https://en.wikipedia.org/wiki/Energy_medicine
-[91] Types of Energy Healing: Which One is Right for You? https://www.consumerenergycenter.org/types-of-energy-healing/
-[92] What is pranic healing and how does it work? https://arohanyoga.com/blog/what-is-pranic-healing-and-how-does-it-work/
-[93] Touch Therapy https://www.carepatron.com/guides/touch-therapy
-[94] Qigong: What You Need To Know | NCCIH https://www.nccih.nih.gov/health/qigong-what-you-need-to-know
-[95] Qigong - Wikipedia https://en.wikipedia.org/wiki/Qigong
-[96] Qigong Therapy for Stress Management: A Systematic Review of ... https://www.mdpi.com/2227-9032/12/23/2342
-[97] Jual Chinese medical Qigong therapy volume 1 | Shopee Indonesia https://shopee.co.id/Chinese-medical-Qigong-therapy-volume-1-i.1126020662.25840966445
-[98] What Is Qiqong Therapy?: Exploring Qigong's Mental Health Benefits https://www.betterhelp.com/advice/therapy/what-is-qigong-therapy/
-[99] How Does Tapping Work? All About EFT Tapping - All About the EFT Tapping Method https://www.thetappingsolution.com/blog/how-does-tapping-work/
-[100] What is Theta Healing? https://www.thehealthboard.com/what-is-theta-healing.htm
+- [1] [Reiki - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/medicine-and-dentistry/reiki)
+- [2] [What Are The 5 Principles of Reiki That Promote Wellness?](https://www.souladvisor.com/your-sanctuary/article/what-are-the-5-principle-of-reiki-that-promote-wellness)
+- [3] [Types of Reiki](https://www.medindia.net/health/alternative-medicine/reiki/reiki7.htm)
+- [4] [About Reiki Hand Positions - IARP](https://iarp.org/about-reiki-hand-positions-2/)
+- [5] [Attunement (Reiki)](https://en.dharmapedia.net/wiki/Attunement_(Reiki))
+- [6] [Usui Reiki Symbols & Their Meanings - Centre of Excellence](https://www.centreofexcellence.com/reiki-symbols-meanings/)
+- [7] [Effect of Reiki Therapy on Pain and Anxiety in Adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC4147026/)
+- [8] [What Are Energy Therapies? | Taking Charge of Your Wellbeing](https://www.takingcharge.csh.umn.edu/what-are-energy-therapies)
+- [9] [Biofield therapy: Definition, how it works, benefits, and more](https://www.medicalnewstoday.com/articles/biofield-therapy)
+- [10] [?? What Is Sound Healing Therapy? ??♀️ How Sound Can Improve Your Mental Health ??](https://themindsjournal.com/what-is-sound-healing-therapy-how-sound-can-boost-your-mental-health-and-improve-your-life/)
+- [11] [History of Reiki: Read about the Origin and Traditions of Reiki](https://iarp.org/history-of-reiki/)
+- [12] [22 Reiki Hand Positions: A Quest From Traditional To Modern ...](https://reikiscoop.com/reiki-hand-positions/)
+- [13] [Reiki Is Better Than Placebo and Has Broad Potential as a ...](https://pmc.ncbi.nlm.nih.gov/articles/PMC5871310/)
+- [14] [Energy therapy: What it is, types, and uses - Medical News Today](https://www.medicalnewstoday.com/articles/energy-therapy)
+- [15] [What is the History of Reiki?](https://www.reiki.org/faqs/what-history-reiki)
+- [16] [10 Traditional Reiki Hand Positions - Protectivity](https://www.protectivity.com/knowledge-centre/10-traditional-reiki-hand-positions-you-should-know/)
+- [17] [Reiki Is Better Than Placebo and Has Broad Potential as a Complementary Health Therapy - PubMed](https://pubmed.ncbi.nlm.nih.gov/28874060/)
+- [18] [Reiki - Wikipedia](https://en.wikipedia.org/wiki/Reiki)
+- [19] [The Origins Of Reiki - Blissful Moments Holistics](https://blissfulmomentsholistics.co.uk/history-origins-reiki/)
+- [20] [Reiki | Healing, Japan, Origin, Techniques, & Skepticism | Britannica](https://www.britannica.com/science/Reiki)
+- [21] [How to Use Reiki Principles to Boost Well-Being - Healthline](https://www.healthline.com/health/reiki-principles)
+- [22] [Explore 5 Traditional Usui Reiki Meditations & Techniques from Japan](https://paritashahhealing.com/usui-reiki-meditations-techniques/)
+- [23] [Where Does Reiki Come From? | Taking Charge of Your Wellbeing](https://www.takingcharge.csh.umn.edu/where-reiki-from)
+- [24] [The REIKI Principles](https://www.speakingtree.in/blog/the-reiki-principles)
+- [25] [Here’s Your Introductory Guide to Reiki – An Energy Healing Technique](https://youaligned.com/wellness/introductory-guide-reiki/)
+- [26] [Beyond the Mystery: The History of Reiki Healing](https://www.aurahealth.io/blog/beyond-the-mystery-the-history-of-reiki-healing)
+- [27] [What are the 5 Reiki Principles | Just For Today Mantra](https://www.qhhtofficial.com/healing/5-reiki-principles/)
+- [28] [Reiki: What it is, techniques, benefits, risks, and more](https://www.medicalnewstoday.com/articles/308772)
+- [29] [The History of Reiki](https://www.georgianamoncktonreiki.com/the-history-of-reiki.php)
+- [30] [5 Reiki Principles For Conscious Living](https://dailydish.co.uk/5-reiki-principles-for-conscious-living/)
+- [31] [Reiki: How Energy Healing Works - Cleveland Clinic Health Essentials](https://health.clevelandclinic.org/reiki)
+- [32] [The History of Usui Reiki and the Reiki Principles | London](https://www.reiki-meditation.co.uk/the-history-of-usui-reiki/)
+- [33] [Attunements](https://reikirays.com/reiki-attunements/)
+- [34] [Reiki Symbols: Meaning and Use. | Inthebook](https://inthebook.com/reiki-symbols/)
+- [35] [Reiki hand placement chart](https://irp-cdn.multiscreensite.com/fde46401/files/uploaded/ronemisasedo.pdf)
+- [36] [What Is Reiki Attunement | Opening to the Energy](https://www.starchaser-healingarts.com/what-is-reiki-attunement-opening-to-the-energy/)
+- [37] [cshreiki - reikisymbolsandwhattheydo](https://sites.google.com/site/cshreiki/reikisymbolsandwhattheydo)
+- [38] [Reiki Hand Placements for Treating Others - Learn Religions](https://www.learnreligions.com/reiki-hand-placements-for-treating-others-1731722)
+- [39] [Reiki Levels Of Attunement](https://reikirays.com/195/reiki-levels-of-attunement/)
+- [40] [Reiki Symbols](https://stason.org/articles/wellbeing/reiki/reiki_symbols.html)
+- [41] [Reiki Hand Placement Charts (Reiki Learning Series) - Pinterest](https://www.pinterest.com/pin/reiki-hand-placement-charts-reiki-learning-series--703476404320360200/)
+- [42] [The Essential Guide to Reiki Attunements: Levels 1, 2 and 3](https://paritashahhealing.com/reiki-attunements/)
+- [43] [What are the 3 reiki symbols](https://assets-global.website-files.com/65f004b4fdb1d22b84866795/67ca22ecaa9675e9d5ce6a03_63629099978.pdf)
+- [44] [How to Remember the Reiki Hand Positions](https://www.reikitherapyresources.com/hand-positions/)
+- [45] [Reiki, the Scientific Evidence](https://www.reiki.org/articles/reiki-scientific-evidence)
+- [46] [Reiki for Skeptics and Other People You Thought Weren't Interested](https://reikiinmedicine.org/popular/reiki-for-skeptics/)
+- [47] [A systematic review of the therapeutic effects of Reiki](https://repub.eur.nl/pub/32539)
+- [48] [[PDF] An Integrative Review of Reiki Touch Therapy Research](https://www.uclahealth.org/sites/default/files/documents/Integrative_Review_of_Reiki_Research.pdf)
+- [49] [Reiki for Skeptics and Other People You Thought Weren't Interested](https://reikiinmedicine.org/communicating-reiki/reiki-for-skeptics/)
+- [50] [Does Reiki Benefit Mental Health Symptoms Above Placebo?](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.897312/full)
+- [51] [Should We Take Reiki Seriously? | Office for Science and Society](https://www.mcgill.ca/oss/article/health-pseudoscience/should-we-take-reiki-seriously)
+- [52] [6 Tips for Helping Reiki Kids Deal with Adult Skepticism](https://www.crystalreikiwellness.com/news/2023/10/9/6-tips-for-helping-reiki-kids-deal-with-adult-skepticism)
+- [53] [Effects of reiki in clinical practice: a systematic review of randomised ...](https://onlinelibrary.wiley.com/doi/10.1111/j.1742-1241.2008.01729.x)
+- [54] [Reiki - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/medicine-and-dentistry/reiki)
+- [55] [Reiki for Skeptics](https://www.reikimassagepllc.com/post/reiki-for-skeptics)
+- [56] [What Does the Research Say about Reiki?](https://www.takingcharge.csh.umn.edu/what-does-research-say-about-reiki)
+- [57] [Understanding the Different Types of Energy Healing](https://www.annmariejohn.com/different-types-of-energy-healing)
+- [58] [The role of biofield energy treatment on psychological symptoms, mental health disorders, and stress‐related quality of life in adult subjects: A randomized controlled clinical trial](https://onlinelibrary.wiley.com/doi/full/10.1002/jgf2.606)
+- [59] [How Pranic Healing Can Revitalize Your Mind, Body, and Spirit](https://themindsjournal.com/what-is-pranic-healing-and-how-does-it-work/)
+- [60] [Therapeutic touch Information | Mount Sinai - New York](https://www.mountsinai.org/health-library/treatment/therapeutic-touch)
+- [61] [Energy Psychology: Definition, Types, Techniques, and Efficacy](https://www.verywellmind.com/is-energy-psychology-for-real-2330736)
+- [62] [Examining the effects of biofield therapy through simultaneous ...](https://www.nature.com/articles/s41598-024-79617-3)
+- [63] [40 Things You Need To Know About Pranic (Energy) Healing](https://www.brainzmagazine.com/post/40-things-you-need-to-knowabout-pranic-energy-healing)
+- [64] [Therapeutic Touch | Taking Charge of Your Wellbeing](https://www.takingcharge.csh.umn.edu/therapeutic-touch)
+- [65] [Energy Therapy - Platelet Disorder Support Association](https://pdsa.org/energy-therapy)
+- [66] [ACA Counseling Corner Blog](https://www.counseling.org/news/aca-blogs/aca-counseling-corner/aca-member-blogs/2019/06/12/biofield-therapies)
+- [67] [Pranic Healing: 7 Easy and Powerful Steps to Natural Self-Healing](https://www.finerminds.com/pranic-healing/)
+- [68] [V?](https://www.chausa.org/docs/default-source/health-progress/therapeutic-touch-a-healing-intervention-pdf.pdf?sfvrsn=0)
+- [69] [Healing with crystals: How does it work?](https://timesofindia.indiatimes.com/life-style/soul-search/healing-with-crystals-how-does-it-work/photostory/107240007.cms)
+- [70] [Introduction to Qigong](https://www.qigonginstitute.org/category/5/introduction-to-qigong)
+- [71] [What Is EFT, and How Does It Work? EFT Tapping & Benefits](https://www.medicinenet.com/what_is_eft_and_how_does_it_work/article.htm)
+- [72] [Theta Healing - Redirect the flow of powerful energies](https://www.lifepositive.com/service/theta-healing)
+- [73] [The Healing Power of Sound | Timberline Knolls Residential Treatment Center](https://www.timberlineknolls.com/about/blog/the-healing-power-of-sound/)
+- [74] [What is Crystal Healing? | Crystal Life](https://www.crystal-life.com/what-is-crystal-healing/)
+- [75] [Qigong Meditation: For Beginners, Techniques, Benefits, and More](https://www.healthline.com/nutrition/qigong-meditation)
+- [76] [How to Do EFT Tapping: Your Guide to the Tapping Technique](https://www.thetappingsolution.com/blog/how-to-do-eft-tapping-your-complete-guide-to-the-tapping-technique-and-the-basic-tapping-sequence/)
+- [77] [What is ThetaHealing®? Your Complete Guide to this Technique.](https://www.bourgeon.co.uk/what-is-theta-healing/)
+- [78] [If stress is getting to you, soothe your mind and body with sound therapy](https://www.healthshots.com/how-to/how-to-use-sound-to-heal-yourself/)
+- [79] [Everything You Need To Know About Crystal Healing](https://www.sassyhongkong.com/crystal-healing-chakras-health-wellness/)
+- [80] [Qigong Practice to Cultivate Healing (Qigong Group Starting Soon!!!)](https://www.youtube.com/watch?v=JCV9IyK4xPo)
+- [81] [[PDF] USUI REIKI TRAINING HAND POSITIONS | Holistic Solutions](https://www.holisticsolutions.online/wp-content/uploads/2020/09/hs-usui-reiki-training-hand-positions.pdf)
+- [82] [Reiki Hand Position http://www.indobase.com/reiki/receiving-reiki/reiki-hand-position.html
+[83] How are the hands used during reiki?](https://reikifascination.com/handpositions/)
+- [84] [The effect of reiki on pain: A meta-analysis - ScienceDirect.com](https://www.sciencedirect.com/science/article/abs/pii/S1744388117303626)
+- [85] [Reiki Therapy for the Improvement of Key Symptoms among ...](https://www.cancer.gov/about-cancer/treatment/clinical-trials/search/v?id=NCI-2024-04926)
+- [86] [Medical Trials Involving Reiki](https://reikihorizons.com/medical-trials-involving-reiki)
+- [87] [The Touchstone Process: an ongoing critical evaluation of reiki in the scientific literature - PubMed](https://pubmed.ncbi.nlm.nih.gov/20706088/)
+- [88] [Explaining Reiki to Skeptics](https://reikirays.com/90775/explaining-reiki-to-skeptics/)
+- [89] [10 Types of Energy Healing: Which One Is Right for You? - LocallyWell](https://www.locallywell.com/10-types-of-energy-healing-which-one-is-right-for-you/)
+- [90] [Energy medicine - Wikipedia](https://en.wikipedia.org/wiki/Energy_medicine)
+- [91] [Types of Energy Healing: Which One is Right for You?](https://www.consumerenergycenter.org/types-of-energy-healing/)
+- [92] [What is pranic healing and how does it work?](https://arohanyoga.com/blog/what-is-pranic-healing-and-how-does-it-work/)
+- [93] [Touch Therapy](https://www.carepatron.com/guides/touch-therapy)
+- [94] [Qigong: What You Need To Know | NCCIH](https://www.nccih.nih.gov/health/qigong-what-you-need-to-know)
+- [95] [Qigong - Wikipedia](https://en.wikipedia.org/wiki/Qigong)
+- [96] [Qigong Therapy for Stress Management: A Systematic Review of ...](https://www.mdpi.com/2227-9032/12/23/2342)
+- [97] [Jual Chinese medical Qigong therapy volume 1 | Shopee Indonesia](https://shopee.co.id/Chinese-medical-Qigong-therapy-volume-1-i.1126020662.25840966445)
+- [98] [What Is Qiqong Therapy?: Exploring Qigong's Mental Health Benefits](https://www.betterhelp.com/advice/therapy/what-is-qigong-therapy/)
+- [99] [How Does Tapping Work? All About EFT Tapping - All About the EFT Tapping Method](https://www.thetappingsolution.com/blog/how-does-tapping-work/)
+- [100] [What is Theta Healing?](https://www.thehealthboard.com/what-is-theta-healing.htm)
 
