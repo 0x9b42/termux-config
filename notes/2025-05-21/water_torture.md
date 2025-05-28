@@ -91,21 +91,20 @@ The technique's effectiveness stems from its exploitation of fundamental human p
 The history of water torture more broadly serves as a troubling reminder of humanity's capacity for cruelty and the ethical challenges surrounding interrogation techniques, particularly how societies can regress in their moral standards regarding the treatment of prisoners and detainees.
 
 Citations:
-[1] Chinese water torture - Wikipedia https://en.wikipedia.org/wiki/Chinese_water_torture
-[2] The Hidden History of Water Torture | The Nation https://www.thenation.com/article/archive/hidden-history-water-torture/
-[3] Penyiksaan air ala Tiongkok (Chinese water torture) https://id.wikipedia.org/wiki/Penyiksaan_air_ala_Tiongkok
-[4] Mengerikan! Penyiksaan ala Tiongkok Hanya Dengan Tetesan Air? https://student-activity.binus.ac.id/bnmc/2023/12/11/mengerikan-penyiksaan-ala-tiongkok-hanya-dengan-tetesan-air/
-[5] 7 Of Our Favourite Torture Devices - London - The Dungeons https://www.thedungeons.com/london/information/news/7-of-our-favourite-torture-devices/
-[6] The Dirtiest, Filthiest, Most Offensive Pun You'll Never Read! https://www.cjr.org/behind_the_news/the_dirtiest_filthiest_most_of.php
-[7] [PDF] Chinese Water Torture As seen in "MythBusters https://jaclynhughes.files.wordpress.com/2014/08/chinese-water-torture.pdf
-[8] Definition of 'Chinese water torture' - Collins Dictionary https://www.collinsdictionary.com/dictionary/english/chinese-water-torture
-[9] Houdini on his Water Torture Cell (1914) - The Public Domain Review https://publicdomainreview.org/collection/houdini-on-his-water-torture-cell-1914/
-[10] The Chinese Water Torture #425 - YouTube https://www.youtube.com/watch?v=7S4KgzxNUhM
-[11] The Chinese Torture Story https://www.emerald.com/insight/content/doi/10.1108/eum0000000001205/full/pdf
-[12] Water torture - Wikipedia https://en.wikipedia.org/wiki/Water_torture
-[13] Chinese Water Torture was primarily psychological, designed to ... https://www.reddit.com/r/SnapshotHistory/comments/1h641db/chinese_water_torture_was_primarily_psychological/
-[14] The Disturbing History Of Chinese Water Torture And How It Worked https://allthatsinteresting.com/chinese-water-torture
-[15] The Chinese Water Torture Cell - De Gruyter https://www.degruyterbrill.com/document/doi/10.12987/9780300252255-001/pdf?licenseType=restricted
-[16] Chinese water torture - Wiktionary, the free dictionary https://en.wiktionary.org/wiki/Chinese_water_torture
-[17] CHINESE WATER TORTURE Definition & Meaning - Dictionary.com https://www.dictionary.com/browse/chinese-water-torture
-
+- [1] [Chinese water torture - Wikipedia](https://en.wikipedia.org/wiki/Chinese_water_torture)
+- [2] [The Hidden History of Water Torture | The Nation](https://www.thenation.com/article/archive/hidden-history-water-torture/,)
+- [3] [Penyiksaan air ala Tiongkok (Chinese water torture)](https://id.wikipedia.org/wiki/Penyiksaan_air_ala_Tiongkok)
+- [4] [Mengerikan! Penyiksaan ala Tiongkok Hanya Dengan Tetesan Air?](https://student-activity.binus.ac.id/bnmc/2023/12/11/mengerikan-penyiksaan-ala-tiongkok-hanya-dengan-tetesan-air/)
+- [5] [7 Of Our Favourite Torture Devices - London - The Dungeons](https://www.thedungeons.com/london/information/news/7-of-our-favourite-torture-devices/)
+- [6] [The Dirtiest, Filthiest, Most Offensive Pun You'll Never Read!](https://www.cjr.org/behind_the_news/the_dirtiest_filthiest_most_of.php)
+- [7] [[PDF] Chinese Water Torture As seen in "MythBusters](https://jaclynhughes.files.wordpress.com/2014/08/chinese-water-torture.pdf)
+- [8] [Definition of 'Chinese water torture' - Collins Dictionary](https://www.collinsdictionary.com/dictionary/english/chinese-water-torture)
+- [9] [Houdini on his Water Torture Cell (1914) - The Public Domain Review](https://publicdomainreview.org/collection/houdini-on-his-water-torture-cell-1914/)
+- [10] [The Chinese Water Torture #425 - YouTube](https://www.youtube.com/watch?v=7S4KgzxNUhM)
+- [11] [The Chinese Torture Story](https://www.emerald.com/insight/content/doi/10.1108/eum0000000001205/full/pdf)
+- [12] [Water torture - Wikipedia](https://en.wikipedia.org/wiki/Water_torture)
+- [13] [Chinese Water Torture was primarily psychological, designed to ...](https://www.reddit.com/r/SnapshotHistory/comments/1h641db/chinese_water_torture_was_primarily_psychological/)
+- [14] [The Disturbing History Of Chinese Water Torture And How It Worked](https://allthatsinteresting.com/chinese-water-torture)
+- [15] [The Chinese Water Torture Cell - De Gruyter](https://www.degruyterbrill.com/document/doi/10.12987/9780300252255-001/pdf?licenseType=restricted)
+- [16] [Chinese water torture - Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/Chinese_water_torture)
+- [17] [CHINESE WATER TORTURE Definition & Meaning - Dictionary.com](https://www.dictionary.com/browse/chinese-water-torture)

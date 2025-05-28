@@ -1,5 +1,231 @@
 [
   {
+    "question": "Chinese: What does '我会说英语' mean?",
+    "answer": "I can speak English."
+  },
+  {
+    "question": "Chinese: What does '会' indicate in this sentence?",
+    "answer": "It shows ability or learned skill — 'can / know how to'."
+  },
+  {
+    "question": "Russian: Translate 'Я умею говорить по-английски'",
+    "answer": "I can speak English."
+  },
+  {
+    "question": "Russian: When is 'умею' used?",
+    "answer": "To express a learned skill (like speaking a language)."
+  },
+  {
+    "question": "Spanish: What structure shows ability in 'Sé hablar inglés'?",
+    "answer": "'Saber + infinitive' = to know how to (do something)"
+  },
+  {
+    "question": "French: Translate & IPA for 'Je sais parler anglais'",
+    "answer": "I can speak English. IPA: [ʒə sɛ paʁle ɑ̃ɡlɛ]"
+  },
+  {
+    "question": "Arabic: IPA & meaning of 'أستطيع التحدث بالإنجليزية'",
+    "answer": "IPA: [ʔas.taˈtˤiːʕ at.taˈħad.duθ bil.ʔin.d͡ʒi.liː.zij.ja] — I can speak English."
+  },
+  {
+    "question": "Arabic: What structure means 'I can'?",
+    "answer": "'أستطيع + verbal noun or verb'"
+  },
+  {
+    "question": "Japanese: What does '私は英語を話せます' mean?",
+    "answer": "I can speak English."
+  },
+  {
+    "question": "Japanese: What is the potential form of '話す'?",
+    "answer": "'話せます' (hanasemasu) — can speak"
+  },
+  {
+    "question": "Chinese: Pinyin & meaning of '我想吃苹果'",
+    "answer": "wǒ xiǎng chī píngguǒ — I want to eat an apple."
+  },
+  {
+    "question": "Chinese: What does '想' mean in this sentence?",
+    "answer": "It means 'want to'."
+  },
+  {
+    "question": "Russian: Translate & IPA for 'Я хочу съесть яблоко'",
+    "answer": "I want to eat an apple. IPA: [ja xɐˈt͡ɕu ˈsjestʲ ˈjæbləkə]"
+  },
+  {
+    "question": "Russian: What verb form is 'хочу'?",
+    "answer": "1st person singular of 'хотеть' (to want)."
+  },
+  {
+    "question": "Spanish: IPA & meaning of 'Quiero comer una manzana'",
+    "answer": "IPA: [ˈkjeɾo koˈmeɾ ˈuna manˈsana] — I want to eat an apple."
+  },
+  {
+    "question": "Spanish: What is the infinitive verb for 'to eat'?",
+    "answer": "'comer'"
+  },
+  {
+    "question": "French: Sentence & IPA for 'I want to eat an apple'",
+    "answer": "Je veux manger une pomme. IPA: [ʒə vø mɑ̃ʒe yn pɔm]"
+  },
+  {
+    "question": "French: Which verb shows desire?",
+    "answer": "'vouloir' — here conjugated as 'veux'"
+  },
+  {
+    "question": "Arabic: IPA & meaning of 'أريد أن آكل تفاحة'",
+    "answer": "IPA: [ʔuˈriːdu ʔan ˈʔaːkul tufˈfaːħa] — I want to eat an apple."
+  },
+  {
+    "question": "Arabic: What structure means 'I want to'?",
+    "answer": "'أريد أن' + present verb"
+  },
+  {
+    "question": "Japanese: Romaji & meaning of '私はりんごを食べたいです'",
+    "answer": "watashi wa ringo o tabetai desu — I want to eat an apple."
+  },
+  {
+    "question": "Japanese: What does the suffix 'たい' express?",
+    "answer": "Desire to do the verb (e.g., eat, go, see)."
+  },
+  {
+    "question": "Chinese: Pinyin & meaning of '我可以说一点中文'",
+    "answer": "wǒ kěyǐ shuō yìdiǎn zhōngwén — I can speak a little Chinese."
+  },
+  {
+    "question": "Chinese: What does '可以' express?",
+    "answer": "Ability or permission ('can / may')."
+  },
+  {
+    "question": "Russian: Give the sentence & IPA for 'I can speak a little Chinese'",
+    "answer": "Я могу немного говорить по-китайски. IPA: [ja mɐˈɡu nʲɪˈmnoɡə ɡɐvɐˈrʲitʲ pɐ kʲɪˈtajskʲɪ]"
+  },
+  {
+    "question": "Russian: Which verb form is 'могу'?",
+    "answer": "First-person singular of 'мочь' (to be able)."
+  },
+  {
+    "question": "Spanish: Translate 'Puedo hablar un poco de chino' + IPA",
+    "answer": "I can speak a little Chinese. IPA: [ˈpweðo aˈβlaɾ um ˈpoko ðe ˈtʃino]"
+  },
+  {
+    "question": "Spanish: What tense/form is 'puedo'?",
+    "answer": "Present indicative 1-sg of 'poder'."
+  },
+  {
+    "question": "French: Meaning & IPA of 'Je peux parler un peu chinois'",
+    "answer": "I can speak a little Chinese. IPA: [ʒə pø paʁle œ̃ pø ʃinwa]"
+  },
+  {
+    "question": "French: Which verb expresses ability?",
+    "answer": "'pouvoir' — here 'peux'."
+  },
+  {
+    "question": "Arabic: Sentence & IPA for 'I can speak a little Chinese'",
+    "answer": "أستطيع أن أتحدث قليلاً من الصينية. IPA: [ʔas.tˤaˈtiːʕ ʔan ʔa.taˈħadʰa qaˈliːlan min asːiːˈnijja]"
+  },
+  {
+    "question": "Arabic: What does 'أستطيع' mean?",
+    "answer": "'I can / am able to'."
+  },
+  {
+    "question": "Japanese: Romaji for '私は中国語を少し話せます' and meaning",
+    "answer": "watashi wa chūgokugo o sukoshi hanasemasu — I can speak a little Chinese."
+  },
+  {
+    "question": "Japanese: Which form shows ability?",
+    "answer": "Potential form of the verb (話せます)."
+  },
+  {
+    "question": "Chinese: Pinyin & meaning of '我明天要去市场'",
+    "answer": "wǒ míngtiān yào qù shìchǎng — I will go to the market tomorrow."
+  },
+  {
+    "question": "Chinese: What does '要' indicate before a verb?",
+    "answer": "Upcoming / intended action."
+  },
+  {
+    "question": "Russian: Provide the sentence & IPA for 'I will go to the market tomorrow'",
+    "answer": "Завтра я пойду на рынок. IPA: [ˈzaftrə ja pɐjˈdu na ˈrɨnək]"
+  },
+  {
+    "question": "Russian: Which aspect is 'пойду' and why use it?",
+    "answer": "Perfective—emphasises a single, complete future trip."
+  },
+  {
+    "question": "Spanish: Translate 'Mañana iré al mercado' + IPA",
+    "answer": "I will go to the market tomorrow. IPA: [maˈɲana iˈɾe al meɾˈkaðo]"
+  },
+  {
+    "question": "Spanish: What tense is 'iré'?",
+    "answer": "Simple future of 'ir'."
+  },
+  {
+    "question": "French: Give the meaning of 'Demain, j’irai au marché' + IPA",
+    "answer": "I will go to the market tomorrow. IPA: [dəˈmɛ̃ ʒiˈʁe o maʁˈʃe]"
+  },
+  {
+    "question": "French: Which verb form is 'irai'?",
+    "answer": "Simple future of 'aller'."
+  },
+  {
+    "question": "Arabic: Sentence & IPA for 'I will go to the market tomorrow'",
+    "answer": "سأذهب إلى السوق غدًا. IPA: [saˈʔaðhab ʔilaː sːuːq ˈɣadan]"
+  },
+  {
+    "question": "Arabic: What does the prefix 'سـ' do?",
+    "answer": "Turns the verb into near-future tense."
+  },
+  {
+    "question": "Japanese: Romaji for '明日市場へ行きます' and meaning",
+    "answer": "ashita ichiba e ikimasu — I will go to the market tomorrow."
+  },
+  {
+    "question": "Japanese: How is future intent expressed?",
+    "answer": "Use the non-past verb with a future time adverb (e.g., 明日 + 行きます)."
+  },
+  {
+    "question": "Chinese: What does '我懂了' mean?",
+    "answer": "I understand."
+  },
+  {
+    "question": "Chinese: How do you say 'I don’t understand'?",
+    "answer": "我不懂."
+  },
+  {
+    "question": "Russian: What does 'Я понял / Я поняла' mean?",
+    "answer": "I understood / I get it (masc./fem.)."
+  },
+  {
+    "question": "Russian: How do you say 'I don’t understand'?",
+    "answer": "Я не понимаю."
+  },
+  { "question": "Spanish: Translate 'Entiendo'.", "answer": "I understand." },
+  {
+    "question": "Spanish: How do you negate it?",
+    "answer": "'No entiendo' = I don’t understand."
+  },
+  {
+    "question": "French: What does 'Je comprends' mean?",
+    "answer": "I understand."
+  },
+  {
+    "question": "French: Give the negative form.",
+    "answer": "'Je ne comprends pas.'"
+  },
+  { "question": "Arabic: Translate 'أنا أفهم'.", "answer": "I understand." },
+  {
+    "question": "Arabic: How to say 'I don’t understand'?",
+    "answer": "أنا لا أفهم."
+  },
+  {
+    "question": "Japanese: What does '分かりました' mean?",
+    "answer": "I understand / Got it."
+  },
+  {
+    "question": "Japanese: Negative polite form?",
+    "answer": "'分かりません' – I don’t understand."
+  },
+  {
     "question": "Chinese: What does '现在几点？' mean?",
     "answer": "What time is it?"
   },

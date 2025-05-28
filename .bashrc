@@ -42,7 +42,6 @@ PATH="$PATH:$ANDROID_SDK_ROOT/cmdline-tools/latest/bin"
 PATH="$PATH:$GRADLE_HOME/bin"
 export PATH
 
-
 python ~/.quiz_cards/quizzer.py
 eval "$(starship init bash)"
 source ~/.config/starship_completions.sh

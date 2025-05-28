@@ -2171,3 +2171,2004 @@ clear
 cd INT/DumpDroid/Dump0/
 ls
 q
+q
+c
+cd coolrepos/paiRIP/
+l
+vi pyrip.py 
+cat pyrip.py 
+fg
+cd 
+clear 
+cd INT/DumpDroid/Dump0/
+l
+ifconfig
+sshd
+cd coolrepos/termux-config/
+git add .
+git status
+py
+mob reiki
+git add notes/2025-05-13/reiki.md 
+git commit -m up
+git push
+ls
+q
+clear 
+cd coolrepos/paiRIP/
+vi pyrip.py 
+cat pyrip.py 
+fg
+cd storage/movies/XRecorder0/
+ffmpeg -i gtra.mp4 -c:v libx264 -crf 35 -b:v 400k -r 24 -an gtran.mp4
+ffmpeg -i gtra.mp4 -c:v libx264 -crf 35 -b:v 400k -r 24 gtran.mp4
+cd C0F0-9D07
+c Movies/
+cd Movies/
+source ~/opt/r3/bin/activate
+pip install yt-dlp
+yt-dlp -h
+yt-dlp -h | grep playlist
+yt-dlp -f 136+140 --yes-playlist 'https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P'
+cd
+c
+sl
+ls
+cd INT/DumpDroid/Dump0/
+l
+search ads
+search ads -i
+search 'ads.*\(' -i
+search 'Ads.*\('
+grep -B1 'Ads.*\('
+grep -B1E 'Ads.*\('
+grep -EB1 'Ads.*\('
+grep -EB1 'Ads.*\(' -i
+grep i-EB1 'Ads.*\(' -i
+grep -EB1 'Ads.*\(' dump.cs 
+grep -iEB1 'iap.*\(' dump.cs 
+grep -iEB1 'get_.*\(' dump.cs 
+grep -iEB1 'bool.+\bget_.*\(' dump.cs 
+grep -iEB1 'hint.*\(' dump.cs 
+q
+l
+r2 libil2cpp.so 
+q
+r2 libil2cpp.so 
+q
+mob cigarettes
+c
+cd coolrepos/
+cd pao
+cd paiRIP/
+l
+vi pyrip.py 
+grep -EB1 'Ads.*\('
+grep -EB1 'Ads.*\(' -i
+grep i-EB1 'Ads.*\(' -i
+grep -EB1 'Ads.*\(' dump.cs 
+grep -iEB1 'iap.*\(' dump.cs 
+grep -iEB1 'get_.*\(' dump.cs 
+grep -iEB1 'bool.+\bget_.*\(' dump.cs 
+grep -iEB1 'hint.*\(' dump.cs 
+r2 libil2cpp.so 
+r2 libil2cpp.so 
+mob cigarettes
+cd coolrepos/
+cd pao
+vi pyrip.py 
+cd C0F0-9D07
+7z a AndroidIDE.7z AndroidIDEProjects/
+rm -fr AndroidIDEProjects/
+which apktool
+apktool
+apktool 2>/dev/null
+cd MT2/apks/
+cd coolrepos
+cd paiRIP/
+cd
+cd APKLAB/pairip/
+rm -fr Original_main* *apk
+vi $(which apktool)
+apktool 
+apktool -advance
+c
+apktool d main_merged.apk 
+apkeditor d -i main_merged.apk 
+rm -fr main_merged*
+l
+apkeditor m -i main.apks 
+mv main_merged.apk main.apk
+apktool d main.apk -r --force-manifest
+cd main
+vi apktool.yml 
+ls
+tree lib/
+r2 -AA lib/armeabi-v7a/libpairipcore.so 
+q
+tree lib/
+r2 -AA lib/armeabi-v7a/libpairipcore.so 
+cd INT
+cd DumpDroid/
+ls
+cd Dump0/
+l
+geim dump.cs 
+q
+cmatrix 
+cd C0F0-9D07/Movies/
+ls
+source ~/opt/r3/bin/activate
+yt-dlp -f 136+140 --yes-playlist 'https://youtube.com/playlist?list=PLDvJT7zQDh8O_5Ds7xf2cwzr81p-Zz6AW'
+q
+./CODEX
+./CODEX mt.bin.plus
+./CODEX bin.mt.plus
+q
+cd INT
+cd DumpDroid/
+cd Dump0/
+geim dump.cs 
+cmatrix 
+cd C0F0-9D07/Movies/
+source ~/opt/r3/bin/activate
+yt-dlp -f 136+140 --yes-playlist 'https://youtube.com/playlist?list=PLDvJT7zQDh8O_5Ds7xf2cwzr81p-Zz6AW'
+cd coolrepos/
+git clone https://github.com/Qwanwin/Codex
+cd Codex/
+cd armeabi-v7a/
+file CODEX
+chmod +x CODEX*
+strings CODEX
+./CODEX
+doas bash
+r2 CODEX
+c
+ls lah
+ls -lah
+cd
+ls
+la
+rm -fr .task*
+l
+t
+q
+cd INT/Movies/
+l
+cd
+q
+q
+cd INT/Movies/
+l
+cd
+q
+apt install iproute2
+apt update -y
+ip r
+ip a
+rkhunter
+apt search rootkit
+apt search root
+apt show ndk-sysroot
+dpkg -L ndk-sysroot
+strace
+apt install strace
+cd coolrepos/Codex/
+cd armeabi-v7a/
+strace ./CODEX
+ltrace
+apt install ltrace
+ltrace ./CODEX
+mob dex
+mob dex1
+mob dex2
+mob dex3
+r2 CODEX
+fg
+cd /data/local/tmp
+ls
+sudo bash
+exit
+exit
+cd /etc
+cd permissions/
+vi platform.xml 
+vi /data/system/packages.xml 
+ls
+q
+mob dex2
+mob dex3
+r2 CODEX
+fg
+cd /data/local/tmp
+sudo bash
+exit
+cd 
+cd C0F0-9D07
+r2 libpremium.so 
+doas bash
+file libpremium.so 
+cd Labs/
+cat 0x9b42_regex.txt 
+rm 0x9b42_regex.txt 
+rm classes.dex 
+du -sh *
+cd Apktool_M/
+ls
+q
+l
+cd coolrepos/paiRIP/
+ls
+vi pyrip.py 
+q
+rm classes.dex 
+cd Apktool_M/
+cd coolrepos/paiRIP/
+vi pyrip.py 
+py -m http.server
+ip r
+ifconfig
+sudo ifconfig
+l
+cd Apps 
+rm Apps 
+cd opt/
+du -sh *
+cd android/
+cd ndk/
+./ndk-build 
+vi ndk-build 
+ls
+vi $(which newapk)
+q
+cd /storage/emulated/0/Download/Telegram/
+ls
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx264 -crf 28 -r 24 -b:v 500k out.mp4
+xdg-open out.mp4 
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx265 -preset normal -r 24 -b:v 500k out.mp4
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx265 -preset medium -r 24 -b:v 500k out.mp4
+q
+cd /storage/emulated/0/Download/Telegram/
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx264 -crf 28 -r 24 -b:v 500k out.mp4
+xdg-open out.mp4 
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx265 -preset normal -r 24 -b:v 500k out.mp4
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx265 -preset medium -r 24 -b:v 500k out.mp4
+cd APKLAB/
+cd dptshell/
+cd .x
+cd
+cd coolrepos/
+git clone https://github.com/luoyesiqiu/dpt-shell
+cd dpt-shell/
+ls
+tree
+vi
+q
+git clone https://github.com/luoyesiqiu/dpt-shell
+cd dpt-shell/
+tree
+vi
+cd ..
+cd Android/data/
+cd com.mwr.example.sieve/
+ls -a
+cd files/
+cat Backup\ \(2025-05-18\ 00-08-03.932\).xml 
+logcat
+ls
+q
+q
+cd coolrepos/paiRIP/
+vi pyrip.py 
+q
+rm classes.dex 
+cd Apktool_M/
+cd coolrepos/paiRIP/
+vi pyrip.py 
+py -m http.server
+ip r
+ifconfig
+sudo ifconfig
+cd Apps 
+rm Apps 
+./ndk-build 
+vi ndk-build 
+vi $(which newapk)
+q
+cd /storage/emulated/0/Download/Telegram/
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx264 -crf 28 -r 24 -b:v 500k out.mp4
+xdg-open out.mp4 
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx265 -preset normal -r 24 -b:v 500k out.mp4
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx265 -preset medium -r 24 -b:v 500k out.mp4
+q
+cd /storage/emulated/0/Download/Telegram/
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx264 -crf 28 -r 24 -b:v 500k out.mp4
+xdg-open out.mp4 
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx265 -preset normal -r 24 -b:v 500k out.mp4
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx265 -preset medium -r 24 -b:v 500k out.mp4
+cd APKLAB/
+cd dptshell/
+cd .x
+cd coolrepos/
+git clone https://github.com/luoyesiqiu/dpt-shell
+cd dpt-shell/
+tree
+vi
+q
+which am
+stat $(which am)
+file $(which am)
+vi $(which am)
+us
+su
+am
+file $!
+am start-activity -n com.mwr.example.sieve/.FileSelectActivity
+am start-activity -n com.mwr.example.sieve/.PWList
+doas bash
+cd lab/
+cd opt/
+cd android/
+tar xJf ~/C0F0-9D07/Documents/AndroidIDE/android-sdk.tar.xz 
+mv android-sdk/ sd
+mv sd sdk
+cd sdk/
+ln -s ../ndk/
+tar xJf ~/C0F0-9D07/Documents/AndroidIDE/build-tools-34.0.4-arm.tar.xz 
+zipalign 
+which zipalign
+apksigner 
+which apksigner
+cd ..
+cd ndk/
+cd toolchains/
+cd x86-4.9/
+cd prebuilt/
+cd linux-arm/
+cd bin/
+./i686-linux-android-ld
+./i686-linux-android-ar
+cd opt/android/na
+cd opt/android/ndk/
+cat f 
+du -sh f
+du -sh &
+cd sources/
+du -sh {
+du -sh *
+cd cxx-stl/
+jc
+c
+cd
+which ndk-build 
+bashrc
+l
+newapk Tes
+cd tes
+cd Tes
+ls
+vi build.sh 
+bash build.sh 
+vi build.sh 
+cd Tes/
+cd j
+cd jni/
+g++ -shared -static -fPIC main.cpp -o lib/armeabi-v7a/libmain.so
+g++ -shared -static -fPIC main.cpp -o lib/armeabi-v7a/libmain.so -lm -lc -lc++_shared
+g++ -shared -fPIC main.cpp -o lib/armeabi-v7a/libmain.so
+r2 lib/armeabi-v7a/libmain.so 
+cd ..
+ls
+vi
+bash build.sh 
+q
+r2 lib/armeabi-v7a/libmain.so 
+cd ..
+vi
+bash build.sh 
+apt install git -y && git clone https://github.com/luoyesiqiu/dpt-shell && cd dpt-shell && java -jar dpt.jar
+cd
+wget https://github.com/luoyesiqiu/dpt-shell/releases/download/v2.0.2/executable.zip
+unzip -d dpt executable.zip 
+rm -fr executable.zip 
+rm -fr dpt*
+ls
+q
+tmux
+q
+bash build.sh 
+apt install git -y && git clone https://github.com/luoyesiqiu/dpt-shell && cd dpt-shell && java -jar dpt.jar
+wget https://github.com/luoyesiqiu/dpt-shell/releases/download/v2.0.2/executable.zip
+unzip -d dpt executable.zip 
+rm -fr executable.zip 
+rm -fr dpt*
+wget https://examsekolah.com/android/sma1bandarbatang/V14_sma1bandarbatang.apk
+apktool d -r --force-manifest V14_sma1bandarbatang.apk -o smandar
+cd smandar/
+fcopy AndroidManifest.xml 
+ce
+cd
+ls
+mob glot
+mob day12
+mob day13
+vi .quiz_cards/flashcards.json 
+q
+vi 2025-05-16/dex.md 
+git add .
+git status
+git commit -m up
+git push
+vi notes/2025-05-14/cigarettes.md
+vi 2025-05-14/cigarettes.md
+mob capricorn
+mob aquarius
+mob pisces
+cd
+ls
+fg
+q
+npm i -g markserv
+cd notes
+markserv 
+q
+r2
+r2 $(which ls)
+am start-activity -h
+am start-activity -a android.intent.action.SET_TIMER -e EXTRA_LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER -ei EXTRA_LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER -ei LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER -e LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER -ei android.intent.extra.alarm.LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 60 --ei android.intent.extra.alarm.SKIP_UI true
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 60 --ei android.intent.extra.alarm.SKIP_UI 1
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 60 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos"
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos"
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" && am start-activity com.termux/.TermuxApp
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" && am start-activity com.termux.app.TermuxActivity
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" && am start-activity com.termux/.TermuxActivity
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" && sleep 1 && am start-activity com.termux.app.TermuxActivity
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" -f --activity-no-history
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" -f
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" -f 0x20000000 --activity-no-history
+c
+q
+apt update
+apt upgrade
+apt uodate
+apt update
+apt install rust
+sed -E 's,(p.+?)",\1"Halo dek😘")'
+sed -E 's,(p.+?)",\1"Halo dek😘"),'
+sed -E 's,(p.+?)",\1"Halo dek😘"),' src/main.rs 
+sed -E 's,(p.+?)".+,\1"Halo dek😘"),' src/main.rs
+sed -E 's,(p.+?)".+",\1"Halo dek😘"),' src/main.rs
+sed -E 's,(p.+?)".+",\1"Halo dek😘",' src/main.rs
+sed -E 's,".+","Halo dek😘",' src/main.rs
+cargo run -h
+q
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" -f 0x20000000 --activity-no-history
+apt upgrade
+apt uodate
+apt install rust
+apt update
+cd lab/
+mkdir rusty
+cd rusty/
+cargo
+cargo new halodek
+cd halodek/
+cat src/main.rs 
+sed -E 's,".+","halo dek😉",' src/main.rs 
+sed -E 's,".+","halo dek😉",' src/main.rs -i
+sed -E 's,".+","halo kakak😉",' src/main.rs -i
+cargo run -q
+cargo run -q 2>/dev/null
+vi src/main.rs 
+cargo clean
+cargo run
+fg
+c
+apt install bat
+q
+sed -E 's,(p.+?)".+",\1"Halo dek😘",' src/main.rs
+sed -E 's,".+","Halo dek😘",' src/main.rs
+cargo run -h
+cargo clean
+vi src/main.rs 
+c
+cat src/main.rs 
+bat --list-theme
+bat --list-themem
+bat --list-themes
+bashrc
+fg
+q
+cd lab/rusty/halodek/
+c
+ls
+vi src/main.rs 
+cat src/main.rs
+cargo run -q
+for _ in {0..10}; do echo -n 'wkaka '; done
+q
+rm classes.dex 
+cd Apktool_M/
+cd coolrepos/paiRIP/
+vi pyrip.py 
+py -m http.server
+ip r
+ifconfig
+sudo ifconfig
+cd Apps 
+rm Apps 
+./ndk-build 
+vi ndk-build 
+vi $(which newapk)
+cd /storage/emulated/0/Download/Telegram/
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx264 -crf 28 -r 24 -b:v 500k out.mp4
+xdg-open out.mp4 
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx265 -preset normal -r 24 -b:v 500k out.mp4
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx265 -preset medium -r 24 -b:v 500k out.mp4
+cd /storage/emulated/0/Download/Telegram/
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx264 -crf 28 -r 24 -b:v 500k out.mp4
+xdg-open out.mp4 
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx265 -preset normal -r 24 -b:v 500k out.mp4
+ffmpeg -i 5_6143115478932920047.mp4 -c:v libx265 -preset medium -r 24 -b:v 500k out.mp4
+cd APKLAB/
+cd dptshell/
+cd .x
+git clone https://github.com/luoyesiqiu/dpt-shell
+cd dpt-shell/
+vi
+which am
+stat $(which am)
+file $(which am)
+vi $(which am)
+us
+su
+am
+file $!
+am start-activity -n com.mwr.example.sieve/.FileSelectActivity
+am start-activity -n com.mwr.example.sieve/.PWList
+doas bash
+cd lab/
+cd opt/
+cd android/
+tar xJf ~/C0F0-9D07/Documents/AndroidIDE/android-sdk.tar.xz 
+mv android-sdk/ sd
+mv sd sdk
+cd sdk/
+ln -s ../ndk/
+tar xJf ~/C0F0-9D07/Documents/AndroidIDE/build-tools-34.0.4-arm.tar.xz 
+zipalign 
+which zipalign
+apksigner 
+which apksigner
+cd ndk/
+cd toolchains/
+cd x86-4.9/
+cd prebuilt/
+cd linux-arm/
+cd bin/
+./i686-linux-android-ld
+./i686-linux-android-ar
+cd opt/android/na
+cd opt/android/ndk/
+cat f 
+du -sh f
+du -sh &
+cd sources/
+du -sh {
+cd cxx-stl/
+jc
+which ndk-build 
+bashrc
+newapk Tes
+cd tes
+cd Tes
+vi build.sh 
+bash build.sh 
+vi build.sh 
+cd Tes/
+cd j
+cd jni/
+g++ -shared -static -fPIC main.cpp -o lib/armeabi-v7a/libmain.so
+g++ -shared -static -fPIC main.cpp -o lib/armeabi-v7a/libmain.so -lm -lc -lc++_shared
+g++ -shared -fPIC main.cpp -o lib/armeabi-v7a/libmain.so
+r2 lib/armeabi-v7a/libmain.so 
+vi
+bash build.sh 
+r2 lib/armeabi-v7a/libmain.so 
+vi
+bash build.sh 
+apt install git -y && git clone https://github.com/luoyesiqiu/dpt-shell && cd dpt-shell && java -jar dpt.jar
+wget https://github.com/luoyesiqiu/dpt-shell/releases/download/v2.0.2/executable.zip
+unzip -d dpt executable.zip 
+rm -fr executable.zip 
+rm -fr dpt*
+tmux
+bash build.sh 
+apt install git -y && git clone https://github.com/luoyesiqiu/dpt-shell && cd dpt-shell && java -jar dpt.jar
+wget https://github.com/luoyesiqiu/dpt-shell/releases/download/v2.0.2/executable.zip
+unzip -d dpt executable.zip 
+rm -fr executable.zip 
+rm -fr dpt*
+wget https://examsekolah.com/android/sma1bandarbatang/V14_sma1bandarbatang.apk
+apktool d -r --force-manifest V14_sma1bandarbatang.apk -o smandar
+cd smandar/
+fcopy AndroidManifest.xml 
+ce
+mob glot
+mob day12
+mob day13
+vi 2025-05-16/dex.md 
+vi notes/2025-05-14/cigarettes.md
+vi 2025-05-14/cigarettes.md
+mob capricorn
+mob aquarius
+mob pisces
+npm i -g markserv
+markserv 
+r2
+r2 $(which ls)
+am start-activity -h
+am start-activity -a android.intent.action.SET_TIMER -e EXTRA_LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER -ei EXTRA_LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER -ei LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER -e LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER -ei android.intent.extra.alarm.LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 60 --ei android.intent.extra.alarm.SKIP_UI true
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 60 --ei android.intent.extra.alarm.SKIP_UI 1
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 60 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos"
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos"
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" && am start-activity com.termux/.TermuxApp
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" && am start-activity com.termux.app.TermuxActivity
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" && am start-activity com.termux/.TermuxActivity
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" && sleep 1 && am start-activity com.termux.app.TermuxActivity
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" -f --activity-no-history
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" -f
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" -f 0x20000000 --activity-no-history
+apt upgrade
+apt uodate
+apt install rust
+sed -E 's,(p.+?)",\1"Halo dek😘")'
+sed -E 's,(p.+?)",\1"Halo dek😘"),'
+sed -E 's,(p.+?)",\1"Halo dek😘"),' src/main.rs 
+sed -E 's,(p.+?)".+,\1"Halo dek😘"),' src/main.rs
+sed -E 's,(p.+?)".+",\1"Halo dek😘"),' src/main.rs
+sed -E 's,(p.+?)".+",\1"Halo dek😘",' src/main.rs
+sed -E 's,".+","Halo dek😘",' src/main.rs
+cargo run -h
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" -f 0x20000000 --activity-no-history
+apt upgrade
+apt uodate
+apt install rust
+cd lab/
+cargo
+cargo new halodek
+cd halodek/
+cat src/main.rs 
+sed -E 's,".+","halo dek😉",' src/main.rs 
+sed -E 's,".+","halo dek😉",' src/main.rs -i
+sed -E 's,".+","halo kakak😉",' src/main.rs -i
+cargo run -q 2>/dev/null
+cargo clean
+apt install bat
+sed -E 's,(p.+?)".+",\1"Halo dek😘",' src/main.rs
+sed -E 's,".+","Halo dek😘",' src/main.rs
+cargo run -h
+cargo clean
+cat src/main.rs 
+bat --list-theme
+bat --list-themem
+bat --list-themes
+bashrc
+cd lab/rusty/halodek/
+cat src/main.rs
+for _ in {0..10}; do echo -n 'wkaka '; done
+cd lab/rusty/
+cargo guessnum
+cargo new guessnum
+cd guessnum/
+vi ~/.cargo/config.toml
+fg''
+cargo run --release
+cargo doc --open
+mv V14_sma1bandarbatang.apk trash/
+rm -fr smandar/
+ln -s coolrepos/termux-config/labs/
+mv lab trash/
+cd labs/
+mkdir rusty
+tree
+du -sh *
+vi .gitignore
+git restore --staged .
+rm -fr rusty/
+cd coolrepos/
+git clone https://github.com/0x9b42/rusty
+cd rusty/
+cargo new helloworld
+cd helloworld/
+vi src/main.rs 
+git commit -m hello_rusty
+cargo new guessgame
+cd guessgame/
+vi src/
+cargo buil
+cargo build --release
+./target/release/guessgame 
+RUST_BACKTRACE=1 ./target/release/guessgame
+cat Cargo.toml 
+ff
+cargo build
+cargo check
+gcc safe.c 
+cargo run -q
+git commit -m learn_vuln_c
+git statis
+git commit fix_markdown
+git commit -m fix_markdown
+git psuh
+cd src/
+gcc unsafe.c 
+gcc unsafe.c -fno-stack-protector -z execstack -no-pie
+proot ./a.out 
+gcc unsafe.c -fPIE -pie -fno-stack-protector 
+objdump -D a.out | grep win
+objdump a.out | grep win
+objdump -d a.out
+gcc vuln.c -fPIE -pie -fno-stack-protector 
+./a.out 
+objdump -d a.out | grep win
+py -c 'print("A"*36 + "\x20\x06\x00\x00")'
+py -c 'print("A"*36 + "\x20\x06\x00\x00")' | ./a.out 
+py -c 'print("A"*112 + "\x20\x06\x00\x00")' | ./a.out 
+py -c 'print("A"*112 + "\x20\x06\x00\x00")' > payload.txt
+./a.out < payload.txt 
+python3 -c 'print("Aa0" * 50)' > pattern.txt
+apt update
+apt install gdb
+gdb ./a.out 
+gcc vuln.c -o vuln -fPIE -pie -fno-stack-protector 
+gdb ./vuln
+l
+rustc -v
+rustc --v
+rustc main.rs 
+cargo run
+history | grep gcc
+fg"
+
+cargo run 
+fg
+cd ..
+git commit -m made_binary_guess_game
+git status
+cat README.md 
+ks
+ls
+cat $(which aapk)
+fcopy $(which aapk)
+vi README.md 
+git commit -m best_practices
+wget https://doc.rust-lang.org/rust-by-example/print.html
+vi print.html 
+c
+mob water_torture
+task --help
+task -h
+task
+man task
+mob lucid_dream
+cd notes
+git add .
+git commit -m up
+git push
+cd
+vi .quiz_cards/flashcards.json 
+mob day14
+q
+mob pisces
+npm i -g markserv
+cd notes
+markserv 
+r2
+r2 $(which ls)
+am start-activity -h
+am start-activity -a android.intent.action.SET_TIMER -e EXTRA_LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER -ei EXTRA_LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER -ei LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER -e LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER -ei android.intent.extra.alarm.LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 60
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 60 --ei android.intent.extra.alarm.SKIP_UI true
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 60 --ei android.intent.extra.alarm.SKIP_UI 1
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 60 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos"
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos"
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" && am start-activity com.termux/.TermuxApp
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" && am start-activity com.termux.app.TermuxActivity
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" && am start-activity com.termux/.TermuxActivity
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" && sleep 1 && am start-activity com.termux.app.TermuxActivity
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" -f --activity-no-history
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" -f
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" -f 0x20000000 --activity-no-history
+apt update
+apt upgrade
+apt uodate
+apt update
+apt install rust
+sed -E 's,(p.+?)",\1"Halo dek😘")'
+sed -E 's,(p.+?)",\1"Halo dek😘"),'
+sed -E 's,(p.+?)",\1"Halo dek😘"),' src/main.rs 
+sed -E 's,(p.+?)".+,\1"Halo dek😘"),' src/main.rs
+sed -E 's,(p.+?)".+",\1"Halo dek😘"),' src/main.rs
+sed -E 's,(p.+?)".+",\1"Halo dek😘",' src/main.rs
+sed -E 's,".+","Halo dek😘",' src/main.rs
+cargo run -h
+am start-activity -a android.intent.action.SET_TIMER --ei android.intent.extra.alarm.LENGTH 0 --ei android.intent.extra.alarm.SKIP_UI 1 --es android.intent.extra.alarm.MESSAGE "Waktunya istirahat bos" -f 0x20000000 --activity-no-history
+apt upgrade
+apt uodate
+apt install rust
+apt update
+cd lab/
+mkdir rusty
+cargo
+cargo new halodek
+cd halodek/
+cat src/main.rs 
+sed -E 's,".+","halo dek😉",' src/main.rs 
+sed -E 's,".+","halo dek😉",' src/main.rs -i
+sed -E 's,".+","halo kakak😉",' src/main.rs -i
+cargo run -q
+cargo run -q 2>/dev/null
+vi src/main.rs 
+cargo clean
+cargo run
+apt install bat
+sed -E 's,(p.+?)".+",\1"Halo dek😘",' src/main.rs
+sed -E 's,".+","Halo dek😘",' src/main.rs
+cargo run -h
+cargo clean
+vi src/main.rs 
+cat src/main.rs 
+bat --list-theme
+bat --list-themem
+bat --list-themes
+bashrc
+cd lab/rusty/halodek/
+vi src/main.rs 
+cat src/main.rs
+cargo run -q
+for _ in {0..10}; do echo -n 'wkaka '; done
+cd coolrepos/termux-config/labs/
+cd C
+c
+gcc wordcount.c 
+./a.out helo
+vi wordcount.c
+wc wordcount.c 
+./a.out wordcount.c 
+./a.out hello.c 
+wc hello.c
+fgfg
+gcc wordcount.c
+./a.out ja
+g
+./a.out hello.c py
+gcc swapext.c 
+./a.out hello.py md
+strings a.out 
+"
+./a.out 2222211111
+./a.ou
+./a.out"
+fg"
+gcc guessgame.c 
+./a.out 
+fg
+cd
+cd trash/lab/
+ls
+cd rusty/
+cat guessnum/src/main.rs 
+q
+cat src/main.rs 
+bat --list-theme
+bat --list-themem
+bat --list-themes
+bashrc
+cd lab/rusty/halodek/
+vi src/main.rs 
+cat src/main.rs
+cargo run -q
+for _ in {0..10}; do echo -n 'wkaka '; done
+cd coolrepos/termux-config/labs/
+cd C
+c
+gcc wordcount.c 
+./a.out helo
+vi wordcount.c
+wc wordcount.c 
+./a.out wordcount.c 
+./a.out hello.c 
+wc hello.c
+fgfg
+gcc wordcount.c
+./a.out ja
+g
+./a.out hello.c py
+gcc swapext.c 
+./a.out hello.py md
+strings a.out 
+"
+./a.out 2222211111
+./a.ou
+./a.out"
+fg"
+gcc guessgame.c 
+./a.out 
+cd
+cd trash/lab/
+cd rusty/
+cat guessnum/src/main.rs 
+q
+cd labs
+mkdir java
+cd java/
+vi helloworld.java
+javac helloworld.java 
+java helloworld
+java helloworld.class main
+mkdir mob 
+l
+javac helloworld.java -d mob
+java !
+fcopy helloworld.java 
+javac helloworld.java
+mv helloworld.class mob/
+mv Text.class mob/
+fg
+javac ../helloworld.java 
+java ../mob.helloworld
+java mob.helloworld
+tree
+cd mob/
+rm -fr mob
+cd ..
+ls
+cd APKLAB/
+cd regexlab/
+ls
+vi cloudmoon.txt
+echo 'https://github.com/0x9b42/paiRIP/raw/refs/heads/dev/assets/apktool.jar' | base64 
+echo 'https://github.com/0x9b42/paiRIP/raw/refs/heads/dev/assets/apktool.jar' | base64 | tr -d '\n'
+echo 'https://github.com/0x9b42/paiRIP/raw/refs/heads/dev/assets/apktool.jar' | base64 | tr -d '\n' | tclips
+bat --list-theme
+bat --list-themem
+bat --list-themes
+bashrc
+cd lab/rusty/halodek/
+vi src/main.rs 
+cat src/main.rs
+cargo run -q
+for _ in {0..10}; do echo -n 'wkaka '; done
+cd coolrepos/termux-config/labs/
+cd C
+c
+gcc wordcount.c 
+./a.out helo
+vi wordcount.c
+wc wordcount.c 
+./a.out wordcount.c 
+./a.out hello.c 
+wc hello.c
+fgfg
+gcc wordcount.c
+./a.out ja
+g
+./a.out hello.c py
+gcc swapext.c 
+./a.out hello.py md
+strings a.out 
+"
+./a.out 2222211111
+./a.ou
+./a.out"
+fg"
+gcc guessgame.c 
+./a.out 
+cd
+cd trash/lab/
+cd rusty/
+cat guessnum/src/main.rs 
+q
+cat src/main.rs 
+bat --list-theme
+bat --list-themem
+bat --list-themes
+bashrc
+cd lab/rusty/halodek/
+vi src/main.rs 
+cat src/main.rs
+cargo run -q
+for _ in {0..10}; do echo -n 'wkaka '; done
+cd coolrepos/termux-config/labs/
+cd C
+c
+gcc wordcount.c 
+./a.out helo
+vi wordcount.c
+wc wordcount.c 
+./a.out wordcount.c 
+./a.out hello.c 
+wc hello.c
+fgfg
+gcc wordcount.c
+./a.out ja
+g
+./a.out hello.c py
+gcc swapext.c 
+./a.out hello.py md
+strings a.out 
+"
+./a.out 2222211111
+./a.ou
+./a.out"
+fg"
+gcc guessgame.c 
+./a.out 
+cd
+cd trash/lab/
+cd rusty/
+cat guessnum/src/main.rs 
+q
+cd labs
+mkdir java
+cd java/
+vi helloworld.java
+javac helloworld.java 
+java helloworld
+java helloworld.class main
+mkdir mob 
+l
+javac helloworld.java -d mob
+java !
+fcopy helloworld.java 
+javac helloworld.java
+mv helloworld.class mob/
+mv Text.class mob/
+javac ../helloworld.java 
+java ../mob.helloworld
+java mob.helloworld
+tree
+cd mob/
+rm -fr mob
+cd ..
+cd APKLAB/
+cd regexlab/
+vi cloudmoon.txt
+cd coolrepos/paiRIP/
+vi riptool.py 
+rm assets/apktool.jar 
+mv assets/ aset
+ls assets/
+rm assets/
+rm assets/ -fr
+mv aset/ assets
+cp assets/mob/Logger.smali Logger.smali
+ls
+py riptool.py 
+py riptool.py "
+cat Logger.smali 
+py riptool.py
+fg
+java ../mob.helloworld
+java mob.helloworld
+tree
+cd mob/
+rm -fr mob
+cd APKLAB/
+cd regexlab/
+vi cloudmoon.txt
+rm -fr main
+rm main.apk
+py pairip_utility.py 
+apkeditor d -i Original_main.apk -o main
+cd main
+cd ..
+diff main/AndroidManifest.xml Original_main/AndroidManifest.xml 
+cd coolrepos/paiRIP/
+vi pyrip.py 
+du -sh ~/.local/tools/jar/*
+apktool -h
+apktool -
+apktool -a
+apktool -advance
+py
+cd APKLAB/pairip/
+ls
+apktool d Original_main.apk -o src
+cd
+bat --list-theme
+bat --list-themem
+bat --list-themes
+bashrc
+cd lab/rusty/halodek/
+cat src/main.rs
+for _ in {0..10}; do echo -n 'wkaka '; done
+cd coolrepos/termux-config/labs/
+cd C
+c
+gcc wordcount.c 
+./a.out helo
+vi wordcount.c
+wc wordcount.c 
+./a.out wordcount.c 
+./a.out hello.c 
+wc hello.c
+fgfg
+gcc wordcount.c
+./a.out ja
+g
+./a.out hello.c py
+gcc swapext.c 
+./a.out hello.py md
+strings a.out 
+"
+./a.out 2222211111
+./a.ou
+./a.out"
+fg"
+gcc guessgame.c 
+./a.out 
+cd trash/lab/
+cd rusty/
+cat guessnum/src/main.rs 
+q
+cd labs
+mkdir java
+cd java/
+vi helloworld.java
+javac helloworld.java 
+java helloworld
+java helloworld.class main
+mkdir mob 
+l
+javac helloworld.java -d mob
+java !
+fcopy helloworld.java 
+javac helloworld.java
+mv helloworld.class mob/
+mv Text.class mob/
+javac ../helloworld.java 
+java ../mob.helloworld
+java mob.helloworld
+tree
+cd mob/
+rm -fr mob
+cd ..
+cd regexlab/
+vi cloudmoon.txt
+cd APKLAB/
+cd pairip/
+which apktool
+pip install apktool
+apt update
+apt install apktool
+apt search apktool
+apt search apk
+cd coolrepos/paiRIP/
+vi riptool.py
+git commit -m up
+cp ~/.local/tools/jar/apktool-v2.9.3.jar assets/apktool.jar
+git add .
+git commit -m added_apktool
+git push
+git push --set-upstream origin dev
+xdg-open https://github.com/0x9b42/paiRIP
+source ~/opt/r3/bin/activate
+vi riptool.py 
+ls
+ls assets/mob/Logger.smali 
+fgm
+cat assets/mob/Logger.smali | head
+py riptool.py 
+fcopy riptool.py 
+cd
+cd coolrepos/rusty/
+cargo new riptool
+cd riptool/
+vi src/main.rs 
+fg"
+cargo format
+cargo fmt
+cargo check
+cargo run
+cargo run -q
+cargo run -q 2>/dev/null
+mm
+./target/debug/riptool 
+readelf -s ./target/debug/riptool 
+readelf -h ./target/debug/riptool 
+fg
+fg
+apt install dnsutils
+dig A example.com
+readelf -h ./target/debug/riptool 
+fg
+fg
+apt install dnsutils
+dig A example.com
+cd opt/android/
+cd sdk/
+rm ndk
+mkdir ndk
+tar xJf ~/C0F0-9D07/Documents/AndroidIDE/cmdline-tools.tar.xz 
+tar xJf ~/C0F0-9D07/Documents/AndroidIDE/platform-tools-34.0.4-arm.tar.xz 
+sdkmanager liat
+sdkmanager list
+sdkmanager lists
+sdkmanager --list
+sdkmanager --list | grep -A1 ndk
+sdkmanager --list | grep -A1 rc7
+clear 
+ls
+sdkmanager 'ndk;17'
+sdkmanager --list | grep ndk #'ndk;17'
+sdkmanager 'ndk;25.0.8775105'
+fcopy riptool.py 
+cd coolrepos/rusty/
+cargo new riptool
+cd riptool/
+vi src/main.rs 
+fg"
+cargo format
+cargo fmt
+cargo check
+cargo run
+cargo run -q
+cargo run -q 2>/dev/null
+mm
+./target/debug/riptool 
+readelf -s ./target/debug/riptool 
+readelf -h ./target/debug/riptool 
+fg
+fg
+apt install dnsutils
+dig A example.com
+readelf -h ./target/debug/riptool 
+fg
+fg
+apt install dnsutils
+dig A example.com
+rm ndk
+mkdir ndk
+tar xJf ~/C0F0-9D07/Documents/AndroidIDE/cmdline-tools.tar.xz 
+tar xJf ~/C0F0-9D07/Documents/AndroidIDE/platform-tools-34.0.4-arm.tar.xz 
+sdkmanager liat
+sdkmanager list
+sdkmanager lists
+sdkmanager --list
+sdkmanager --list | grep -A1 ndk
+sdkmanager --list | grep -A1 rc7
+clear 
+sdkmanager 'ndk;17'
+sdkmanager --list | grep ndk #'ndk;17'
+sdkmanager 'ndk;25.0.8775105'
+cd opt/android/
+cd sdk/
+ls .gitconfig 
+
+su -c rm -fr .cache/fish/
+rm print.html 
+du -sh opt/
+du -sh opt/android/
+du -sh opt/android/sdk/
+du -sh opt/android/na
+du -sh opt/android/ndk/
+cd opt/android/sdk/
+du -sh *
+ls -a
+du -sh .*
+cd t
+cd .temp/
+mv android-ndk-r25-linux.zip ~/C0F0-9D07
+du -sh PackageOperation01/
+cd PackageOperation01/
+cd U
+cd unzip/
+cd android-ndk-r25/
+cat ndk-build 
+cat ndk-lldb 
+cat ndk-stack 
+cat ndk-which 
+la ~/opt/android/ndk/
+rm -fr android-ndk-r25/
+cd 25.0.8775105/
+rm -fr 25.0.8775105
+ln -s ../../ndk/ 25.0.8775105
+os
+cd ndk/
+cd 25.0.8775105
+cd ../..
+cd ..
+cd C0F0-9D07
+mkdir AndroidIDE
+cd AndroidIDE
+mkdir gradlecache
+cd
+ln -s C0F0-9D07/AndroidIDE/gradlecache/ .gradle
+cd /sdcard/AndroidIDEProjects/NavDrawer/
+ls
+bash gradlew tasks
+readelf -h ./target/debug/riptool 
+apt install dnsutils
+dig A example.com
+cd opt/android/
+cd sdk/
+rm ndk
+mkdir ndk
+tar xJf ~/C0F0-9D07/Documents/AndroidIDE/cmdline-tools.tar.xz 
+tar xJf ~/C0F0-9D07/Documents/AndroidIDE/platform-tools-34.0.4-arm.tar.xz 
+sdkmanager liat
+sdkmanager list
+sdkmanager lists
+sdkmanager --list
+sdkmanager --list | grep -A1 ndk
+sdkmanager --list | grep -A1 rc7
+clear 
+sdkmanager 'ndk;17'
+sdkmanager --list | grep ndk #'ndk;17'
+sdkmanager 'ndk;25.0.8775105'
+fcopy riptool.py 
+cargo new riptool
+cd riptool/
+vi src/main.rs 
+fg"
+cargo format
+cargo fmt
+cargo check
+cargo run -q
+cargo run -q 2>/dev/null
+mm
+./target/debug/riptool 
+readelf -s ./target/debug/riptool 
+readelf -h ./target/debug/riptool 
+apt install dnsutils
+dig A example.com
+readelf -h ./target/debug/riptool 
+apt install dnsutils
+dig A example.com
+rm ndk
+mkdir ndk
+tar xJf ~/C0F0-9D07/Documents/AndroidIDE/cmdline-tools.tar.xz 
+tar xJf ~/C0F0-9D07/Documents/AndroidIDE/platform-tools-34.0.4-arm.tar.xz 
+sdkmanager liat
+sdkmanager list
+sdkmanager lists
+sdkmanager --list
+sdkmanager --list | grep -A1 ndk
+sdkmanager --list | grep -A1 rc7
+clear 
+sdkmanager 'ndk;17'
+sdkmanager --list | grep ndk #'ndk;17'
+sdkmanager 'ndk;25.0.8775105'
+cd opt/android/
+cd sdk/
+ls .gitconfig 
+su -c rm -fr .cache/fish/
+rm print.html 
+du -sh opt/
+du -sh opt/android/
+du -sh opt/android/sdk/
+du -sh opt/android/na
+du -sh opt/android/ndk/
+cd opt/android/sdk/
+du -sh *
+ls -a
+du -sh .*
+cd t
+cd .temp/
+mv android-ndk-r25-linux.zip ~/C0F0-9D07
+du -sh PackageOperation01/
+cd PackageOperation01/
+cd U
+cd unzip/
+cd android-ndk-r25/
+cat ndk-build 
+cat ndk-lldb 
+cat ndk-stack 
+cat ndk-which 
+la ~/opt/android/ndk/
+rm -fr android-ndk-r25/
+cd 25.0.8775105/
+rm -fr 25.0.8775105
+ln -s ../../ndk/ 25.0.8775105
+os
+cd ndk/
+cd 25.0.8775105
+cd ../..
+cd C0F0-9D07
+mkdir AndroidIDE
+cd AndroidIDE
+mkdir gradlecache
+ln -s C0F0-9D07/AndroidIDE/gradlecache/ .gradle
+cd /sdcard/AndroidIDEProjects/NavDrawer/
+du -sh .gradle/
+ln -s /sdcard/AndroidIDEProjects/ Projects
+cd Projects
+cd NavDrawer/
+rm -fr ~/.gradle/daemon/
+bash gradlew tasks
+free -m
+bash gradlew
+cd .gradle
+tree
+vi gradle.properties
+cd storage/downloads
+ls Learn*
+apktool d Learn\ Spanish\ with\ flashcards\!_3.24.1_APKPure.apk -r --force-manifest -s -o r1
+cp Learn\ Spanish\ with\ flashcards\!_3.24.1_APKPure.apk ~/0.apk
+cp Learn_Spanish_with_flashcards_v.3.24.1_Patched_by_youarefinished.apk ~/1.apk
+apktool d 0.apk -s -r --force-manifest
+apktool d 1.apk -s -r --force-manifest
+diff 0/AndroidManifest.xml 1/AndroidManifest.xml 
+diff 1/AndroidManifest.xml 0/AndroidManifest.xml 
+diff 0 1
+cd 0
+apktool d classes.dex 
+classes.dex.out/
+tree classes.dex.out/
+apktool d -h
+apktool d -advance
+apktool -advance | grep dex
+cd ..
+rm -fr 1 0
+apktool d 0.apk -r --force-manifest --only-main-classes
+apktool d 1.apk -r --force-manifest --only-main-classes
+apktool d 0.apk -r --force-manifest --only-main-classes & apktool d 1.apk -r --force-manifest --only-main-classes &
+rm -fr 0 1
+apktool d 0.apk -r --force-manifest --only-main-classes -b & apktool d 1.apk -r --force-manifest --only-main-classes -b
+diff -r 0 1
+
+git clone https://github.com/0x9b42/pairip-protection-remover
+cd pai
+cd pairip-protection-remover/
+bash patch.sh 
+bash patch.sh /sdcard/MT2/apks/Sololearn_4.107.0.apks 
+vi patch.sh 
+cp /sdcard/MT2/apks/Sololearn_4.107.0.apks app.apks
+chmod +x patch.sh 
+./patch.sh app.apks 
+source ~/opt/r3/bin/activate
+py patch.py
+py patch.py app.apks 
+cd
+cd coolrepos/rusty/
+cargo new test
+cargo new testing
+cd testing/
+vi main.py
+fcopy main.py 
+vi main.c
+py main.py 
+gcc -O3 main.c 
+make main
+time ./main
+time ./main | base64 -d
+./main 
+gcc main
+rm main
+gcc main.
+gcc main.c
+time ./a.out 2>&1 | grep real
+time ./a.out | grep real
+fcopy main.c
+cargo run
+time target/debug/testing
+cargo build --release
+gcc -O3 -march=native -flto -o main.c 
+time ./a.out
+ls
+time target/release/testing
+gcc -Ofast -march=native -flto main.c 
+gcc -O3 -march=native -flto main.c 
+./a.out 
+fcopy main.c 
+fg
+RUSTFLAGS="-C target-cpu=native -C link-arg=-s" cargo build --release
+c
+time ./target/release/testing
+time ./a.out 
+cat src/main.rs 
+cat main.c 
+sh
+bashrc
+q
+source ~/opt/r3/bin/activate
+ipython
+q
+./a.out 
+fcopy main.c 
+RUSTFLAGS="-C target-cpu=native -C link-arg=-s" cargo build --release
+time ./a.out 
+cat src/main.rs 
+bashrc
+q
+ipython
+q
+sh
+cd coolrepos/rusty/
+unalias cat
+cd testing/
+gcc -O3 -march=native -flto main.c 
+ls
+c
+cat main.c 
+gcc -O3 -march=native -flto main.c -o main
+time ./main 
+fg
+time ./target/release/testing
+cargo add rand_pcg
+cargo clean
+cargo build --release
+rm -fr /data/data/com.termux/files/usr/lib/python3.12/site-packages/RKPairip
+stat /data/data/com.termux/files/usr/lib/python3.12/site-packages/RKPairip
+source ~/opt/r3/bin/activate
+exit
+bashrc
+source ~/opt/r3/bin/activate
+ipython
+unalias cat
+c
+cat src/main.rs 
+RUSTFLAGS="-C target-cpu=native -C link-arg=-s" cargo build --release
+time target/release/testing
+r2 ./main
+fcopy src/main.rs 
+fcopy main.c 
+vi main.
+vi main.c 
+gcc -O3 -march=native -std=c11 -Wall -Wextra main.c -o main
+time ./main
+fg
+q
+time ./main
+fg
+cd .local/bin/
+rm -fr rish*
+rm mobkageno 
+ls
+q
+vi main.
+vi main.c 
+gcc -O3 -march=native -std=c11 -Wall -Wextra main.c -o main
+time ./main
+fg
+time ./main
+fg
+cd .local/bin/
+rm -fr rish*
+rm mobkageno 
+cd coolrepos/
+cd RK_Pairip/
+tree
+cd ..
+rm -fr RK_Pairip/
+source ~/opt/r3/bin/activate
+pip liat
+pip list
+cd
+deactivate 
+c
+apt update
+cd /system/etc/security/cacerts
+stat *
+ls
+ls | tclips
+apt install openssl-tool
+openssl x509 -in /sdcard/Download/ProxyPinKey.pem -inform PEM -subject_hash_old -noout
+openssl x509 -in /sdcard/Download/ProxyPinCA.crt -inform PEM -subject_hash_old -noout
+cd /sdcard/Download/
+cp ProxyPinCA.crt 243f0bfb.0
+pwd
+cd -
+cp 243f0bfb.0 /system/etc/security/cacerts/
+q
+cd storage/downloads/
+ls
+cp 243f0bfb.0 /system/etc/security/cacerts/
+sudo cp 243f0bfb.0 /system/etc/security/cacerts/
+su
+q
+apt update
+cd /system/etc/security/cacerts
+stat *
+ls | tclips
+apt install openssl-tool
+openssl x509 -in /sdcard/Download/ProxyPinKey.pem -inform PEM -subject_hash_old -noout
+openssl x509 -in /sdcard/Download/ProxyPinCA.crt -inform PEM -subject_hash_old -noout
+cd /sdcard/Download/
+cp ProxyPinCA.crt 243f0bfb.0
+pwd
+cd -
+cp 243f0bfb.0 /system/etc/security/cacerts/
+q
+cd storage/downloads/
+cp 243f0bfb.0 /system/etc/security/cacerts/
+sudo cp 243f0bfb.0 /system/etc/security/cacerts/
+su
+q
+cd trash/
+wget -m https://dosa-dosa-mbti.netlify.app/
+cd dosa-dosa-mbti.netlify.app/
+prettier -w assets/index-581abd39.js 
+vi assets/index-581abd39.js 
+cd APKLAB/pairip/
+rm -fr Original_main* *apk
+rm -fr main
+source ~/opt/r3/bin/activatep
+source ~/opt/r3/bin/activate
+py pairip_utility.py 
+stat .gradle
+cd .gradle
+cd daemon/
+tree
+file 8.1.1/registry.bin
+cd
+clear 
+bashrc
+deas
+deactivate 
+rm -fr 0* 1*
+l
+cd MT2
+cd a0
+cd apks/
+rm *apk
+rm libFirebaseCppApp.so 
+c
+ls
+cargo clean
+cargo build --release
+rm -fr /data/data/com.termux/files/usr/lib/python3.12/site-packages/RKPairip
+stat /data/data/com.termux/files/usr/lib/python3.12/site-packages/RKPairip
+source ~/opt/r3/bin/activate
+exit
+bashrc
+source ~/opt/r3/bin/activate
+ipython
+unalias cat
+c
+cat src/main.rs 
+RUSTFLAGS="-C target-cpu=native -C link-arg=-s" cargo build --release
+time target/release/testing
+r2 ./main
+fcopy src/main.rs 
+fcopy main.c 
+vi main.
+vi main.c 
+gcc -O3 -march=native -std=c11 -Wall -Wextra main.c -o main
+time ./main
+q
+time ./main
+cd .local/bin/
+rm -fr rish*
+rm mobkageno 
+q
+vi main.
+vi main.c 
+gcc -O3 -march=native -std=c11 -Wall -Wextra main.c -o main
+time ./main
+time ./main
+cd .local/bin/
+rm -fr rish*
+rm mobkageno 
+cd coolrepos/
+cd RK_Pairip/
+tree
+cd ..
+rm -fr RK_Pairip/
+source ~/opt/r3/bin/activate
+pip liat
+pip list
+cd
+deactivate 
+c
+apt update
+cd /system/etc/security/cacerts
+stat *
+ls | tclips
+apt install openssl-tool
+openssl x509 -in /sdcard/Download/ProxyPinKey.pem -inform PEM -subject_hash_old -noout
+openssl x509 -in /sdcard/Download/ProxyPinCA.crt -inform PEM -subject_hash_old -noout
+cd /sdcard/Download/
+cp ProxyPinCA.crt 243f0bfb.0
+pwd
+cd -
+cp 243f0bfb.0 /system/etc/security/cacerts/
+q
+cd storage/downloads/
+cp 243f0bfb.0 /system/etc/security/cacerts/
+sudo cp 243f0bfb.0 /system/etc/security/cacerts/
+su
+q
+cd coolrepos/pai
+cd coolrepos/paiRIP/
+ls
+vi riptool.py 
+ffg
+ff
+py riptool.py 
+fg
+cd coolrepos/pai
+cd coolrepos/paiRIP/
+vi riptool.py 
+ffg
+ff
+py riptool.py 
+fg
+find . water
+find . -name water
+find . -iname water
+find . -name water*
+vi 2025-05-21/water_torture.md 
+cd
+os
+cd APKLAB/pair
+cd APKLAB/pairip/
+rm -fr Original_main* *apk
+em -fr src/
+rm -fr src/
+c
+rm main.apks 
+cp /sdcard/MT2/apks/Shimeji_7.7.apks app.apks
+ls
+py pairip_utility.py 
+l
+source ~/opt/r3/bin/activate
+ipython
+su
+q
+apt update
+cd /system/etc/security/cacerts
+stat *
+ls | tclips
+apt install openssl-tool
+openssl x509 -in /sdcard/Download/ProxyPinKey.pem -inform PEM -subject_hash_old -noout
+openssl x509 -in /sdcard/Download/ProxyPinCA.crt -inform PEM -subject_hash_old -noout
+cd /sdcard/Download/
+cp ProxyPinCA.crt 243f0bfb.0
+pwd
+cd -
+cp 243f0bfb.0 /system/etc/security/cacerts/
+q
+cd storage/downloads/
+cp 243f0bfb.0 /system/etc/security/cacerts/
+sudo cp 243f0bfb.0 /system/etc/security/cacerts/
+su
+q
+cd trash/
+wget -m https://dosa-dosa-mbti.netlify.app/
+cd dosa-dosa-mbti.netlify.app/
+prettier -w assets/index-581abd39.js 
+vi assets/index-581abd39.js 
+cd APKLAB/pairip/
+rm -fr Original_main* *apk
+rm -fr main
+source ~/opt/r3/bin/activatep
+source ~/opt/r3/bin/activate
+py pairip_utility.py 
+stat .gradle
+cd .gradle
+cd daemon/
+file 8.1.1/registry.bin
+clear 
+bashrc
+deas
+rm -fr 0* 1*
+cd MT2
+cd a0
+cd apks/
+rm *apk
+rm libFirebaseCppApp.so 
+cargo clean
+cargo build --release
+rm -fr /data/data/com.termux/files/usr/lib/python3.12/site-packages/RKPairip
+stat /data/data/com.termux/files/usr/lib/python3.12/site-packages/RKPairip
+source ~/opt/r3/bin/activate
+exit
+bashrc
+source ~/opt/r3/bin/activate
+ipython
+unalias cat
+cat src/main.rs 
+RUSTFLAGS="-C target-cpu=native -C link-arg=-s" cargo build --release
+time target/release/testing
+r2 ./main
+fcopy src/main.rs 
+fcopy main.c 
+vi main.
+vi main.c 
+gcc -O3 -march=native -std=c11 -Wall -Wextra main.c -o main
+time ./main
+q
+time ./main
+cd .local/bin/
+rm -fr rish*
+rm mobkageno 
+q
+vi main.
+vi main.c 
+gcc -O3 -march=native -std=c11 -Wall -Wextra main.c -o main
+time ./main
+time ./main
+cd .local/bin/
+rm -fr rish*
+rm mobkageno 
+cd RK_Pairip/
+rm -fr RK_Pairip/
+source ~/opt/r3/bin/activate
+pip liat
+pip list
+apt update
+cd /system/etc/security/cacerts
+stat *
+ls | tclips
+apt install openssl-tool
+openssl x509 -in /sdcard/Download/ProxyPinKey.pem -inform PEM -subject_hash_old -noout
+openssl x509 -in /sdcard/Download/ProxyPinCA.crt -inform PEM -subject_hash_old -noout
+cd /sdcard/Download/
+cp ProxyPinCA.crt 243f0bfb.0
+pwd
+cd -
+cp 243f0bfb.0 /system/etc/security/cacerts/
+q
+cd storage/downloads/
+cp 243f0bfb.0 /system/etc/security/cacerts/
+sudo cp 243f0bfb.0 /system/etc/security/cacerts/
+su
+q
+cd coolrepos/pai
+cd coolrepos/paiRIP/
+vi riptool.py 
+ffg
+ff
+py riptool.py 
+tree src/
+cd
+cd coolrepos/
+virtualenv env
+touch pyrip/__init__.py
+apt install uv
+pip init
+apt show uv
+cat README.md 
+so env/bin/activate
+source env/bin/activate
+cat pyproject.toml 
+vi pyproject.toml 
+vi main.py 
+py main.py 
+du -sh *
+touch pyrip/cli.py
+vi 
+rm -fr ktlint/
+mkdir src
+cd src/
+touch __init__.py
+rm -fr src/
+uv
+pip install poetry
+cd ..
+rm -fr pyrip/
+mkdir pyrip
+cd pyrip/
+deactivate 
+ls
+uv init
+la
+cat .python-version 
+uv venv .venv
+source .venv/bin/activate
+mkdir pyrip tests
+trew
+touch pyrip/{}
+touch pyrip/__{init,main}__.py
+rm -fr pyrip/\{\} 
+tree
+vi
+which pyrip
+uv synv
+uv sync
+pyrip
+l
+cat LICENSE 
+c
+xdg-open https://github.com/0x9b42/paiRIP
+fg
+fcopy src/main.rs 
+fcopy main.c 
+vi main.
+vi main.c 
+gcc -O3 -march=native -std=c11 -Wall -Wextra main.c -o main
+time ./main
+q
+time ./main
+cd .local/bin/
+rm -fr rish*
+rm mobkageno 
+q
+vi main.
+vi main.c 
+gcc -O3 -march=native -std=c11 -Wall -Wextra main.c -o main
+time ./main
+time ./main
+cd .local/bin/
+rm -fr rish*
+rm mobkageno 
+cd coolrepos/
+cd RK_Pairip/
+tree
+rm -fr RK_Pairip/
+source ~/opt/r3/bin/activate
+pip liat
+pip list
+deactivate 
+apt update
+cd /system/etc/security/cacerts
+stat *
+ls | tclips
+apt install openssl-tool
+openssl x509 -in /sdcard/Download/ProxyPinKey.pem -inform PEM -subject_hash_old -noout
+openssl x509 -in /sdcard/Download/ProxyPinCA.crt -inform PEM -subject_hash_old -noout
+cd /sdcard/Download/
+cp ProxyPinCA.crt 243f0bfb.0
+pwd
+cd -
+cp 243f0bfb.0 /system/etc/security/cacerts/
+q
+cd storage/downloads/
+cp 243f0bfb.0 /system/etc/security/cacerts/
+sudo cp 243f0bfb.0 /system/etc/security/cacerts/
+su
+q
+cd coolrepos/pai
+ffg
+ff
+vi .quiz_cards/flashcards.json 
+mob day15
+cd notes
+markserv
+cd
+cd coolrepos/paiRIP/
+vi riptool.py 
+py riptool.py 
+py riptool.py app.apk
+py riptool.py path/to/app.apk
+cp ~/MT2/apks/Shimeji_7.7_apks.apk app.apk
+c
+py riptool.py app.apk 
+ls assets/
+cd assets/
+mv APKEditor.jar apkeditor.jar
+cd ..
+ls
+fg
+fg
+cd storage/downloads
+cd Wibuku/Summer_Pockets/
+ls
+ffmpeg -i Summer_Pockets\ Episode\ 8\ 360p.mp4 -ss 00:06:03 -to 00:07:01 mizuori.mp4
+ffmpeg -i Summer_Pockets\ Episode\ 8\ 360p.mp4 -ss 00:06:03 -to 00:07:01 -c:v copy mizuori.mp4
+q
+q
+mob downface
+cd notes
+marksetv
+mob downsyndrome
+markserv 
