@@ -1,7 +1,3 @@
----
-chore: refine markdown formatting for notes/premium.md
-
-Contents:
 # Metodologi Lengkap Aktivasi Fitur Premium & Bypass In-App Purchase di Aplikasi Android
 
 > CATATAN: Informasi ini hanya untuk security testing resmi, riset edukasi, dan analisis aplikasi yang Anda miliki sendiri atau yang Anda punya hak legal untuk menguji. Nge-bypass sistem pembayaran tanpa izin adalah ilegal dan melanggar ToS layanan. Gunakan hanya untuk tujuan yang etis dan legal.
@@ -183,7 +179,3 @@ Pahami teknik di atas agar dapat memperkuat pertahanan aplikasi:
 - Distribusi "APK crack": ilegal dan melanggar hak cipta.
 - Mengakses layanan tanpa membayar: melanggar ToS dan bisa dianggap pencurian layanan.
 - Selalu minta izin tertulis sebelum menguji aplikasi yang bukan milik Anda.
-
----
-
-End of file.
